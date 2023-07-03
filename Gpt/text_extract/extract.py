@@ -1,31 +1,28 @@
+import re
 import jsonlines
 
 def generate_jsonl(questions_file, answers_file, output_file):
-    with open(questions_file, 'r') as questions_f, open(answers_file, 'r') as answers_f, \
-            jsonlines.open(output_file, 'w') as jsonl_f:
-        questions = questions_f.read().strip().split('\n\n')
-        answers = answers_f.read().strip().split('\n\n')
+    with open(questions_file, 'r') as questions, open(answers_file, 'r') as answers, jsonlines.open(output_file, 'w') as jsonl_file:
+        prompts = questions.read().split('\n\n')  # 按空行分割问题
+        completions = answers.read().split('\n\n')  # 按空行分割答案
 
-        if len(questions) != len(answers):
-            raise ValueError("Number of questions and answers do not match.")
-
-        for question, answer in zip(questions, answers):
-            question_lines = question.strip().split('\n')
-            prompt = question_lines[0].split('. ', 1)[1]
-
-            answer_lines = answer.strip().split('\n')
-            completion = answer_lines[0].split('. ', 1)[1]
-
+        for prompt, completion in zip(prompts, completions):
+            prompt = remove_question_number(prompt)  # 删除问题中的题号
+            completion = remove_question_number(completion)  # 删除答案中的题号
             json_obj = {"prompt": prompt, "completion": completion}
-            jsonl_f.write(json_obj)
+            jsonl_file.write(json_obj)
 
-        print("JSONL file generated successfully.")
+def remove_question_number(text):
+    lines = text.strip().split('\n')
+    new_lines = []
+    for line in lines:
+        # 使用正则表达式删除题号
+        new_line = re.sub(r'^\d+\. ?', '', line)
+        new_lines.append(new_line)
+    return ' '.join(new_lines)
 
-
-# 指定输入文件的路径
 questions_file = "questions.txt"
 answers_file = "answers.txt"
 output_file = "file.jsonl"
 
-# 生成JSONL文件
 generate_jsonl(questions_file, answers_file, output_file)

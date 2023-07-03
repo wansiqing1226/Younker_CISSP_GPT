@@ -1,15 +1,6 @@
 1. D. The final step of a quantitative risk analysis is conducting a cost/benefit analysis to
 determine whether the organization should implement proposed countermeasure(s).
 
-2. The wireless attack terms match with their descriptions as follows:
-Rogue access point: B. An access point intended to attract new connections by using
-an apparently legitimate SSID.
-Replay: C. An attack that retransmits captured communication to attempt to gain
-access to a targeted system.
-Evil twin: A. An attack that relies on an access point to spoof a legitimate access
-point’s SSID and MAC address.
-War driving: D. The process of using detection tools to find wireless networks.
-
 3. C. The DMCA states that providers are not responsible for the transitory activities
 of their users. Transmission of information over a network would qualify for this
 exemption. The other activities listed are all nontransitory actions that require

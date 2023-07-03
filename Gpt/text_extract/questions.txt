@@ -4,18 +4,21 @@ B. Assess the annualized rate of occurrence.
 C. Derive the annualized loss expectancy.
 D. Conduct a cost/benefit analysis.
 
-2. Match the following numbered wireless attack terms with their appropriate lettered
-descriptions:
-Wireless attack terms
-Rogue access point
-Replay
-Evil twin
-War driving
-Descriptions
-A. An attack that relies on an access point to spoof a legitimate access point’s SSID and
-Mandatory Access Control (MAC) address
-B. An access point intended to attract new connections by using an apparently legitimate
-SSID
-C. An attack that retransmits captured communication to attempt to gain access to a
-targeted system
-D. The process of using detection tools to find wireless networks
+3. Under the Digital Millennium Copyright Act (DMCA), what type of offenses do not
+require prompt action by an internet service provider after it receives a notification of
+infringement claim from a copyright holder?
+A. Storage of information by a customer on a provider’s server
+B. Caching of information by the provider
+C. Transmission of information over the provider’s network by a customer
+D. Caching of information in a provider search engine
+
+4. FlyAway Travel has offices in both the European Union (EU) and the United States and
+transfers personal information between those offices regularly. They have recently received
+a request from an EU customer requesting that their account be terminated. Under the
+General Data Protection Regulation (GDPR), which requirement for processing personal
+information states that individuals may request that their data no longer be disseminated
+or processed?
+A. The right to access
+B. Privacy by design
+C. The right to be forgotten
+D. The right of data portability
