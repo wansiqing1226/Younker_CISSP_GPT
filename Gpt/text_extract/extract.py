@@ -1,56 +1,31 @@
-import re
 import jsonlines
 
-def extract_question_answer_pairs(questions_file, answers_file):
-    pairs = []
-    with open(questions_file, 'r') as q_file, open(answers_file, 'r') as a_file:
-        questions_data = q_file.read().strip()
-        answers_data = a_file.read().strip()
-
-        question_pattern = r'(?<=\n\n)(.+?)(?=\n\n|\Z)'  # Matches the content between two consecutive empty lines
-        answer_pattern = r'(?<=\n\n)(.+?)(?=\n\n|\Z)'  # Matches the content between two consecutive empty lines
-
-        questions = re.findall(question_pattern, questions_data, re.DOTALL)
-        answers = re.findall(answer_pattern, answers_data, re.DOTALL)
+def generate_jsonl(questions_file, answers_file, output_file):
+    with open(questions_file, 'r') as questions_f, open(answers_file, 'r') as answers_f, \
+            jsonlines.open(output_file, 'w') as jsonl_f:
+        questions = questions_f.read().strip().split('\n\n')
+        answers = answers_f.read().strip().split('\n\n')
 
         if len(questions) != len(answers):
-            raise ValueError("Number of questions and answers does not match.")
+            raise ValueError("Number of questions and answers do not match.")
 
         for question, answer in zip(questions, answers):
-            prompt = question.strip() + "\n"
-            completion = answer.strip()
-            pairs.append({'prompt': prompt, 'completion': completion})
+            question_lines = question.strip().split('\n')
+            prompt = question_lines[0].split('. ', 1)[1]
 
-    return pairs
+            answer_lines = answer.strip().split('\n')
+            completion = answer_lines[0].split('. ', 1)[1]
 
-def save_to_jsonl(data_list, output_path):
-    with jsonlines.open(output_path, mode='w') as writer:
-        for data in data_list:
-            writer.write(data)
+            json_obj = {"prompt": prompt, "completion": completion}
+            jsonl_f.write(json_obj)
 
-if __name__ == '__main__':
-    questions_file = 'questions.txt'
-    answers_file = 'answers.txt'
-    output_jsonl_path = 'file.jsonl'
+        print("JSONL file generated successfully.")
 
-    try:
-        pairs = extract_question_answer_pairs(questions_file, answers_file)
-        if len(pairs) == 0:
-            print("No question-answer pairs extracted.")
-        else:
-            save_to_jsonl(pairs, output_jsonl_path)
-            print("JSONL file generated successfully.")
 
-        # Print some extracted pairs for debugging
-        for pair in pairs[:5]:
-            print("Prompt:", pair['prompt'])
-            print("Completion:", pair['completion'])
-            print("---------------------------")
+# 指定输入文件的路径
+questions_file = "questions.txt"
+answers_file = "answers.txt"
+output_file = "file.jsonl"
 
-    except ValueError as ve:
-        print("ValueError:", str(ve))
-    except FileNotFoundError as fe:
-        print("FileNotFoundError:", str(fe))
-    except Exception as e:
-        print("An error occurred:")
-        print(str(e))
+# 生成JSONL文件
+generate_jsonl(questions_file, answers_file, output_file)

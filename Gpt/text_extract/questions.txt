@@ -1,0 +1,21 @@
+1. What is the final step of a quantitative risk analysis?
+A. Determine asset value.
+B. Assess the annualized rate of occurrence.
+C. Derive the annualized loss expectancy.
+D. Conduct a cost/benefit analysis.
+
+2. Match the following numbered wireless attack terms with their appropriate lettered
+descriptions:
+Wireless attack terms
+Rogue access point
+Replay
+Evil twin
+War driving
+Descriptions
+A. An attack that relies on an access point to spoof a legitimate access point’s SSID and
+Mandatory Access Control (MAC) address
+B. An access point intended to attract new connections by using an apparently legitimate
+SSID
+C. An attack that retransmits captured communication to attempt to gain access to a
+targeted system
+D. The process of using detection tools to find wireless networks
