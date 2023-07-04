@@ -21,7 +21,7 @@
 {"prompt": "3: Security Architecture and Engineering", "completion": "Understand the fundamental concepts of security models (e.g., Biba, Star Model, Bell-LaPadula)"}
 {"prompt": "3: Security Architecture and Engineering", "completion": "Select controls based upon systems security requirements"}
 {"prompt": "3: Security Architecture and Engineering", "completion": "Understand security capabilities of Information Systems (IS) (e.g., memory protection, Trusted Platform Module (TPM), encryption/decryption)"}
-{"prompt": "3: Security Architecture and Engineering", "completion": "Assess and mitigate the vulnerabilities of security architectures, designs, and solution\nelements"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Assess and mitigate the vulnerabilities of security architectures, designs, and solution, elements"}
 {"prompt": "3: Security Architecture and Engineering", "completion": "Select and determine cryptographic solutions"}
 {"prompt": "3: Security Architecture and Engineering", "completion": "Understand methods of cryptanalytic attacks"}
 {"prompt": "3: Security Architecture and Engineering", "completion": "Apply security principles to site and facility design"}
