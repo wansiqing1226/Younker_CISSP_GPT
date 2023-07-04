@@ -1,0 +1,62 @@
+{"prompt": "1: Security and Risk Management", "completion": "Understand, adhere to, and promote professional ethics"}
+{"prompt": "1: Security and Risk Management", "completion": "Understand and apply security concepts"}
+{"prompt": "1: Security and Risk Management", "completion": "Evaluate and apply security governance principles"}
+{"prompt": "1: Security and Risk Management", "completion": "Determine compliance and other requirements"}
+{"prompt": "1: Security and Risk Management", "completion": "Understand legal and regulatory issues that pertain to information security in a holistic context"}
+{"prompt": "1: Security and Risk Management", "completion": "Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)"}
+{"prompt": "1: Security and Risk Management", "completion": "Develop, document, and implement security policy, standards, procedures, and guidelines"}
+{"prompt": "1: Security and Risk Management", "completion": "Identify, analyze, and prioritize Business Continuity (BC) requirements"}
+{"prompt": "1: Security and Risk Management", "completion": "Contribute to and enforce personnel security policies and procedures"}
+{"prompt": "1: Security and Risk Management", "completion": "Understand and apply risk management concepts"}
+{"prompt": "1: Security and Risk Management", "completion": "Understand and apply threat modeling concepts and methodologies"}
+{"prompt": "1: Security and Risk Management", "completion": "Apply Supply Chain Risk Management (SCRM) concepts"}
+{"prompt": "1: Security and Risk Management", "completion": "Establish and maintain a security awareness, education, and training program"}
+{"prompt": "2: Asset Security", "completion": "Identify and classify information and assets"}
+{"prompt": "2: Asset Security", "completion": "Establish information and asset handling requirements"}
+{"prompt": "2: Asset Security", "completion": "Provision resources securely"}
+{"prompt": "2: Asset Security", "completion": "Manage data lifecycle"}
+{"prompt": "2: Asset Security", "completion": "Ensure appropriate asset retention (e.g., End-of-Life (EOL), End-of-Support (EOS))"}
+{"prompt": "2: Asset Security", "completion": "Determine data security controls and compliance requirements"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Research, implement and manage engineering processes using secure design principles"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Understand the fundamental concepts of security models (e.g., Biba, Star Model, Bell-LaPadula)"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Select controls based upon systems security requirements"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Understand security capabilities of Information Systems (IS) (e.g., memory protection, Trusted Platform Module (TPM), encryption/decryption)"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Assess and mitigate the vulnerabilities of security architectures, designs, and solution\nelements"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Select and determine cryptographic solutions"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Understand methods of cryptanalytic attacks"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Apply security principles to site and facility design"}
+{"prompt": "3: Security Architecture and Engineering", "completion": "Design site and facility security controls"}
+{"prompt": "4: Communication and Network Security", "completion": "Assess and implement secure design principles in network architectures"}
+{"prompt": "4: Communication and Network Security", "completion": "Secure network components"}
+{"prompt": "4: Communication and Network Security", "completion": "Implement secure communication channels according to design"}
+{"prompt": "5: Identity and Access Management (IAM)", "completion": "Control physical and logical access to assets"}
+{"prompt": "5: Identity and Access Management (IAM)", "completion": "Manage identification and authentication of people, devices, and services"}
+{"prompt": "5: Identity and Access Management (IAM)", "completion": "Federated identity with a third-party service"}
+{"prompt": "5: Identity and Access Management (IAM)", "completion": "Implement and manage authorization mechanisms"}
+{"prompt": "5: Identity and Access Management (IAM)", "completion": "Manage the identity and access provisioning lifecycle"}
+{"prompt": "5: Identity and Access Management (IAM)", "completion": "Implement authentication systems"}
+{"prompt": "6: Security Assessment and Testing", "completion": "Design and validate assessment, test, and audit strategies"}
+{"prompt": "6: Security Assessment and Testing", "completion": "Conduct security control testing"}
+{"prompt": "6: Security Assessment and Testing", "completion": "Collect security process data (e.g., technical and administrative)"}
+{"prompt": "6: Security Assessment and Testing", "completion": "Analyze test output and generate report"}
+{"prompt": "6: Security Assessment and Testing", "completion": "Conduct or facilitate security audits"}
+{"prompt": "7: Security Operations", "completion": "Understand and comply with investigations"}
+{"prompt": "7: Security Operations", "completion": "Conduct logging and monitoring activities"}
+{"prompt": "7: Security Operations", "completion": "Perform Configuration Management (CM) (e.g., provisioning, baselining, automation)"}
+{"prompt": "7: Security Operations", "completion": "Apply foundational security operations concepts"}
+{"prompt": "7: Security Operations", "completion": "Apply resource protection"}
+{"prompt": "7: Security Operations", "completion": "Conduct incident management"}
+{"prompt": "7: Security Operations", "completion": "Operate and maintain detective and preventative measures"}
+{"prompt": "7: Security Operations", "completion": "Implement and support patch and vulnerability management"}
+{"prompt": "7: Security Operations", "completion": "Understand and participate in change management processes"}
+{"prompt": "7: Security Operations", "completion": "Implement recovery strategies"}
+{"prompt": "7: Security Operations", "completion": "Implement Disaster Recovery (DR) processes"}
+{"prompt": "7: Security Operations", "completion": "Test Disaster Recovery Plans (DRP)"}
+{"prompt": "7: Security Operations", "completion": "Participate in Business Continuity (BC) planning and exercises"}
+{"prompt": "7: Security Operations", "completion": "Implement and manage physical security"}
+{"prompt": "7: Security Operations", "completion": "Address personnel safety and security concerns"}
+{"prompt": "8: Software Development Security", "completion": "Understand and integrate security in the Software Development Life Cycle (SDLC)"}
+{"prompt": "8: Software Development Security", "completion": "Identify and apply security controls in software development ecosystems"}
+{"prompt": "8: Software Development Security", "completion": "Assess the effectiveness of software security"}
+{"prompt": "8: Software Development Security", "completion": "Assess security impact of acquired software"}
+{"prompt": "8: Software Development Security", "completion": "Define and apply secure coding guidelines and standards"}
