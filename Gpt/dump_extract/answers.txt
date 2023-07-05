@@ -1,0 +1,333 @@
+37. C. TLS is a modern encryption method used to encrypt and protect data in transit.
+BitLocker is a full disk encryption technology used for data at rest. DES and SSL are both
+outdated encryption methods and should not be used for data that requires high levels of
+security.
+
+38. C. We know that the data classification will not be the top level classification of "Confidential"
+because the loss of the data would not cause severe damage. This means we have to choose
+between private (PHI) and sensitive (confidential). Calling this private due to the patient,s
+personal health information fits the classification scheme, giving us the correct answer.
+
+39. A. A data loss prevention (DLP) system or software is designed to identify labeled data
+or data that fits specific patterns and descriptions to help prevent it from leaving the
+organization. An IDS is designed to identify intrusions. Although some IDS systems can
+detect specific types of sensitive data using pattern matching, they have no ability to stop
+traffic. A firewall uses rules to control traffic routing, while UDP is a network protocol.
+
+40. A. When data is stored in a mixed classification environment, it is typically classified
+based on the highest classification of data included. In this case, the US government,s
+highest classification is Top Secret. Mixed classification is not a valid classification in this
+scheme.
+
+41. B. A nondisclosure agreement, or NDA, is a legal agreement that prevents employees
+from sharing proprietary data with their new employers. Purging is used on media,
+while classification is used on data. Encryption can help secure data, but it doesn,t stop
+employees who can decrypt or copy the data from sharing it.
+
+42. C. By default, BitLocker and Microsoft,s Encrypting File System (EFS) both use AES
+(Advanced Encryption Standard), which is the NIST-approved replacement for DES (Data
+Encryption Standard). Serpent was a competitor of AES, and 3DES was created as a
+possible replacement for DES.
+
+43. B. Group Policy provides the ability to monitor and apply settings in a security
+baseline. Manual checks by users and using startup scripts provide fewer reviews
+and may be prone to failure, while periodic review of the baseline won,t result in
+compliance being checked.
+
+44. B. A baseline is a set of security configurations that can be adopted and modified to fit
+an organization,s security needs. A security policy is written to describe an organization,s
+approach to security, while DSS is the second half of the Payment Card Industry Data
+Security Standard. The NIST SP-800 series of documents address computer security in a
+variety of areas.
+
+45. C. Record retention policies describe how long an organization should retain data and
+may also specify how and when destruction should occur. Classification policies describe
+how and why classification should occur and who is responsible, while availability and
+audit policies may be created for specific purposes.
+
+46. A. The POODLE (or Padding Oracle On Downgraded Legacy Encryption) attack helped
+force the move from SSL 3.0 to TLS because it allowed attackers to easily access SSL
+encrypted messages. Stuxnet was a worm aimed at the Iranian nuclear program, while
+CRIME and BEAST were earlier attacks against SSL.
+
+47. D. Using strong encryption, like AES-256, can help ensure that loss of removable media
+like tapes doesn,t result in a data breach. Security labels may help with handling processes,
+but they won,t help once the media is stolen or lost. Having multiple copies will ensure that
+you can still access the data but won,t increase the security of the media. Finally, using hard
+drives instead of tape only changes the media type and not the risk from theft or loss.
+
+48. D. Electronic signatures, as used in this rule, prove that the signature was provided by the
+intended signer. Electronic signatures as part of the FDA code are intended to ensure that
+electronic records are "trustworthy, reliable, and generally equivalent to paper records and
+handwritten signatures executed on paper." Signatures cannot provide confidentiality or
+integrity and don,t ensure that someone has reviewed the data.
+
+49. D. Secure Shell (SSH) is an encrypted protocol for remote login and command-line
+access. SCP and SFTP are both secure file transfer protocols, while WDS is the acronym
+for Windows Deployment Services, which provides remote installation capabilities for
+Windows operating systems.
+
+50. B. Degaussing uses strong magnetic fields to erase magnetic media. Magwipe is a made-up
+term. Sanitization is a combination of processes used to remove data from a system or
+media to ensure that it cannot be recovered. Purging is a form of clearing used on media
+that will be reused in a lower classification or lower-security environment.
+
+51. B. Nondisclosure agreements (NDAs) are used to enforce confidentiality agreements with
+employees and may remain in effect even after an employee leaves the organization. Other
+controls, such as sanitization, clearing, and encryption, would not be effective against
+information in an employee,s memory.
+
+52. C. Data labels are crucial to identify the classification level of information contained on the
+media. Digital rights management (DRM) tools provide ways to control how data is used,
+while encrypting it can help maintain the confidentiality and integrity of the data. Classifying
+the data is necessary to label it, but it doesn,t automatically place a label on the data.
+
+53. D. The NIST SP 800-88 process for sanitization and disposition shows that media that
+will be reused and was classified at a moderate level should be purged and then that purge
+should be validated. Finally, it should be documented.
+
+54. D. Data in transit is data that is traversing a network or is otherwise in motion. TLS,
+VPNs, and IPsec tunnels are all techniques used to protect data in transit. AES, Serpent,
+and IDEA are all symmetric algorithms, while Telnet, ISDN, and UDP are all protocols.
+BitLocker and FileVault are both used to encrypt data, but they protect only stored data,
+not data in transit.
+
+55. C. The data owner has ultimate responsibility for data belonging to an organization and is
+typically the CEO, president, or another senior employee. Business and mission owners typically
+own processes or programs. System owners own a system that processes sensitive data.
+
+56. D. The US Department of Commerce oversees Privacy Shield. Only US organizations
+subject to the jurisdiction of the Federal Trade Commission (FTC) or US air carriers and
+ticket agents subject to the jurisdiction of the Department of Transportation (DOT) are
+permitted to participate in Safe Harbor.
+
+57. A. Chris is most likely to be responsible for classifying the data that he owns as well
+as assisting with or advising the system owners on security requirements and control
+selection. In an organization with multiple data owners, Chris is unlikely to set criteria
+for classifying data on his own. As a data owner, Chris will also not typically have direct
+responsibility for scoping, tailoring, applying, or enforcing those controls.
+
+58. B. The system administrators are acting in the roles of data administrators who grant
+access and will also act as custodians who are tasked with the day-to-day application of
+security controls. They are not acting as data owners who own the data itself. Typically,
+system administrators are delegated authority by system owners, such as a department
+head, and of course they are tasked with providing access to users.
+
+59. C. Third-party organizations that process personal data on behalf of a data controller are
+known as data processors. The organization that they are contracting with would act in
+the role of the business or mission owners, and others within Chris,s organization would
+have the role of data administrators, granting access as needed to the data based on their
+operational procedures and data classification.
+
+60. B. The GDPR does include requirements that data be processed fairly, maintained
+securely, and maintained accurately. It does not include a requirement that information
+be deleted within one year, although it does specify that information should not be kept
+longer than necessary.
+
+61. D. Under EU regulations, both the organization sharing data and the third-party data
+processor bear responsibility for maintaining the privacy and security of personal information.
+
+62. D. The U.S. government specifies Secret as the classification level for information that,
+if disclosed, could cause serious harm to national security. Top Secret is reserved for
+information that could cause exceptionally grave harm, while confidential data could be
+expected to cause less harm. Unclassified is not an actual classification but only indicates
+that the data may be released to unclassified individuals. Organizations may still restrict
+access to unclassified information.
+
+63. A. Sanitization is the combination of processes used to remove data from a system or
+media. When a PC is disposed of, sanitization includes the removal or destruction of
+drives, media, and any other storage devices it may have. Purging, destruction, and
+declassification are all other handling methods.
+
+64. D. Bcrypt is based on Blowfish (the b is a key hint here). AES and 3DES are both
+replacements for DES, while Diffie-Hellman is a protocol for key exchange.
+
+65. B. Requiring all media to have a label means that when unlabeled media is found, it should
+immediately be considered suspicious. This helps to prevent mistakes that might leave
+sensitive data unlabeled. Prelabeled media is not necessarily cheaper (nor may it make sense
+to buy!), while reusing public media simply means that it must be classified based on the
+data it now contains. HIPAA does not have specific media labeling requirements.
+
+66. B. Data in use is data that is in a temporary storage location while an application or
+process is using it. Thus, data in memory is best described as data in use or ephemeral
+data. Data at rest is in storage, while data in transit is traveling over a network or other
+channel. Data at large is a made-up term.
+
+67. C. Validation processes are conducted to ensure that the sanitization process was
+completed, avoiding data remanence. A form like this one helps to ensure that each device
+has been checked and that it was properly wiped, purged, or sanitized. This can allow
+reuse, does not prevent destruction, and does not help with attribution, which is a concept
+used with encryption to prove who created or sent a file.
+
+68. C. Ensuring that data cannot be recovered is difficult, and the time and effort required to
+securely and completely wipe media as part of declassification can exceed the cost of new media.
+Sanitization, purging, and clearing may be part of declassification, but they are not reasons
+that it is not frequently chosen as an option for organizations with data security concerns.
+
+69. D. Destruction is the final stage in the lifecycle of media and can be done via
+disintegration, incineration, or a variety of other methods that result in the media and
+data being nonrecoverable. Sanitization is a combination of processes used when data
+is being removed from a system or media. Purging is an intense form of clearing, and
+degaussing uses strong magnetic fields to wipe data from magnetic media.
+
+70. D. The GDPR does include the need to collect information for specified, explicit, and
+legitimate purposes; the need to ensure that collection is limited to the information
+necessary to achieve the stated purpose; and the need to protect data against accidental
+destruction. It does not include a specific requirement to encrypt information at rest.
+
+71. D. Visual indicators like a distinctive screen background can help employees remember
+what level of classification they are dealing with and thus the handling requirements that
+they are expected to follow.
+
+72. C. If an organization allows media to be downgraded, the purging process should be
+followed, and then the media should be relabeled. Degaussing may be used for magnetic
+media but won,t handle all types of media. Pulverizing would destroy the media,
+preventing reuse, while relabeling first could lead to mistakes that result in media that
+hasn,t been purged entering use.
+
+73. B. The data owner sets the rules for use and protection of data. The remaining options all
+describe tasks for the system owner, including implementation of security controls.
+
+74. B. In the NIST SP 800-60 diagram, the process determines appropriate categorization
+levels resulting in security categorization and then uses that as an input to determine
+controls. Standard selection would occur at an organizational level, while baselining
+occurs when systems are configured to meet a baseline. Sanitization would require the
+intentional removal of data from machines or media.
+
+75. C. A and E can both be expected to have data at rest. C, the Internet, is an unknown,
+and the data can,t be guaranteed to be at rest. B, D, and F are all data in transit across
+network links.
+
+76. C. B, D, and F all show network links. Of the answers provided, Transport Layer
+Security (TLS) provides the best security for data in motion. AES-256 and 3DES are both
+symmetric ciphers and are more likely to be used for data at rest. SSL has been replaced
+with TLS and should not be a preferred solution.
+
+77. B. Sending a file that is encrypted before it leaves means that exposure of the file in transit
+will not result in a confidentiality breach and the file will remain secure until decrypted
+at location E. Since answers A, C, and D do not provide any information about what
+happens at point C, they should be considered insecure, as the file may be at rest at point
+C in an unencrypted form.
+
+78. C. Encrypting and labeling sensitive email will ensure that it remains confidential and
+can be identified. Performing these actions only on sensitive email will reduce the cost
+and effort of encrypting all email, allowing only sensitive email to be the focus of the
+organization,s efforts. Only encrypting highly sensitive email not only skips labeling but
+might expose other classifications of email that shouldn,t be exposed.
+
+79. D. Scoping is performed when you match baseline controls to the IT system you,re
+working to secure. Creation of standards is part of the configuration process and may
+involve the use of baselines. Baselining can mean the process of creating a security baseline
+or configuring systems to meet the baseline. CIS, the Center for Internet Security, provides
+a variety of security baselines.
+
+80. C. Systems used to process data are data processors. Data owners are typically CEOs or
+other very senior staff, custodians are granted rights to perform day-to-day tasks when
+handling data, and mission owners are typically program or information system owners.
+
+81. D. Personally identifiable information includes any information that can uniquely identify
+an individual. This would include name, Social Security number, and any other unique
+identifier (including a student ID number). ZIP code, by itself, does not uniquely identify
+an individual.
+
+82. B. Protected health information, or PHI, includes a variety of data in multiple formats,
+including oral and recorded data, such as that created or received by healthcare providers,
+employers, and life insurance providers. PHI must be protected by HIPAA. PII is
+personally identifiable information. SHI and HPHI are both made-up acronyms.
+
+83. C. AES is a strong symmetric cipher that is appropriate for use with data at rest. SHA1 is
+a cryptographic hash, while TLS is appropriate for data in motion. DES is an outdated and
+insecure symmetric encryption method.
+
+84. D. The principle of data portability says that the data subject has the right to receive
+personal information and to transfer that information to another data controller. The
+principle of data integrity states that data should be reliable and that information should
+not be used for purposes other than those that users are made aware of by notice and that
+they have accepted through choice. Enforcement is aimed at ensuring that compliance with
+principles is assured. Onward transfer limits transfers to other organizations that comply
+with the principles of notice and choice.
+
+85. C. Due to problems with remnant data, the US National Security Agency requires
+physical destruction of SSDs. This process, known as disintegration, results in very small
+fragments via a shredding process. Zero fill wipes a drive by replacing data with zeros,
+degaussing uses magnets to wipe magnetic media, and clearing is the process of preparing
+media for reuse.
+
+86. A. The data owner bears responsibility for categorizing information systems and delegates
+selection of controls to system owners, while custodians implement the controls. Users
+don,t perform any of these actions, while business owners are tasked with ensuring that
+systems are fulfilling their business purpose.
+
+87. B. PCI DSS provides a set of required security controls and standards. Step 2 would be
+guided by the requirements of PCI DSS. PCI DSS will not greatly influence step 1 because
+all of the systems handle credit card information, making PCI DSS apply to all systems
+covered. Steps 3 and 4 will be conducted after PCI DSS has guided the decisions in step 2.
+
+88. C. Custodians are tasked with the day-to-day monitoring of the integrity and security of
+data. Step 5 requires monitoring, which is a custodial task. A data owner may grant rights
+to custodians but will not be responsible for conducting monitoring. Data processors
+process data on behalf of the data controller, and a user simply uses the data via a
+computing system.
+
+89. B. Susan,s organization is limiting its risk by sending drives that have been sanitized
+before they are destroyed. This limits the possibility of a data breach if drives are
+mishandled by the third party, allowing them to be stolen, resold, or simply copied. The
+destruction of the drives will handle any issues with data remanence, while classification
+mistakes are not important if the drives have been destroyed. Data permanence and the
+life span of the data are not important on a destroyed drive.
+
+90. C. A digital watermark is used to identify the owner of a file or to otherwise label it. A
+copyright notice provides information about the copyright asserted on the file, while data
+loss prevention (DLP) is a solution designed to prevent data loss. Steganography is the
+science of hiding information, often in images or files.
+
+91. D. Record retention is the process of retaining and maintaining information for as
+long as it is needed. A data storage policy describes how and why data is stored, while
+data storage is the process of actually keeping the data. Asset maintenance is a noninformation-security-related process for maintaining physical assets.
+
+92. C. The cost of the data is not directly included in the classification process. Instead, the
+impact to the organization if the data were exposed or breached is considered. Who can
+access the data and what regulatory or compliance requirements cover the data are also
+important considerations.
+
+93. B. Symmetric encryption like AES is typically used for data at rest. Asymmetric
+encryption is often used during transactions or communications when the ability to have
+public and private keys is necessary. DES is an outdated encryption standard, and OTP is
+the acronym for onetime password.
+
+94. D. Administrators have the rights to assign permissions to access and handle data.
+Custodians are trusted with day-to-day data handling tasks. Business owners are typically
+system or project owners, and data processors are systems used to process data.
+
+95. B. The California Online Privacy Protection Act (COPPA) requires that operators of
+commercial websites and services post a prominently displayed privacy policy if they
+collect personal information on California residents.
+The Personal Information Protection and Electronic Documents Act is a Canadian privacy law, while California Civil Code 1798.82 is part of the set of California codes that
+requires breach notification. The California Online Web Privacy Act does not exist.
+
+96. A. Tapes are frequently exposed due to theft or loss in transit. That means that tapes that
+are leaving their normal storage facility should be handled according to the organization,s
+classification schemes and handling requirements. Purging the tapes would cause the loss
+of data, while increasing the classification level of the tapes. The tapes should be encrypted
+rather than decrypted.
+
+97. A. The correct answer is the tape that is being shipped to a storage facility. You might
+think that the tape in shipment is "in motion," but the key concept is that the data is
+not being accessed and is instead in storage. Data in a TCP packet, in an e-commerce
+transaction, or in local RAM is in motion and is actively being used.
+
+98. D. When the value of data changes due to legal, compliance, or business reasons,
+reviewing classifications and reclassifying the data is an appropriate response. Once the
+review is complete, data can be reclassified and handled according to its classification
+level. Simply relabeling the data avoids the classification process and may not result in the
+data being handled appropriately. Similarly, selecting a new baseline or simply encrypting
+the data may not handle all of the needs that the changes affecting the data create.
+
+99. C. PGP, or Pretty Good Privacy (or its open-source alternative, GPG) provide strong encryption of files, which can then be sent via email. Email traverses multiple servers and will be unencrypted at rest at multiple points along its path as it is stored and forwarded to its destination.
+
+100. A. While many nongovernment organizations create their own classification schemes, a
+common model with levels that align with the US government,s classification labels is shown
+here. In the given options, B and D do not match the US government,s Top Secret, Secret,
+Confidential scheme, and C incorrectly matches business proprietary data with confidential
+data as well as Top Secret data with business sensitive data. Business internal is often another
+term for business sensitive, meaning that it is used to match two classifications!
