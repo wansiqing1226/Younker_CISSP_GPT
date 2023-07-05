@@ -60,7 +60,7 @@
 {"prompt": "8: Software Development Security", "completion": "Assess the effectiveness of software security"}
 {"prompt": "8: Software Development Security", "completion": "Assess security impact of acquired software"}
 {"prompt": "8: Software Development Security", "completion": "Define and apply secure coding guidelines and standards"}
-{"prompt": "Understand, adhere to, and promote professional ethics", "completion": "(ISC)\u00b2 Code of Professional Ethics, Organizational code of ethics"}
+{"prompt": "Understand, adhere to, and promote professional ethics", "completion": "(ISC)² Code of Professional Ethics, Organizational code of ethics"}
 {"prompt": "Understand and apply security concepts", "completion": "Confidentiality, integrity, and availability, authenticity and nonrepudiation"}
 {"prompt": "Evaluate and apply security governance principles", "completion": "Alignment of the security function to business strategy, goals, mission, and objectives, Organizational processes (e.g., acquisitions, divestitures, governance committees), Organizational roles and responsibilities, Security control frameworks, Due care/due diligence"}
 {"prompt": "Determine compliance and other requirements", "completion": "Contractual, legal, industry standards, and regulatory requirements, Privacy requirements"}
