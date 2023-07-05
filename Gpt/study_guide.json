@@ -1,4 +1,3 @@
-//Source:https://github.com/so87/CISSP-Study-Guide/tree/master
 {"prompt": "Confidentiality", "completion": "Making sure the right people can access the material. Data must be classified so the administrators knows exactly who should have access. Users must Identify themselves, authenticate, and then be given authorization before having access. Contents must be encrypted or restricted for users who don't do the above."}
 {"prompt": "Confidentiality", "completion": "End to End symetric encryption holds confidentiality because only users with a key can see the data. File permissions only allow authorized users to view the contents"}
 {"prompt": "Integrity", "completion": "Protected from changes"}
@@ -173,10 +172,143 @@
 {"prompt": "RADIUS", "completion": "provides client/server authentication and audits remote users."}
 {"prompt": "TACACS", "completion": "basically same as RADIUS but uses TCP. Seems more secure than RADIUS."}
 {"prompt": "Biometrics", "completion": "a way to authenticate a user. won't match perfectly all the time, so if more restrict will have more false positives."}
-{"prompt": "", "completion": ""}
-{"prompt": "", "completion": ""}
-{"prompt": "", "completion": ""}
-{"prompt": "", "completion": ""}
-{"prompt": "", "completion": ""}
-{"prompt": "", "completion": ""}
-{"prompt": "", "completion": ""}
+{"prompt": "War Dialing", "completion": "technique to automatically scan a list of telephone numbers"}
+{"prompt": "Pentesting Methodology", "completion": "a systematic approach for testing the security of a system or network"}
+{"prompt": "Planning", "completion": "the process of defining objectives and determining the methods and resources needed to achieve those objectives"}
+{"prompt": "Reconnaissance", "completion": "the preliminary phase of gathering information about a target system or network"}
+{"prompt": "Scanning(enumeration)", "completion": "the process of actively probing a target system or network to identify open ports, services, and potential vulnerabilities"}
+{"prompt": "Vulnerability Assessment", "completion": "the process of identifying and assessing vulnerabilities in a system or network"}
+{"prompt": "Exploitation", "completion": "the act of taking advantage of identified vulnerabilities to gain unauthorized access or control over a system or network"}
+{"prompt": "Reporting", "completion": "the documentation and communication of findings, vulnerabilities, and recommendations resulting from a security assessment"}
+{"prompt": "Unit Testing", "completion": "low level, functions, procedures, or objects"}
+{"prompt": "Installation Testing", "completion": "seeing if it installs and can run"}
+{"prompt": "Integration Testing", "completion": "multiple components together. say there is unit test for head lights and one for turn signal. integration test would be making sure they both work at same time"}
+{"prompt": "Regression Testing", "completion": "testing updates, modifications, or patches"}
+{"prompt": "Acceptance Testing", "completion": "ensuring it meets standards and requirements"}
+{"prompt": "Fuzzing", "completion": "black-box testing that submits random, malformed data to see if it will crash"}
+{"prompt": "Dynamic Analysis", "completion": "giving program inputs to test all paths for bugs, weaknesses, vulnerabilities, etc"}
+{"prompt": "Static Analysis", "completion": "analyzing the source for for bugs, weaknesses, vulnerabilities, style, etc"}
+{"prompt": "Risk", "completion": "Threat X Vulnerability"}
+{"prompt": "Internal", "completion": "usually done by checking logs, scanning internal network with vulnerability scanner, checking camera coverage, etc"}
+{"prompt": "External", "completion": "analyzing firewall rules, IDS/IPS, endpoint protection, fences, gates, etc"}
+{"prompt": "Third-party", "completion": "paying another organization to test your security for you"}
+{"prompt": "Vulnerability assessment", "completion": "describes a ton of weaknesses in the system. Doesn't exploit anything"}
+{"prompt": "Penetration testing", "completion": "chaining together weaknesses to see what is possible. Puts themselves in place of attackers to see what they could do"}
+{"prompt": "Log reviews", "completion": "manually reviewing logs or setting up log analysis tool/filter i.e. splunk"}
+{"prompt": "Synthetic transactions", "completion": "building scripts to simulate normal activities. This is to capture a baseline and simulate traffic"}
+{"prompt": "Code review and testing", "completion": "manual review, static analysis, and dynamic analysis. All three should be used"}
+{"prompt": "Misuse case testing", "completion": "writing security tests. Could write a security test to ensure the server redirects you, or that all password hashes used are strong"}
+{"prompt": "Test coverage analysis", "completion": "sees how much code you are testing or covering with dynamic analysis"}
+{"prompt": "Interface testing", "completion": "testing functionality of interface. Ensuring the user can't see any weird files, error messages, or anything unnecessary."}
+{"prompt": "Account management", "completion": "user accounts should be monitored, permissions checked, and passwords automatically changed"}
+{"prompt": "Management review and approval", "completion": "weaknesses and risk should always be taken to management before acting. Determine the best plan forward and how much risk they want to accept."}
+{"prompt": "Key performance and risk indicators", "completion": "measures used to assess performance and risk"}
+{"prompt": "Backup verification data", "completion": "information used to verify and manage should be backed up"}
+{"prompt": "Training and awareness", "completion": "everyone should have to take frequent awareness training and their training should be tracked"}
+{"prompt": "Disaster Recovery (DR) and Business Continuity (BC)", "completion": "there should be plans in place for what to do when bad things happen. Is a Hot site, cold site needed? Should everything be completely redundant?"}
+{"prompt": "Analyze test output and generate report", "completion": "reviewing test results and generating a comprehensive report"}
+{"prompt": "Policies and Procedures", "completion": "establishing and documenting rules and guidelines to ensure security and compliance"}
+{"prompt": "Security Personnel Training", "completion": "providing training and education to security personnel to enhance their knowledge and skills"}
+{"prompt": "Change Management", "completion": "implementing a structured process for managing and controlling changes in the IT environment"}
+{"prompt": "Architectural Reviews", "completion": "evaluating and assessing the security of system architectures and recommending improvements"}
+{"prompt": "Vulnerability Reports", "completion": "documenting identified vulnerabilities in a report format for further analysis and remediation"}
+{"prompt": "Metrics reports on security", "completion": "compiling and analyzing security-related metrics to assess the effectiveness of security measures"}
+{"prompt": "Metrics reports on IT and remediation", "completion": "collecting and analyzing metrics related to IT operations and remediation efforts"}
+{"prompt": "Pentest Reports", "completion": "documenting the findings and results of penetration testing activities in a comprehensive report"}
+{"prompt": "Conduct or facilitate security audits", "completion": "performing or assisting in security audits to assess the effectiveness of security controls and identify vulnerabilities"}
+{"prompt": "Internal", "completion": "conducting security audits internally within the organization to evaluate the security posture and identify areas for improvement"}
+{"prompt": "External", "completion": "performing security audits externally by independent professionals or teams to evaluate the organization's security from an outside perspective"}
+{"prompt": "Third-party", "completion": "engaging third-party organizations or auditors to conduct security audits and provide an impartial assessment of the organization's security measures"}
+{"prompt": "Understand and support investigations, Evidence collection, and handling", "completion": "Reporting and documentation. Investigative techniques. Digital forensics tools, tactics, and procedures"}
+{"prompt": "Understand requirements for investigation types", "completion": "Administrative. Criminal. Civil. Regulatory. Industry standards"}
+{"prompt": "Intrusion detection and prevention", "completion": "detections looks for actions and reports, while prevention takes action. There are network based and host based."}
+{"prompt": "Security Information and Event Management (SIEM)", "completion": "Security Information and Event Management. Most should provide traffic analysis, analyze logs, scan the network with a vulnerability scanner, and report actions/info via email, phone, etc."}
+{"prompt": "Continuous monitoring", "completion": "this is a strategy. NIST 800-137 provides a plan for implimenting continuous monitoring that provides visibility of assets, awarness of threats/vulns, and security controls deployed."}
+{"prompt": "Egress monitoring", "completion": "monitoring traffic leaving your network"}
+{"prompt": "Asset inventory", "completion": "tracking: hardware, software, programs installed"}
+{"prompt": "Asset management", "completion": "updating software, replacing hardware, adding functionality, removing functionality, tracking their location"}
+{"prompt": "Configuration management", "completion": "process of establishing and maintaining consistent baselines of all of the systems. get baselines of everything"}
+{"prompt": "Need-to-know/least privileges", "completion": "A user should have a need to know to access particular resources, and least privilege should be implemented to ensure she only accesses the resources she has a need to know."}
+{"prompt": "Separation of duties and responsibilities", "completion": "Separation of duties is put into place to ensure that one entity cannot carry out a critical task alone."}
+{"prompt": "Privileged account management", "completion": "privilege kreep tends to happen over time. need to ensure there is great justification always to have administrative privileges. administrative actions are logged."}
+{"prompt": "Job rotation", "completion": "Rotation of duties enables a company to have more than one person trained in a position and can uncover fraudulent activities"}
+{"prompt": "Information lifecycle", "completion": "flow of information. overtime information becomes less useful and less sensitive. if someone stole your credit card info for your current one it would be bad, but one you had 15 years ago wouldn't really matter that much."}
+{"prompt": "Service Level Agreements (SLA)", "completion": "helps decide what type of availability technology is appropriate."}
+{"prompt": "Apply resource protection techniques", "completion": "implementing measures to safeguard resources and assets from damage or theft. This includes applying deterrents, monitoring systems, and protective measures such as GPS tracking, bag inspections, and scanners."}
+{"prompt": "Media management", "completion": "managing and controlling the usage, storage, and distribution of media (e.g., CDs, DVDs, USB drives) to prevent unauthorized access or leakage of sensitive information."}
+{"prompt": "Hardware and software asset management", "completion": "maintaining an inventory and tracking system for hardware and software assets within an organization, including acquisition, deployment, usage, and disposal to ensure proper control and security."}
+{"prompt": "Detection", "completion": "The most important step is to realize that there is a problem. It requires having a machine analyzing the network for potential threats, as well as a person to filter out false positives."}
+{"prompt": "Response", "completion": "After detecting an incident, it is crucial to determine an appropriate response. This involves analyzing all available information before making a decision on how to proceed."}
+{"prompt": "Mitigation", "completion": "Once an incident is identified, it is important to contain it and act swiftly to reduce further damage and keep the situation under control."}
+{"prompt": "Reporting", "completion": "After an incident, it is essential to provide a comprehensive report that includes a summary of the incident, indicators, related incidents, actions taken, chain of custody, impact assessment, identity, and next steps to be taken."}
+{"prompt": "Recovery", "completion": "The recovery process involves restoring the affected asset to a known good state, ensuring that all traces of the incident have been eliminated and the system is fully functional again."}
+{"prompt": "Remediation", "completion": "To prevent a similar attack or failure in the future, remediation measures need to be taken. This includes patching any vulnerabilities, addressing root causes, and implementing safeguards to mitigate future risks."}
+{"prompt": "Lessons learned", "completion": "It is important to conduct a thorough analysis of what happened during the incident, identify key lessons learned, evaluate any mistakes made, identify what was handled well, and determine how to improve processes and plans for future incidents."}
+{"prompt": "Firewalls", "completion": "Firewalls ensure that the right type of traffic is allowed in and out of a network by implementing access control policies."}
+{"prompt": "Packet filtering", "completion": "Packet filtering involves accepting or dropping packets based on criteria such as IP addresses, packet types, ports, etc., without routing them."}
+{"prompt": "Circuit-level gateways", "completion": "Circuit-level gateways monitor the TCP handshake to determine if a session is legitimate but do not inspect the actual packet contents."}
+{"prompt": "Stateful", "completion": "Stateful firewalls examine each packet and track different sessions, allowing or denying traffic based on the state of the connection."},
+{"prompt": "Application-level", "completion": "Application-level firewalls act as proxies, inspecting packet contents and determining if clients are trusted, which can impact performance."},
+{"prompt": "Next-gen", "completion": "Next-gen firewalls combine features such as packet inspection, stateful inspection, and deep packet inspection to provide advanced security capabilities."},
+{"prompt": "Intrusion detection and prevention systems", "completion": "Intrusion detection and prevention systems (IDS/IPS) need to be properly configured to detect real events and ensure that the actions taken by IPS do not negatively impact business operations due to excessive false positives."},
+{"prompt": "Whitelisting/blacklisting", "completion": "Whitelisting allows certain applications or entities, while blacklisting blocks or denies access to specific applications or entities."},
+{"prompt": "Third-party provided security services", "completion": "Third-party provided security services include penetration testing, monitoring, storage, physical security, and contracting to implement security controls."},
+{"prompt": "Sandboxing", "completion": "Sandboxing involves running potentially malicious programs or code in a controlled environment to prevent them from affecting systems or elevating privileges if compromised."},
+{"prompt": "Honeypots/honeynets", "completion": "Honeypots and honeynets are designed to attract attackers and provide a decoy target, allowing network administrators to observe and analyze their activities."},
+{"prompt": "Anti-malware", "completion": "Anti-malware solutions, such as antivirus software or network monitoring SIEMs, can detect and block malicious traffic or software to protect systems and networks from malware threats."}
+{"prompt": "Implement and support patch and vulnerability management", "completion": "Implementing and supporting patch and vulnerability management involves ensuring that systems and software are regularly patched and updated to address known vulnerabilities. Additionally, there should be a plan in place to prioritize and apply immediate patches in case of zero-day vulnerabilities."}
+{"prompt": "Regular patching", "completion": "All systems and software should be patched regularly, either on a daily or weekly basis, to mitigate known vulnerabilities and maintain a secure environment."}
+{"prompt": "Zero-day patching", "completion": "In the event of a zero-day vulnerability being discovered, there should be a plan in place for immediate patching to minimize the risk of exploitation before a vendor-supplied patch becomes available."}
+{"prompt": "Prioritizing vulnerabilities", "completion": "When managing vulnerabilities, it is important to prioritize and address the most concerning vulnerabilities first. This involves assessing the potential impact and exploitability of each vulnerability and focusing on those that pose the greatest risk to the organization."},
+{"prompt": "Patch analysis", "completion": "When considering patches and solutions, it is crucial to evaluate the coverage and effectiveness of each patch in addressing multiple vulnerabilities or security issues. This helps optimize patch management efforts and maximize the impact of applied patches."},
+{"prompt": "Network segmentation", "completion": "Implementing good network segmentation helps to minimize the potential lateral movement of attackers within the network. By isolating different departments or sensitive systems, such as the finance department and software department, it becomes more challenging for an attacker to pivot between them in the event of a compromise."}
+{"prompt": "Understanding and participating in change management processes", "completion": "Understanding and participating in change management processes involves actively engaging in the following steps to ensure controlled and secure changes within an organization."},
+{"prompt": "Identifying a change", "completion": "Identifying a change refers to recognizing the need for a modification or update to a system, process, or configuration."},
+{"prompt": "Proposing a change", "completion": "Proposing a change involves documenting and submitting a formal request for the proposed modification, outlining the rationale and expected benefits."},
+{"prompt": "Assessing the risk associated with the change", "completion": "Assessing the risk associated with the change requires evaluating the potential impact on security, stability, and other relevant factors."},
+{"prompt": "Testing the change", "completion": "Testing the change involves verifying the proposed modification in a controlled environment to ensure its functionality and compatibility."},
+{"prompt": "Scheduling the change", "completion": "Scheduling the change entails determining an appropriate time and coordinating resources for implementing the modification."},
+{"prompt": "Notifying impacted parties of the change", "completion": "Notifying impacted parties of the change involves communicating the upcoming modification to relevant stakeholders, ensuring awareness and potential adjustment of their workflows or systems."},
+{"prompt": "Implementing the change", "completion": "Implementing the change requires executing the approved modification and monitoring its progress to ensure successful deployment."},
+{"prompt": "Reporting results of the change implementation", "completion": "Reporting results of the change implementation involves documenting the outcome, including any issues encountered, lessons learned, and overall effectiveness of the change."},
+{"prompt": "Closeout interview and security measures for personnel", "completion": "When a person is leaving the organization, conducting a closeout interview can help gather feedback, ensure proper handover of responsibilities, and collect signed documents such as non-disclosure agreements (NDAs). Additionally, security measures such as providing a security escort out of the building, disabling the person's account, and changing passwords are implemented to protect sensitive information and maintain security."}
+{"prompt": "Implement recovery strategies", "completion": "Implementing recovery strategies involves considering the following aspects to ensure effective and efficient recovery in the event of a disaster or system failure:"},
+{"prompt": "Backup storage strategies", "completion": "Backup storage strategies include determining the frequency of full and incremental backups, defining retention periods for backups, and estimating the time required for restoration."},
+{"prompt": "Recovery site strategies", "completion": "Recovery site strategies involve evaluating the options of hot, warm, and cold sites based on the organization's needs and budget considerations."},
+{"prompt": "Multiple processing sites", "completion": "Implementing multiple processing sites provides redundancy and ensures continuity of operations in the event of a failure at one site."},
+{"prompt": "System resilience, high availability, Quality of Service (QoS), and fault tolerance", "completion": "Considering system resilience, high availability, Quality of Service (QoS), and fault tolerance helps design and implement robust systems that can withstand failures and provide uninterrupted services."},
+{"prompt": "Implement Disaster Recovery (DR) processes", "completion": "Implementing Disaster Recovery (DR) processes involves establishing procedures and protocols to guide the organization's response and recovery efforts in case of a disaster."},
+{"prompt": "Response", "completion": "Having a fast and effective response plan ensures timely analysis and assessment of the issue to initiate appropriate recovery measures."},
+{"prompt": "Personnel", "completion": "Assigning trained personnel and alerting the appropriate individuals during a recovery situation is crucial for executing the recovery plan effectively."},
+{"prompt": "Communications", "completion": "Establishing effective communication channels and protocols is vital for keeping necessary personnel informed about the status and progress of recovery activities."},
+{"prompt": "Assessment", "completion": "Regularly assessing the current recovery plan helps identify any gaps or areas that require improvement to ensure comprehensive coverage of potential scenarios."},
+{"prompt": "Restoration", "completion": "Defining procedures and guidelines for restoring or recovering from different types of failures, such as hard drive failures, is important for minimizing downtime and restoring normal operations."},
+{"prompt": "Training and awareness", "completion": "Ensuring personnel are properly trained and aware of potential risks and recovery procedures contributes to a more effective and coordinated response during recovery situations."},
+{"prompt": "Test Disaster Recovery Plans (DRP)", "completion": "Regularly testing the Disaster Recovery Plans (DRP) through activities such as read-throughs, tabletop exercises, walkthroughs, simulations, and full interruption tests helps validate the effectiveness and readiness of the plans."},
+{"prompt": "Full interruption", "completion": "Preparing for full interruption scenarios involves developing plans and procedures to address the steps required to recover and resume business operations when faced with a complete interruption."}
+{"prompt": "Participate in Business Continuity (BC) planning and exercises", "completion": "Identitfy and prioritize critical IT systems and components. there are templates for this"}
+{"prompt": "Perimeter security controls", "completion": "fences, cameras, guards, lights, detectors"}
+{"prompt": "Internal security controls", "completion": "man traps, RFID badge readers, RFID asset alarms, training, cameras, locks, and cameras"}
+{"prompt": "Addressing personnel safety and security concerns", "completion": "Addressing personnel safety and security concerns involves implementing measures and protocols to ensure the well-being and protection of individuals within the organization."},
+{"prompt": "Travel", "completion": "Managing personnel safety during travel includes establishing guidelines on what materials they can carry, ensuring they have safe means of working while traveling, and providing information on secure modes of travel and escape routes."},
+{"prompt": "Security training and awareness", "completion": "Conducting security training and raising awareness among personnel helps them understand potential risks, identify threats, and take appropriate actions to mitigate security concerns."},
+{"prompt": "Emergency management", "completion": "Developing emergency management procedures involves outlining steps to be taken if an asset is lost, stolen, or in danger. This includes protocols for reporting incidents, initiating recovery actions, and ensuring the safety of personnel."},
+{"prompt": "Duress", "completion": "Addressing duress situations requires having protocols in place to handle threats against individuals and providing guidance on how to respond in order to safeguard their well-being and prevent actions against their better judgment."}
+{"prompt": "Understand and integrate security in the Software Development Life Cycle (SDLC)", "completion": "Feasibility. Project initialization. Requirements. Design. Develop. Test / Assess. Operate / Maintain. Dispose / Retire"}
+{"prompt": "Development methodologies", "completion": "Development methodologies refer to the approaches and frameworks used in software development."},
+{"prompt": "Waterfall", "completion": "The Waterfall methodology follows a sequential and linear approach, where each phase of development is completed before moving to the next."},
+{"prompt": "Sashim", "completion": "Sashim is a development methodology that emphasizes incremental and iterative development, allowing for flexibility and continuous improvement."},
+{"prompt": "Agile Software Dev", "completion": "Agile Software Development is an iterative and collaborative approach that focuses on adaptability, customer involvement, and delivering working software in short iterations called sprints."},
+{"prompt": "Maturity models", "completion": "Maturity models are frameworks used to evaluate and improve the software development process. They provide a roadmap for assessing the maturity level of an organization's development practices and identifying areas for improvement."},
+{"prompt": "Operation and maintenance", "completion": "Operation and maintenance involve the ongoing management and support of a system after its development. This includes activities such as system modifications, hardware and software additions, and responding to events and issues."},
+{"prompt": "Change management", "completion": "Change management is the process of tracking and managing changes across an entire software development program. It involves documenting, reviewing, and controlling changes to ensure they are implemented effectively and do not negatively impact the development process."},
+{"prompt": "Integrated product team", "completion": "An integrated product team is a customer-facing group that focuses on the entire lifecycle of a product. They collaborate with stakeholders, manage requirements, and ensure the successful delivery and support of the product throughout its lifecycle."}
+{"prompt": "Security of the software environments", "completion": "contractors must be DFARS compliant. There is a Application Security Assessment STIG to ensure developers are developing with secure methods. Development environment is highly compromisable so there must be monitoring, anti-virus, patching, and security controls/hardening"}
+{"prompt": "Configuration management as an aspect of secure coding", "completion": "ensure automated builds with static code analysis on code base"}
+{"prompt": "Security of code repositories", "completion": "must have stric permissions for accessing all of source code. have data loss prevention so users can't take all code that has been worked on"}
+{"prompt": "Auditing and logging of changes", "completion": "must have proper version history and changes documented"}
+{"prompt": "Risk analysis and mitigation ", "completion": "Perform risk analysis. how often are vulnerabilities and bugs being commited. how long do they take to fix when in production?"}
+{"prompt": "Assess security impact of acquired software", "completion": "There could be vulnerabilities and flaws in software that is acquired. There could even be malware or backdoors in them. There are various procurement tools to analyze the security of libraries or other products used"}
+{"prompt": "Security weaknesses and vulnerabilities at the source-code level", "completion": "there should be static analysis done to test for vulnerabilities. Fixing pentesting and fuzzing findings are much more expensive than fixing a finding before commiting it back to master stream."}
+{"prompt": "Security of application programming interfaces", "completion": "test interfaces for abuse cases/fuzzing"}
+{"prompt": "Secure coding practices", "completion": "ASD STIG, CERT SEI, OWASP Top 10, SANS Top 25"}
