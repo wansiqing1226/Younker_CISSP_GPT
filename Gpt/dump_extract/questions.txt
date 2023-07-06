@@ -1,65 +1,352 @@
-91. Retaining and maintaining information for as long as it is needed is known as what?
-A. Data storage policy
-B. Data storage
-C. Asset maintenance
-D. Record retention
+51. Which OSI layer includes electrical specifications, protocols, and interface standards?
+A. The Transport layer
+B. The Device layer
+C. The Physical layer
+D. The Data Link layer
 
-92. Which of the following activities is not a consideration during data classification?
-A. Who can access the data
-B. What the impact would be if the data was lost or breached
-C. How much the data cost to create
-D. What protection regulations may be required for the data
+52. Ben is designing a Wi-Fi network and has been asked to choose the most secure option for
+the network. Which wireless security standard should he choose?
+A. WPA2
+B. WPA
+C. WEP
+D. AES
 
-93. What type of encryption is typically used for data at rest?
-A. Asymmetric encryption
-B. Symmetric encryption
-C. DES
-D. OTP
+53. If your organization needs to allow attachments in email to support critical business processes, what are the two best options for helping to avoid security problems caused by
+attachments?
+A. Train your users and use antimalware tools.
+B. Encrypt your email and use antimalware tools.
+C. Train your users and require S/MIME for all email.
+D. Use S/MIME by default and remove all ZIP (.zip) file attachments.
 
-94. Which data role is tasked with granting appropriate access to staff members?
-A. Data processors
-B. Business owners
-C. Custodians
-D. Administrators
+54. Segmentation, sequencing, and error checking all occur at what layer of the OSI model
+that is associated with SSL, TLS, and UDP?
+A. The Transport layer
+B. The Network layer
+C. The Session layer
+D. The Presentation layer
 
-95. Which California law requires conspicuously posted privacy policies on commercial websites that collect the personal information of California residents?
-A. The Personal Information Protection and Electronic Documents Act
-B. The California Online Privacy Protection Act
-C. California Online Web Privacy Act
-D. California Civil Code 1798.82
+55. The Windows ipconfig command displays the following information:
+BC-5F-F4-7B-4B-7D
+What term describes this, and what information can usually be gathered from it?
+A. The IP address, the network location of the system
+B. The MAC address, the network interface card's manufacturer
+C. The MAC address, the media type in use
+D. The IPv6 client ID, the network interface card's manufacturer
 
-96. Fred is preparing to send backup tapes offsite to a secure third-party storage facility. What
-steps should Fred take before sending the tapes to that facility?
-A. Ensure that the tapes are handled the same way the original media would be handled
-based on their classification.
-B. Increase the classification level of the tapes because they are leaving the possession of
-the company.
-C. Purge the tapes to ensure that classified data is not lost.
-D. Decrypt the tapes in case they are lost in transit.
+56. Chris has been asked to choose between implementing PEAP and LEAP for wireless
+authentication. What should he choose, and why?
+A. LEAP, because it fixes problems with TKIP, resulting in stronger security
+B. PEAP, because it implements CCMP for security
+C. LEAP, because it implements EAP-TLS for end-to-end session encryption
+D. PEAP, because it can provide a TLS tunnel that encapsulates EAP methods, protecting
+the entire session
 
-97. Which of the following does not describe data in motion?
-A. Data on a backup tape that is being shipped to a storage facility
-B. Data in a TCP packet
-C. Data in an e-commerce transaction
-D. Data in files being copied between locations
+57. Ben is troubleshooting a network and discovers that the NAT router he is connected to
+has the 192.168.x.x subnet as its internal network and that its external IP is 192.168.1.40.
+What problem is he encountering?
+A. 192.168.x.x is a nonroutable network and will not be carried to the Internet.
+B. 192.168.1.40 is not a valid address because it is reserved by RFC 1918.
+C. Double NATing is not possible using the same IP range.
+D. The upstream system is unable to de-encapsulate his packets and he needs to use PAT
+instead.
 
-98. A new law is passed that would result in significant financial harm to your company if the
-data that it covers was stolen or inadvertently released. What should your organization do
-about this?
-A. Select a new security baseline.
-B. Relabel the data.
-C. Encrypt all of the data at rest and in transit.
-D. Review its data classifications and classify the data appropriately.
+58. What is the default subnet mask for a Class B network?
+A. 255.0.0.0
+B. 255.255.0.0
+C. 255.254.0.0
+D. 255.255.255.0
 
-99. Ed has been asked to send data that his organization classifies as confidential and proprietary via email. What encryption technology would be appropriate to ensure that the contents of the files attached to the email remain confidential as they traverse the internet?
-A. SSL
-B. TLS
-C. PGP
-D. VPN
+59. Jim's organization uses a traditional PBX for voice communication. What is the most common security issue that its internal communications are likely to face, and what should he
+recommend to prevent it?
+A. Eavesdropping, encryption
+B. Man-in-the-middle attacks, end-to-end encryption
+C. Eavesdropping, physical security
+D. Wardialing, deploy an IPS
 
-100. Which mapping correctly matches data classifications between nongovernment and
-government classification schemes?
-A. Top Secret – Confidential/Proprietary,Secret – Private,Confidential – Sensitive
-B. Secret – Business confidential,Classified – Proprietary,Confidential – Business internal
-C. Top Secret – Business sensitive,Secret – Business internal,Confidential – Business proprietary
-D. Secret – Proprietary,Classified – Private,Unclassified – Public
+60. What common security issue is often overlooked with cordless phones?
+A. Their signal is rarely encrypted and thus can be easily monitored.
+B. They use unlicensed frequencies.
+C. They can allow attackers access to wireless networks.
+D. They are rarely patched and are vulnerable to malware.
+
+61. Lauren's organization has deployed VoIP phones on the same switches that the desktop
+PCs are on. What security issue could this create, and what solution would help?
+A. VLAN hopping; use physically separate switches.
+B. VLAN hopping; use encryption.
+C. Caller ID spoofing; MAC filtering.
+D. Denial of service attacks; use a firewall between networks.
+
+62. Which one of the following rules is not shown in the rulebase but will be enforced by the
+firewall?
+A. Stealth
+B. Implicit deny
+C. Connection proxy
+D. Egress filter
+
+63. What type of server is running at IP address 10.1.0.26?
+A. Email
+B. Web
+C. FTP
+D. Database
+
+64. The system at 15.246.10.1 attempts HTTP and HTTPS connections to the web server running at 10.1.0.50. Which one of the following statements is true about that connection?
+A. Both connections will be allowed.
+B. Both connections will be blocked.
+C. The HTTP connection will be allowed, and the HTTPS connection will be blocked.
+D. The HTTP connection will be blocked, and the HTTPS connection will be allowed.
+
+65. What value should be used to fill in the source port for rule #3?
+A. 25
+B. 465
+C. 80
+D. Any
+
+66. Data streams occur at what three layers of the OSI model?
+A. Application, Presentation, and Session
+B. Presentation, Session, and Transport
+C. Physical, Data Link, and Network
+D. Data Link, Network, and Transport
+
+67. Chris needs to design a firewall architecture that can support a DMZ, a database, and a
+private internal network in a secure manner that separates each function. What type of
+design should he use, and how many firewalls does he need?
+A. A four-tier firewall design with two firewalls
+B. A two-tier firewall design with three firewalls
+C. A three-tier firewall design with at least one firewall
+D. A single-tier firewall design with three firewalls
+
+68. Lauren's networking team has been asked to identify a technology that will allow them to
+dynamically change the organization's network by treating the network like code. What
+type of architecture should she recommend?
+A. A network that follows the 5-4-3 rule
+B. A converged network
+C. A software-defined network
+D. A hypervisor-based network
+
+69. Cable modems, ISDN, and DSL are all examples of what type of technology?
+A. Baseband
+B. Broadband
+C. Digital
+D. Broadcast
+
+70. What type of firewall design is shown in the following image?
+A. Single tier
+B. Two tier
+C. Three tier
+D. Next generation
+
+71. During a review of her organization's network, Angela discovered that it was suffering
+from broadcast storms and that contractors, guests, and organizational administrative
+staff were on the same network segment. What design change should Angela recommend?
+A. Require encryption for all users.
+B. Install a firewall at the network border.
+C. Enable spanning tree loop detection.
+D. Segment the network based on functional requirements.
+
+72. ICMP, RIP, and network address translation all occur at what layer of the OSI model?
+A. Layer 1
+B. Layer 2
+C. Layer 3
+D. Layer 4
+
+73. The IDS Ben is responsible for is used to monitor communications in the data center using
+a mirrored port on the data center switch. What traffic will Ben see once the majority of
+servers in the data center have been virtualized?
+A. The same traffic he currently sees
+B. All inter-VM traffic
+C. Only traffic sent outside the VM environment
+D. All inter-hypervisor traffic
+
+74. The VM administrators recommend enabling cut and paste between virtual machines.
+What security concern should Ben raise about this practice?
+A. It can cause a denial of service condition.
+B. It can serve as a covert channel.
+C. It can allow viruses to spread.
+D. It can bypass authentication controls.
+
+75. Ben is concerned about exploits that allow VM escape. What option should Ben suggest to
+help limit the impact of VM escape exploits?
+A. Separate virtual machines onto separate physical hardware based on task or data
+types.
+B. Use VM escape detection tools on the underlying hypervisor.
+C. Restore machines to their original snapshots on a regular basis.
+D. Use a utility like Tripwire to look for changes in the virtual machines.
+
+76. WPA2's Counter Mode Cipher Block Chaining Message Authentication Mode Protocol
+(CCMP) is based on which common encryption scheme?
+A. DES
+B. 3DES
+C. AES
+D. TLS
+
+77. When a host on an Ethernet network detects a collision and transmits a jam signal, what
+happens next?
+A. The host that transmitted the jam signal is allowed to retransmit while all other hosts
+pause until that transmission is received successfully.
+B. All hosts stop transmitting, and each host waits a random period of time before
+attempting to transmit again.
+C. All hosts stop transmitting, and each host waits a period of time based on how
+recently it successfully transmitted.
+D. Hosts wait for the token to be passed and then resume transmitting data as they pass
+the token.
+
+78. What is the speed of a T3 line?
+A. 128 kbps
+B. 1.544 Mbps
+C. 44.736 Mbps
+D. 155 Mbps
+
+79. What type of firewall design does the following image show?
+A. A single-tier firewall
+B. A two-tier firewall
+C. A three-tier firewall
+D. A fully protected DMZ firewall
+
+80. What challenge is most common for endpoint security system deployments?
+A. Compromises
+B. The volume of data
+C. Monitoring encrypted traffic on the network
+D. Handling non-TCP protocols
+
+81. What type of address is 127.0.0.1?
+A. A public IP address
+B. An RFC 1918 address
+C. An APIPA address
+D. A loopback address
+
+82. Susan is writing a best practices statement for her organizational users who need to use
+Bluetooth. She knows that there are many potential security issues with Bluetooth and
+wants to provide the best advice she can. Which of the following sets of guidance should
+Susan include?
+A. Use Bluetooth's built-in strong encryption, change the default PIN on your device,
+turn off discovery mode, and turn off Bluetooth when it's not in active use.
+B. Use Bluetooth only for those activities that are not confidential, change the default
+PIN on your device, turn off discovery mode, and turn off Bluetooth when it's not in
+active use.
+C. Use Bluetooth's built-in strong encryption, use extended (8 digit or longer) Bluetooth
+PINs, turn off discovery mode, and turn off Bluetooth when it's not in active use.
+D. Use Bluetooth only for those activities that are not confidential, use extended (8 digit
+or longer) Bluetooth PINs, turn off discovery mode, and turn off Bluetooth when it's
+not in active use.
+
+83. What type of networking device is most commonly used to assign endpoint systems to
+VLANs?
+A. Firewall
+B. Router
+C. Switch
+D. Hub
+
+84. Steve has been tasked with implementing a network storage protocol over an IP network.
+What storage-centric converged protocol is he likely to use in his implementation?
+A. MPLS
+B. FCoE
+C. SDN
+D. VoIP
+
+85. What type of network device modulates between an analog carrier signal and digital information for computer communications?
+A. A bridge
+B. A router
+C. A brouter
+D. A modem
+
+87. A denial of service (DoS) attack that sends fragmented TCP packets is known as what kind
+of attack?
+A. Christmas tree
+B. Teardrop
+C. Stack killer
+D. Frag grenade
+
+88. Phillip maintains a modem bank in support of several legacy services used by his organization. Which one of the following protocols is most appropriate for this purpose?
+A. SLIP
+B. SLAP
+C. PPTP
+D. PPP
+
+89. One of the findings that Jim made when performing a security audit was the use of non-IP
+protocols in a private network. What issue should Jim point out that may result from the
+use of these non-IP protocols?
+A. They are outdated and cannot be used on modern PCs.
+B. They may not be able to be filtered by firewall devices.
+C. They may allow Christmas tree attacks.
+D. IPX extends on the IP protocol and may not be supported by all TCP stacks.
+
+90. Angela needs to choose between EAP, PEAP, and LEAP for secure authentication. Which
+authentication protocol should she choose and why?
+A. EAP, because it provides strong encryption by default
+B. LEAP, because it provides frequent reauthentication and changing of WEP keys
+C. PEAP, because it provides encryption and doesn't suffer from the same vulnerabilities
+that LEAP does
+D. None of these options can provide secure authentication, and an alternate solution
+should be chosen.
+
+91. Lauren has been asked to replace her organization's PPTP implementation with an L2TP
+implementation for security reasons. What is the primary security reason that L2TP would
+replace PPTP?
+A. L2TP can use IPsec.
+B. L2TP creates a point-to-point tunnel, avoiding multipoint issues.
+C. PPTP doesn't support EAP.
+D. PPTP doesn't properly encapsulate PPP packets.
+
+92. Jim is building a research computing system that benefits from being part of a full mesh
+topology between systems. In a five-node full mesh topology design, how many connections will an individual node have?
+A. Two
+B. Three
+C. Four
+D. Five
+
+93. What topology correctly describes Ethernet?
+A. A ring
+B. A star
+C. A mesh
+D. A bus
+
+94. What type of attack is most likely to occur after a successful ARP spoofing attempt?
+A. A DoS attack
+B. A Trojan
+C. A replay attack
+D. A man-in-the-middle attack
+
+95. What speed is Category 3 UTP cable rated for?
+A. 5 Mbps
+B. 10 Mbps
+C. 100 Mbps
+D. 1000 Mbps
+
+96. What issue occurs when data transmitted over one set of wires is picked up by another set
+of wires?
+A. Magnetic interference
+B. Crosstalk
+C. Transmission absorption
+D. Amplitude modulation
+
+97. What two key issues with the implementation of RC4 make Wired Equivalent Privacy
+(WEP) even weaker than it might otherwise be?
+A. Its use of a static common key and client-set encryption algorithms
+B. Its use of a static common key and a limited number of initialization vectors
+C. Its use of weak asymmetric keys and a limited number of initialization vectors
+D. Its use of a weak asymmetric key and client-set encryption algorithms
+
+98. Chris is setting up a hotel network and needs to ensure that systems in each room or suite
+can connect to each other, but systems in other suites or rooms cannot. At the same time,
+he needs to ensure that all systems in the hotel can reach the internet. What solution
+should he recommend as the most effective business solution?
+A. Per-room VPNs
+B. VLANs
+C. Port security
+D. Firewalls
+
+99. During a forensic investigation, Charles is able to determine the Media Access Control
+address of a system that was connected to a compromised network. Charles knows that
+MAC addresses are tied back to a manufacturer or vendor and are part of the fingerprint
+of the system. To which OSI layer does a MAC address belong?
+A. The Application layer
+B. The Session layer
+C. The Physical layer
+D. The Data Link layer
+
+100. Ben knows that his organization wants to be able to validate the identity of other organizations based on their domain name when receiving and sending email. What tool should
+Ben recommend?
+A. PEM
+B. S/MIME
+C. DKIM
+D. MOSS

@@ -21,8 +21,8 @@ def remove_question_number(text):
         new_lines.append(new_line)
     return ' '.join(new_lines)
 
-questions_file = "35-50Q.txt"
-answers_file = "35-50A.txt"
+questions_file = "questions.txt"
+answers_file = "answers.txt"
 output_file = "file.jsonl"
 
 generate_jsonl(questions_file, answers_file, output_file)

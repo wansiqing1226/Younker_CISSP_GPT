@@ -1,50 +1,254 @@
-91. D. Record retention is the process of retaining and maintaining information for as
-long as it is needed. A data storage policy describes how and why data is stored, while
-data storage is the process of actually keeping the data. Asset maintenance is a noninformation-security-related process for maintaining physical assets.
+51. C. The Physical layer includes electrical specifications, protocols, and standards that
+allow control of throughput, handling line noise, and a variety of other electrical
+interface and signaling requirements. The OSI layer doesn't have a Device layer. The
+Transport layer connects the Network and Session layers, and the Data Link layer
+packages packets from the network layer for transmission and receipt by devices
+operating on the Physical layer.
 
-92. C. The cost of the data is not directly included in the classification process. Instead, the
-impact to the organization if the data were exposed or breached is considered. Who can
-access the data and what regulatory or compliance requirements cover the data are also
-important considerations.
+52. A. WPA2, the replacement for WPA, does not suffer from the security issues that WEP,
+the original wireless security protocol, and WPA, its successor, both suffer from. AES is
+used in WPA2 but is not specifically a wireless security standard.
 
-93. B. Symmetric encryption like AES is typically used for data at rest. Asymmetric
-encryption is often used during transactions or communications when the ability to have
-public and private keys is necessary. DES is an outdated encryption standard, and OTP is
-the acronym for onetime password.
+53. A. User awareness is one of the most important tools when dealing with attachments.
+Attachments are often used as a vector for malware, and aware users can help prevent
+successful attacks by not opening the attachments. Antimalware tools, including
+antivirus software, can help detect known threats before users even see the attachments.
+Encryption, including tools like S/MIME, won't help prevent attachment-based security
+problems, and removing ZIP file attachments will only stop malware that is sent via those
+ZIP files.
 
-94. D. Administrators have the rights to assign permissions to access and handle data.
-Custodians are trusted with day-to-day data handling tasks. Business owners are typically
-system or project owners, and data processors are systems used to process data.
+54. A. The Transport layer provides logical connections between devices, including end-toend transport services to ensure that data is delivered. Transport layer protocols include
+TCP, UDP, SSL, and TLS.
 
-95. B. The California Online Privacy Protection Act (COPPA) requires that operators of
-commercial websites and services post a prominently displayed privacy policy if they
-collect personal information on California residents.
-The Personal Information Protection and Electronic Documents Act is a Canadian privacy law, while California Civil Code 1798.82 is part of the set of California codes that
-requires breach notification. The California Online Web Privacy Act does not exist.
+55. B. Machine Access Control (MAC) addresses are the hardware address the machine uses
+for layer 2 communications. The MAC addresses include an organizationally unique
+identifier (OUI), which identifies the manufacturer. MAC addresses can be changed, so
+this is not a guarantee of accuracy, but under normal circumstances you can tell what
+manufacturer made the device by using the MAC address.
 
-96. A. Tapes are frequently exposed due to theft or loss in transit. That means that tapes that
-are leaving their normal storage facility should be handled according to the organization,s
-classification schemes and handling requirements. Purging the tapes would cause the loss
-of data, while increasing the classification level of the tapes. The tapes should be encrypted
-rather than decrypted.
+56. D. PEAP provides encryption for EAP methods and can provide authentication. It does
+not implement CCMP, which was included in the WPA2 standard. LEAP is dangerously
+insecure and should not be used due to attack tools that have been available since the early
+2000s.
 
-97. A. The correct answer is the tape that is being shipped to a storage facility. You might
-think that the tape in shipment is "in motion," but the key concept is that the data is
-not being accessed and is instead in storage. Data in a TCP packet, in an e-commerce
-transaction, or in local RAM is in motion and is actively being used.
+57. C. Double NATing isn't possible with the same IP range; the same IP addresses cannot
+appear inside and outside a NAT router. RFC 1918 addresses are reserved, but only so
+they are not used and routable on the Internet, and changing to PAT would not fix the
+issue.
 
-98. D. When the value of data changes due to legal, compliance, or business reasons,
-reviewing classifications and reclassifying the data is an appropriate response. Once the
-review is complete, data can be reclassified and handled according to its classification
-level. Simply relabeling the data avoids the classification process and may not result in the
-data being handled appropriately. Similarly, selecting a new baseline or simply encrypting
-the data may not handle all of the needs that the changes affecting the data create.
+58. B. A Class B network holds 2^16 systems, and its default network mask is 255.255.0.0.
 
-99. C. PGP, or Pretty Good Privacy (or its open-source alternative, GPG) provide strong encryption of files, which can then be sent via email. Email traverses multiple servers and will be unencrypted at rest at multiple points along its path as it is stored and forwarded to its destination.
+59. C. Traditional private branch exchange (PBX) systems are vulnerable to eavesdropping
+because voice communications are carried directly over copper wires. Since standard
+telephones don't provide encryption (and you're unlikely to add encrypted phones unless
+you're the NSA), physically securing access to the lines and central connection points is the
+best strategy available.
 
-100. A. While many nongovernment organizations create their own classification schemes, a
-common model with levels that align with the US government,s classification labels is shown
-here. In the given options, B and D do not match the US government,s Top Secret, Secret,
-Confidential scheme, and C incorrectly matches business proprietary data with confidential
-data as well as Top Secret data with business sensitive data. Business internal is often another
-term for business sensitive, meaning that it is used to match two classifications!
+60. A. Most cordless phones don't use encryption, and even modern phones that use DECT
+(which does provide encryption) have already been cracked. This means that a determined
+attacker can almost always eavesdrop on cordless phones, and makes them a security risk
+if they're used for confidential communication.
+
+61. A. VLAN hopping between the voice and computer VLANs can be accomplished when
+devices share the same switch infrastructure. Using physically separate switches can
+prevent this attack. Encryption won't help with VLAN hopping because it relies on header
+data that the switch needs to read (and this is unencrypted), while Caller ID spoofing is an
+inherent problem with VoIP systems. A denial of service is always a possibility, but it isn't
+specifically a VoIP issue and a firewall may not stop the problem if it's on a port that must
+be allowed through.
+
+62. B. All stateful inspection firewalls enforce an implicit deny rule as the final rule of the
+rulebase. It is designed to drop all inbound traffic that was not accepted by an earlier
+rule. Stealth rules hide the firewall from external networks, but they are not included by
+default. This firewall does not contain any egress filtering rules, and egress filtering is not
+enforced by default. Connection proxying is an optional feature of stateful inspection
+firewalls and would not be enforced without a rule explicitly implementing it.
+
+63. A. SMTP uses ports 25 and 465. The presence of an inbound rule allowing SMTP traffic
+indicates that this is an email server.
+
+64. C. The HTTP connection will be allowed, despite the presence of rule #2, because it
+matches rule #1. The HTTPS connection will be blocked because there is no rule allowing
+HTTPS connections to this server.
+
+65. D. The firewall should be configured to accept inbound connections from any port selected
+by the source system. The vast majority of inbound firewall rules allow access from any
+source port.
+
+66. A. Data streams are associated with the Application, Presentation, and Session layers.
+Once they reach the Transport layer, they become segments (TCP) or datagrams (UDP).
+From there, they are converted to packets at the Network layer, frames at the Data Link
+layer, and bits at the Physical layer.
+
+67. C. A three-tier design separates three distinct protected zones and can be accomplished
+with a single firewall that has multiple interfaces. Single- and two-tier designs don't
+support the number of protected networks needed in this scenario, while a four-tier design
+would provide a tier that isn't needed.
+
+68. C. Software-defined networking provides a network architecture that can be defined
+and configured as code or software. This will allow Lauren's team to quickly change the
+network based on organizational requirements. The 5-4-3 rule is an old design rule for
+networks that relied on repeaters or hubs. A converged network carries multiple types of
+traffic like voice, video, and data. A hypervisor-based network may be software defined,
+but it could also use traditional network devices running as virtual machines.
+
+69. B. ISDN, cable modems, DSL, and T1 and T3 lines are all examples of broadband
+technology that can support multiple simultaneous signals. They are analog, not digital,
+and are not broadcast technologies.
+
+70. A. A single-tier firewall deployment is very simple and does not offer useful design options
+like a DMZ or separate transaction subnets.
+
+71. D. Network segmentation can reduce issues with performance as well as diminish the
+chance of broadcast storms by limiting the number of systems in a segment. This decreases
+broadcast traffic visible to each system and can reduce congestion. Segmentation can also
+help provide security by separating functional groups who don't need to be able to access
+each other's systems. Installing a firewall at the border would only help with inbound and
+outbound traffic, not cross-network traffic. Spanning tree loop prevention helps prevent
+loops in Ethernet networks (for example, when you plug a switch into a switch via two ports
+on each), but it won't solve broadcast storms that aren't caused by a loop or security issues.
+Encryption might help prevent some problems between functional groups, but it won't stop
+them from scanning other systems, and it definitely won't stop a broadcast storm!
+
+72. C. ICMP, RIP, and network address translation all occur at layer 3, the Network layer.
+
+73. C. One of the visibility risks of virtualization is that communication between servers and
+systems using virtual interfaces can occur "inside" the virtual environment. This means
+that visibility into traffic in the virtualization environment has to be purpose-built as part
+of its design. Option D is correct but incomplete because inter-hypervisor traffic isn't the
+only traffic the IDS will see.
+
+74. B. Cut and paste between virtual machines can bypass normal network-based data loss
+prevention tools and monitoring tools like an IDS or IPS. Thus, it can act as a covert
+channel, allowing the transport of data between security zones. So far, cut and paste has
+not been used as a method for malware spread in virtual environments and has not been
+associated with denial of service attacks. Cut and paste requires users to be logged in and
+does not bypass authentication requirements.
+
+75. A. While virtual machine escape has only been demonstrated in laboratory environments,
+the threat is best dealt with by limiting what access to the underlying hypervisor can
+prove to a successful tracker. Segmenting by data types or access levels can limit the
+potential impact of a hypervisor compromise. If attackers can access the underlying
+system, restricting the breach to only similar data types or systems will limit the impact.
+Escape detection tools are not available on the market, restoring machines to their original
+snapshots will not prevent the exploit from occurring again, and Tripwire detects file
+changes and is unlikely to catch exploits that escape the virtual machines themselves.
+
+76. C. WPA2's CCMP encryption scheme is based on AES. As of the writing of this book,
+there have not been any practical real-world attacks against WPA2. DES has been
+successfully broken, and neither 3DES nor TLS is used for WPA2.
+
+77. B. Ethernet networks use Carrier-Sense Multiple Access with Collision Detection (CSMA/
+CD) technology. When a collision is detected and a jam signal is sent, hosts wait a random
+period of time before attempting retransmission.
+
+78. C. A T3 (DS-3) line is capable of 44.736 Mbps. This is often referred to as 45 Mbps. A T1
+is 1.544 Mbps, ATM is 155 Mbps, and ISDN is often 64 or 128 Kbps.
+
+79. B. A two-tier firewall uses a firewall with multiple interfaces or multiple firewalls in series.
+This image shows a firewall with two protected interfaces, with one used for a DMZ and
+one used for a protected network. This allows traffic to be filtered between each of the
+zones (Internet, DMZ, and private network).
+
+80. B. Endpoint security solutions face challenges due to the sheer volume of data that they
+can create. When each workstation is generating data about events, this can be a massive
+amount of data. Endpoint security solutions should reduce the number of compromises
+when properly implemented, and they can also help by monitoring traffic after it is
+decrypted on the local host. Finally, non-TCP protocols are relatively uncommon on
+modern networks, making this a relatively rare concern for endpoint security system
+implementations.
+
+81. D. The IP address 127.0.0.1 is a loopback address and will resolve to the local machine.
+Public addresses are non-RFC 1918, non-reserved addresses. RFC 1918 addresses are
+reserved and include ranges like 10.x.x.x. An APIPA address is a self-assigned address
+used when a DHCP server cannot be found.
+
+82. B. Since Bluetooth doesn't provide strong encryption, it should only be used for activities
+that are not confidential. Bluetooth PINs are four-digit codes that often default to 0000.
+Turning it off and ensuring that your devices are not in discovery mode can help prevent
+Bluetooth attacks.
+
+83. C. The assignment of endpoint systems to VLANs is normally performed by a network switch.
+
+84. B. Fibre Channel over Ethernet allows Fibre Channel communications over Ethernet
+networks, allowing existing high-speed networks to be used to carry storage traffic. This
+avoids the cost of a custom cable plant for a Fibre Channel implementation. MPLS, or
+Multiprotocol Label Switching, is used for high performance networking; VoIP is Voice
+over IP; and SDN is software-defined networking.
+
+85. D. A modem (MOdulator/DEModulator) modulates between an analog carrier like
+a phone line and digital communications like those used between computers. While
+modems aren't in heavy use in most areas, they are still in place for system control and
+remote system contact and in areas where phone lines are available but other forms of
+communication are too expensive or not available.
+
+87. B. A teardrop attack uses fragmented packets to target a flaw in how the TCP stack on
+a system handles fragment reassembly. If the attack is successful, the TCP stack fails,
+resulting in a denial of service. Christmas tree attacks set all of the possible TCP flags on
+a packet, thus "lighting it up like a Christmas tree." Stack killer and frag grenade attacks
+are made-up answers.
+
+88. D. The Point-to-Point Protocol (PPP) is used for dial-up connections for modems, IDSN,
+Frame Relay, and other technologies. It replaced SLIP in almost all cases. PPTP is the
+Point-to-Point Tunneling Protocol used for VPNs, and SLAP is not a protocol at all!
+
+89. B. While non-IP protocols like IPX/SPX, NetBEUI, and AppleTalk are rare in modern
+networks, they can present a challenge because many firewalls are not capable of filtering
+them. This can create risks when they are necessary for an application or system's function 
+because they may have to be passed without any inspection. Christmas tree attacks set all
+of the possible flags on a TCP packet (and are thus related to an IP protocol), IPX is not
+an IP-based protocol, and while these protocols are outdated, there are ways to make even
+modern PCs understand them.
+
+90. C. Of the three answers, PEAP is the best solution. It encapsulates EAP in a TLS tunnel,
+providing strong encryption. LEAP is a Cisco proprietary protocol that was originally
+designed to help deal with problems in WEP. LEAP's protections have been defeated,
+making it a poor choice.
+
+91. A. L2TP can use IPsec to provide encryption of traffic, ensuring confidentiality of the
+traffic carried via an L2TP VPN. PPTP sends the initial packets of a session in plaintext,
+potentially including usernames and hashed passwords. PPTP does support EAP and was
+designed to encapsulate PPP packets. All VPNs are point to point, and multipoint issues
+are not a VPN problem.
+
+92. C. A full mesh topology directly connects each machine to every other machine on the
+network. For five systems, this means four connections per system.
+
+93. D. Ethernet uses a bus topology. While devices may be physically connected to a switch in
+a physical topology that looks like a star, systems using Ethernet can all transmit on the
+bus simultaneously, possibly leading to collisions.
+
+94. D. ARP spoofing is often done to replace a target's cache entry for a destination IP,
+allowing the attacker to conduct a man-in-the-middle attack. A denial of service attack
+would be aimed at disrupting services rather than spoofing an ARP response, a replay
+attack will involve existing sessions, and a Trojan is malware that is disguised in a way
+that makes it look harmless.
+
+95. B. Category 3 UTP cable is primarily used for phone cables and was also used for early
+Ethernet networks where it provided 10 Mbps of throughput. Cat 5 cable provides 100
+Mbps (and 1000 Mbps if it is Cat 5e). Cat 6 cable can also provide 1000 Mbps.
+
+96. B. Crosstalk occurs when data transmitted on one set of wires is picked up on another
+set of wires. Interference like this is electromagnetic rather than simply magnetic,
+transmission absorption is a made-up term, and amplitude modulation is how AM radio
+works.
+
+97. B. WEP's implementation of RC4 is weakened by its use of a static common key and a
+limited number of initialization vectors. It does not use asymmetric encryption, and clients
+do not select encryption algorithms.
+
+98. B. VLANs can be used to logically separate groups of network ports while still providing
+access to an uplink. Per-room VPNs would create significant overhead for support as well
+as create additional expenses. Port security is used to limit what systems can connect to
+ports, but it doesn't provide network security between systems. Finally, while firewalls
+might work, they would add additional expense and complexity without adding any
+benefits over a VLAN solution.
+
+99. D. MAC addresses and their organizationally unique identifiers are used at the Data
+Link layer to identify systems on a network. The Application and Session layers don't
+care about physical addresses, while the Physical layer involves electrical connectivity and
+handling physical interfaces rather than addressing.
+
+100. C. Domain Keys Identified Mail, or DKIM, is designed to allow assertions of domain identity
+to validate email. S/MIME, PEM, and MOSS are all solutions that can provide authentication,
+integrity, nonrepudiation, and confidentiality, depending on how they are used.

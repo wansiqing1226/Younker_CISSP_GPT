@@ -1,0 +1,356 @@
+1. Fred's data role requires him to maintain system security plans and to ensure that system
+users and support staff get the training they need about security practices and acceptable
+use. What is the role that Fred is most likely to hold in the organization?
+A. Data owner
+B. System owner
+C. User
+D. Custodian
+
+2. Sally is using IPsec's ESP component in transport mode. What important information
+should she be aware of about transport mode?
+A. Transport mode provides full encryption of the entire IP packet.
+B. Transport mode adds a new, unencrypted header to ensure that packets reach their
+destination.
+C. Transport mode does not encrypt the header of the packet.
+D. Transport mode provides no encryption; only tunnel mode provides encryption.
+
+3. Which one of the following is not a key process area for the Repeatable phase of the Software Capability Maturity Model (SW-CMM)?
+A. Software Project Planning
+B. Software Quality Management
+C. Software Project Tracking
+D. Software Subcontract Management
+
+4. Ben wants to provide predictive information about his organization's risk exposure in an
+automated way as part of an ongoing organizational risk management plan. What should
+he use to do this?
+A. KRIs
+B. Quantitative risk assessments
+C. KPIs
+D. Penetration tests
+
+5. In the image shown here, what does system B send to system A at step 2 of the three-way
+TCP handshake?
+A. SYN
+B. ACK
+C. FIN/ACK
+D. SYN/ACK
+
+6. Chris is conducting reconnaissance on a remote target and discovers that pings are
+allowed through his target's border firewall. What can he learn by using ping to probe the
+remote network?
+A. Which systems respond to ping, a rough network topology, and potentially the
+location of additional firewalls
+B. A list of all of the systems behind the target's firewall
+C. The hostnames and time to live (TTL) for each pingable system, and the ICMP types
+allowed through the firewall
+D. Router advertisements, echo request responses, and potentially which hosts are
+tarpitted
+
+7. What access management concept defines what rights or privileges a user has?
+A. Identification
+B. Accountability
+C. Authorization
+D. Authentication
+
+8. Which one of the following is not a classification level commonly found in commercial
+data classification schemes?
+A. Secret
+B. Sensitive
+C. Confidential
+D. Public
+
+9. Files, databases, computers, programs, processes, devices, and media are all examples of
+what?
+A. Subjects
+B. Objects
+C. File stores
+D. Users
+
+10. Danielle is testing tax software, and part of her testing process requires her to input a variety of actual tax forms to verify that the software produces the right answers. What type
+of testing is Danielle performing?
+A. Use case testing
+B. Dynamic testing
+C. Fuzzing
+D. Misuse testing
+
+11. After 10 years working in her organization, Cassandra is moving into her fourth role, this
+time as a manager in the accounting department. What issue is likely to show up during an
+account review if her organization does not have strong account maintenance practices?
+A. An issue with least privilege
+B. Privilege creep
+C. Account creep
+D. Account termination
+
+12. IP addresses like 10.10.10.10 and 172.19.24.21 are both examples of what type of IP
+address?
+A. Public IP addresses
+B. Prohibited IP addresses
+C. Private IP addresses
+D. Class B IP ranges
+
+13. What flaw is a concern with preset questions for cognitive passwords?
+A. It prevents the use of tokens.
+B. The question's answer may be easy to find on the Internet.
+C. Cognitive passwords require users to think to answer the question, and not all users
+may be able to solve the problems presented.
+D. Cognitive passwords don't support long passwords.
+
+14. Megan needs to create a forensic copy of a hard drive that will be used in an investigation.
+Which of the following tools is best suited to her work?
+A. xcopy
+B. dd
+C. DBAN
+D. ImageMagik
+
+15. Kay is selecting an application management approach for her organization. Employees
+need the flexibility to install software on their systems, but Kay wants to prevent them
+from installing certain prohibited packages. What type of approach should she use?
+A. Antivirus
+B. Whitelist
+C. Blacklist
+D. Heuristic
+
+16. Data relating to the past, present, or future payment for the provision of healthcare to an
+individual is what type of data per HIPAA?
+A. PCI
+B. Personal billing data
+C. PHI
+D. Personally identifiable information (PII)
+
+17. Yagis, panel, cantennas, and parabolic antennas are all examples of what type of antenna?
+A. Omnidirectional
+B. Rubber duck or base antenna
+C. Signal boosting
+D. Directional
+
+18. While traveling, James is held at knifepoint and forced to log into his laptop. What is this
+called?
+A. Duress
+B. Antisocial engineering
+C. Distress
+D. Knifepoint hacking
+
+19. What is the minimum number of people who should be trained on any specific business
+continuity plan implementation task?
+A. 1
+B. 2
+C. 3
+D. 5
+
+20. Cameron is responsible for backing up his company's primary file server. He configured
+a backup schedule that performs full backups every Monday evening at 9 p.m. and incremental backups on other days of the week at that same time. How many files will be
+copied in Wednesday's backup?
+A. 1
+B. 2
+C. 5
+D. 6
+
+21. Susan uses a span port to monitor traffic to her production website and uses a monitoring
+tool to identify performance issues in real time. What type of monitoring is she
+conducting?
+A. Passive monitoring
+B. Active monitoring
+C. Synthetic monitoring
+D. Signature-based monitoring
+
+22. The type of access granted to an object and the actions that you can take on or with the
+object are examples of what?
+A. Permissions
+B. Rights
+C. Privileges
+D. Roles
+
+23. Which one of the following would be considered an example of infrastructure as a service
+cloud computing?
+A. Payroll system managed by a vendor and delivered over the web
+B. Application platform managed by a vendor that runs customer code
+C. Servers provisioned by customers on a vendor-managed virtualization platform
+D. Web-based email service provided by a vendor
+
+24. Based on the information in this scenario, what is the exposure factor for the effect of a
+fire on the Roscommon Agricultural Products data center?
+A. 7.5%
+B. 15.0%
+C. 27.5%
+D. 37.5%
+
+25. Based on the information in this scenario, what is the annualized rate of occurrence for a
+fire at the Roscommon Agricultural Products data center?
+A. 0.002
+B. 0.005
+C. 0.02
+D. 0.05
+
+26. Based on the information in this scenario, what is the annualized loss expectancy for a fire
+at the Roscommon Agricultural Products data center?
+A. $15,000
+B. $25,000
+C. $75,000
+D. $750,000
+
+27. Two TCP header flags are rarely used. Which two are you unlikely to see in use in a
+modern network?
+A. CWR and ECE
+B. URG and FIN
+C. ECE and RST
+D. CWR and URG
+
+28. Mike wants to ensure that third-party users of his service's API can be tracked to prevent
+abuse of the API. What should he implement to help with this?
+A. Session IDs
+B. An API firewall
+C. API keys
+D. An API buffer
+
+29. Fran is a web developer who works for an online retailer. Her boss asked her to create a
+way that customers can easily integrate themselves with Fran's company's site. They need
+to be able to check inventory in real time, place orders, and check order status programmatically without having to access the web page. What can Fran create to most directly
+facilitate this interaction?
+A. API
+B. Web scraper
+C. Data dictionary
+D. Call center
+
+30. What type of power issue occurs when a facility experiences a momentary loss of power?
+A. Fault
+B. Blackout
+C. Sag
+D. Brownout
+
+31. Lauren's team of system administrators each deal with hundreds of systems with varying
+levels of security requirements and find it difficult to handle the multitude of usernames
+and passwords they each have. What type of solution should she recommend to ensure
+that passwords are properly handled and that features like logging and password rotation
+occur?
+A. A credential management system
+B. A strong password policy
+C. Separation of duties
+D. Single sign-on
+
+32. Ed's Windows system can't connect to the network and ipconfig shows the following:
+What has occurred on the system?
+A. The system has been assigned an invalid IP address by its DHCP server.
+B. The system has a manually assigned IP address.
+C. The system has failed to get a DHCP address and has assigned itself an address.
+D. The subnet mask is set incorrectly and the system cannot communicate with the
+gateway.
+
+33. What term is commonly used to describe initial creation of a user account in the provisioning process?
+A. Enrollment
+B. Clearance verification
+C. Background checks
+D. Initialization
+
+34. What type of forensic investigation typically has the highest evidentiary standards?
+A. Administrative
+B. Criminal
+C. Civil
+D. Industry
+
+35. There is a significant conflict between the drive for profit and the security requirements
+that Olivia's organization has standardized. Olivia's role means that decreased usability
+and loss of profit due to her staff's inability to use the system is her major concern. What is
+the most likely role that Olivia plays in her organization?
+A. Business manager
+B. Information security analyst
+C. Data processor
+D. Mission owner
+
+36. Tom believes that a customer of his Internet service provider has been exploiting a vulnerability in his system to read the email messages of other customers. If true, what law did
+the customer most likely violate?
+A. ECPA
+B. CALEA
+C. HITECH
+D. Privacy Act
+
+37. In the ring protection model shown here, what ring contains user programs and
+applications?
+A. Ring 0
+B. Ring 1
+C. Ring 2
+D. Ring 3
+
+38. Metrics like the attack vector, complexity, exploit maturity, and how much user interaction is required are all found in what scoring system?
+A. CVE
+B. CVSS
+C. CNA
+D. NVD
+
+39. In which of the following circumstances does an individual not have a reasonable expectation of privacy?
+A. Placing a telephone call on your cell phone
+B. Sending a letter through the US mail
+C. Sending an email at work
+D. Retrieving your personal voicemail
+
+40. During which of the following disaster recovery tests does the team sit together and discuss the response to a scenario but not actually activate any disaster recovery controls?
+A. Checklist review
+B. Full interruption test
+C. Parallel test
+D. Tabletop exercise
+
+41. Susan wants to integrate her website to allow users to use accounts from sites like Google.
+What technology should she adopt?
+A. Kerberos
+B. LDAP
+C. OpenID
+D. SESAME
+
+42. Tom is conducting a business continuity planning effort for Orange Blossoms, a fruit
+orchard located in Central Florida. During the assessment process, the committee determined that there is a small risk of snow in the region but that the cost of implementing
+controls to reduce the impact of that risk is not warranted. They elect to not take any
+specific action in response to the risk. What risk management strategy is Orange Blossoms
+pursuing?
+A. Risk mitigation
+B. Risk transference
+C. Risk avoidance
+D. Risk acceptance
+
+44. Jack's organization is a multinational nonprofit that has small offices in many developing
+countries throughout the world. They need to implement an access control system that
+allows flexibility and that can work despite poor Internet connectivity at their locations.
+What is the best type of access control design for Jack's organization?
+A. Centralized access control
+B. Mandatory access control
+C. Decentralized access control
+D. Rule-based access control
+
+45. What US government classification label is applied to information that, if disclosed, could
+cause serious damage to national security and also requires that the damage that would be
+caused is able to be described or identified by the classification authority?
+A. Classified
+B. Secret
+C. Confidential
+D. Top Secret
+
+46. When the certificate authority (CA) created Renee's digital certificate, what key was contained within the body of the certificate?
+A. Renee's public key
+B. Renee's private key
+C. CA's public key
+D. CA's private key
+
+47. When the certificate authority created Renee's digital certificate, what key did it use to
+digitally sign the completed certificate?
+A. Renee's public key
+B. Renee's private key
+C. CA's public key
+D. CA's private key
+
+48. When Mike receives Renee's digital certificate, what key does he use to verify the authenticity of the certificate?
+A. Renee's public key
+B. Renee's private key
+C. CA's public key
+D. CA's private key
+
+49. Mike would like to send Renee a private message using the information gained during this
+exchange. What key should he use to encrypt the message?
+A. Renee's public key
+B. Renee's private key
+C. CA's public key
+D. CA's private key
+
+50. Which one of the following tools may be used to directly violate the confidentiality of
+communications on an unencrypted VoIP network?
+A. Nmap
+B. Nessus
+C. Wireshark
+D. Nikto
