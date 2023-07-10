@@ -22,10 +22,10 @@ should instead choose a point to the right of point A.
 5. B. CER is a standard used to assess biometric devices. If the CER for this device does not
 fit the needs of the organization, Ben should assess other biometric systems to find one
 with a lower CER. Sensitivity is already accounted for in CER charts, and moving the
-CER isn’t something Ben can do. FRR is not a setting in software, so Ben can’t use that as
+CER isn't something Ben can do. FRR is not a setting in software, so Ben can't use that as
 an option either.
 
-6. B. Personally identifiable information (PII) can be used to distinguish a person’s identity.
+6. B. Personally identifiable information (PII) can be used to distinguish a person's identity.
 Personal health information (PHI) includes data like medical history, lab results, insurance
 information, and other details about a patient. Personal Protected Data is a made-up
 term, and PID is an acronym for process ID, the number associated with a running
@@ -59,7 +59,7 @@ The Domain Name System (DNS) translates human-friendly fully qualified domain
 names (FQDNs) into IP addresses, making it possible to easily remember websites and
 hostnames. ARP is used to resolve IP addresses into MAC addresses. TCP and UDP
 are used to control the network traffic that travels between systems. TCP does so in a
-connection-oriented fashion using the three-way handshake, while UDP uses connectionless “best effort” delivery.
+connection-oriented fashion using the three-way handshake, while UDP uses connectionless "best effort" delivery.
 
 12. B. Ben is assessing a specification. Specifications are document-based artifacts like policies
 or designs. Activities are actions that support an information system that involves people.
@@ -69,17 +69,17 @@ mechanisms, or activities.
 
 13. C. When done properly, a sanitization process fully ensures that data is not remnant
 on the system before it is reused. Clearing and erasing can both be failure prone, and of
-course destruction wouldn’t leave a machine or device to reuse.
+course destruction wouldn't leave a machine or device to reuse.
 
 14. C. In a gray box test, the tester evaluates the software from a user perspective but has
 access to the source code as the test is conducted. White box tests also have access to the
-source code but perform testing from a developer’s perspective. Black box tests work from
-a user’s perspective but do not have access to source code. Blue boxes are a telephone
+source code but perform testing from a developer's perspective. Black box tests work from
+a user's perspective but do not have access to source code. Blue boxes are a telephone
 hacking tool and not a software testing technique.
 
 15. D. The DevOps approach to technology management seeks to integrate software
 development, operations, and quality assurance in a cohesive effort. It specifically attempts
-to eliminate the issue of “throwing problems over the fence” by building collaborative
+to eliminate the issue of "throwing problems over the fence" by building collaborative
 relationships between members of the IT team.
 
 16. B. A Security Information and Event Management (SIEM) tool is designed to centralize
@@ -89,7 +89,7 @@ Management Protocol (SNMP) is used for some log messaging but is not a solution 
 solves all of these problems. Most non-Windows devices, including network devices
 among others, are not designed to use the Windows event log format, although using NTP
 for time synchronization is a good idea. Finally, local logging is useful, but setting clocks
-individually will result in drift over time and won’t solve the issue with many log sources.
+individually will result in drift over time and won't solve the issue with many log sources.
 
 17. C. Mike should use overwriting to protect this device. While degaussing is a valid secure
 data removal technique, it would not be effective in this case, since degaussing works
@@ -97,7 +97,7 @@ only on magnetic media. Physical destruction would prevent the reuse of the devi
 Reformatting is not a valid secure data removal technique.
 
 18. A. The single quotation mark in the input field is a telltale sign that this is a SQL injection
-attack. The quotation mark is used to escape outside the SQL code’s input field and the
+attack. The quotation mark is used to escape outside the SQL code's input field and the
 text that follows is used to directly manipulate the SQL command sent from the web
 application to the database.
 
@@ -159,22 +159,22 @@ compiled languages to include natural languages and declarative approaches to
 programming.
 
 31. A. Tara first must achieve a system baseline. She does this by applying the most recent
-full backup to the new system. This is Sunday’s full backup. Once Tara establishes this
+full backup to the new system. This is Sunday's full backup. Once Tara establishes this
 baseline, she may then proceed to apply differential backups to bring the system back to a
 more recent state.
 
-32. B. To restore the system to as current a state as possible, Tara must first apply Sunday’s
+32. B. To restore the system to as current a state as possible, Tara must first apply Sunday's
 full backup. She may then apply the most recent differential backup, from Wednesday at
 noon. Differential backups include all files that have changed since the most recent full
-backup, so the contents of Wednesday’s backup contain all of the data that would be
-contained in Monday and Tuesday’s backups, making the Monday and Tuesday backups
+backup, so the contents of Wednesday's backup contain all of the data that would be
+contained in Monday and Tuesday's backups, making the Monday and Tuesday backups
 irrelevant for this scenario.
 
 33. A. In this scenario, the differential backup was made at noon and the server failed at
 3 p.m. Therefore, any data modified or created between noon and 3 p.m. will not be
 contained on any backup and will be irretrievably lost.
 
-34. D. By switching from differential to incremental backups, Tara’s weekday backups will
+34. D. By switching from differential to incremental backups, Tara's weekday backups will
 only contain the information changed since the previous day. Therefore, she must apply all
 of the available incremental backups. She would begin by restoring the Sunday full backup
 and then apply the Monday, Tuesday, and Wednesday incremental backups.
@@ -194,7 +194,7 @@ involved.
 that it is purged when it is no longer necessary. Data remanence occurs when data is left
 behind after an attempt is made to remove it, whereas data redaction is not a technical
 term used to describe this effort. Finally, audit logging may be part of the records retained
-but doesn’t describe the lifecycle of data.
+but doesn't describe the lifecycle of data.
 
 38. D. The Authentication Header provides authentication, integrity, and nonrepudiation
 for IPsec connections. The Encapsulating Security Payload provides encryption and thus
@@ -222,17 +222,17 @@ is called disk striping with parity. RAID 10 is known as a stripe of mirrors.
 43. A. This is an example of a time of check/time of use, or TOC/TOU attack. It exploits the
 difference between the times when a system checks for permission to perform an action
 and when the action is actually performed. Permissions creep would occur if the account
-had gained additional rights over time as the other’s role or job changed. Impersonation
+had gained additional rights over time as the other's role or job changed. Impersonation
 occurs when an attacker pretends to be a valid user, and link swap is not a type of attack.
 
 44. B. RAID 0, or disk striping, requires at least two disks to implement. It improves
 performance of the storage system but does not provide fault tolerance.
 
-45. B. Fred’s company needs to protect integrity, which can be accomplished by digitally
-signing messages. Any change will cause the signature to be invalid. Encrypting isn’t
+45. B. Fred's company needs to protect integrity, which can be accomplished by digitally
+signing messages. Any change will cause the signature to be invalid. Encrypting isn't
 necessary because the company does not want to protect confidentiality. TLS can provide
-in-transit protection but won’t protect integrity of the messages, and of course a hash used
-without a way to verify that the hash wasn’t changed won’t ensure integrity either.
+in-transit protection but won't protect integrity of the messages, and of course a hash used
+without a way to verify that the hash wasn't changed won't ensure integrity either.
 
 46. A. An attribute-based access control (ABAC) system will allow Susan to specify details
 about subjects, objects, and access, allowing granular control. Although a rule-based
@@ -275,214 +275,266 @@ groups of users.
 53. B. Identity as a service (IDaaS) provides capabilities such as account provisioning,
 management, authentication, authorization, reporting, and monitoring. Platform as a
 service (PaaS), infrastructure as a service (IaaS), and software as a service (SaaS).
+
 54. C. Eavesdropping, denial of service attacks, and Caller ID spoofing are all common VoIP
 attacks. Blackboxing is a made-up answer, although various types of colored boxes were
 associated with phone phreaking.
+
 55. D. This broad access may indirectly violate all of the listed security principles, but it is
 most directly a violation of least privilege because it grants users privileges that they do
 not need for their job functions.
+
 56. C. The Secure File Transfer Protocol (SFTP) is specifically designed for encrypted file
 transfer. SSH is used for secure command-line access, whereas TCP is one of the bundles
 of Internet protocols commonly used to transmit data across a network. IPsec could be
 used to create a tunnel to transfer the data but is not specifically designed for file transfer.
+
 57. B. TACACS+ uses TCP and encrypts the entire session, unlike RADIUS, which only
 encrypts the password and operates via UDP.
 
 58. C. The client sends its existing valid TGT to the KDC and requests access to the resource.
+
 59. A. The KDC must verify that the TGT is valid and whether the user has the right
 privileges to access the service it is requesting access to. If it does, it generates a service
 ticket and sends it to the client (step B).
+
 60. C. When a client connects to a service server (SS), it sends the following two messages:
-■ The client-to-server ticket, encrypted using the service’s secret key
-■ A new authenticator, including the client ID and time stamp that is encrypted using the
+-The client-to-server ticket, encrypted using the service's secret key
+-A new authenticator, including the client ID and time stamp that is encrypted using the
 Client/Server session key.
 The server or service that is being accessed receives all of the data it needs in the
 service ticket. To do so, the client uses a client-to-server ticket received from the Ticket
 Granting Service.
+
 61. B. The service ticket in Kerberos authentication provides proof that a subject is authorized
 to access an object. Ticket granting services are provided by the TGS. Proof that a subject
 has authenticated and can request tickets to other objects uses ticket-granting tickets, and
 authentication host is a made-up term.
+
 62. C. A series of questions that the user has previously provided the answer to or which the
 user knows the answers to like the questions listed is known as a cognitive password. A
 passphrase consists of a phrase or series of words, whereas multifactor authentication
 consists of two or more authenticators, like a password and a biometric factor or a
 onetime token-based code.
+
 63. B. CDMA, GSM, and IDEN are all 2G technologies. EDGE, DECT, and UTMS are all
 examples of 3G technologies, whereas 4G technologies include WiMax, LTE, and IEE
 802.20 mobile broadband.
+
 64. A. Dry pipe, deluge, and preaction systems all use pipes that remain empty until the
 system detects signs of a fire. Closed-head systems use pipes filled with water that may
 damage equipment if there is damage to a pipe.
+
 65. A. Protected Health Information (PHI) is defined by HIPAA to include health information
 used by healthcare providers, like medical treatment, history, and billing. Personally
 Identifiable Information is information that can be used to identify an individual, which
-may be included in the PHI but isn’t specifically this type of data. Protected Health
+may be included in the PHI but isn't specifically this type of data. Protected Health
 Insurance and Individual Protected Data are both made-up terms.
+
 66. B. Manual testing uses human understanding of business logic to assess program flow
 and responses. Mutation or generational fuzzing will help determine how the program
 responds to expected inputs but does not test the business logic. Interface testing ensures
 that data exchange between modules works properly but does not focus on the logic of the
 program or application.
+
 67. A. A Type 1 authentication factor is something you know. A Type 2 authentication factor
 is something you have, like a smartcard or hardware token. A Type 3 authentication
 factor is something you are, like a biometric identifier. There is no such thing as a Type 4
 authentication factor.
+
 68. B. System owners have to ensure that the systems they are responsible for are properly
 labeled based on the highest level of data that their system processes, and they have to
 ensure that appropriate security controls are in place on those systems. System owners
 also share responsibility for data protection with data owners. Administrators grant
 appropriate access, whereas data owners own the classification process.
+
 69. A. Jack is performing misuse case analysis, a process that tests code based on how it
 would perform if it was misused instead of used properly. Use case testing tests valid
 use cases, whereas static code analysis involves reviewing the code itself for flaws rather
-than testing the live software. Hacker use case testing isn’t an industry term for a type of
+than testing the live software. Hacker use case testing isn't an industry term for a type of
 testing.
+
 70. D. Vendors complete security targets (STs) to describe the controls that exist within their
-product. During the review process, reviewers compare those STs to the entity’s Protection
+product. During the review process, reviewers compare those STs to the entity's Protection
 Profile (PP) to determine whether the product meets the required security controls.
+
 71. C. Both TCP and UDP port numbers are a 16-digit binary number, which means there
 can be 216 ports, or 65,536 ports, numbered from 0 to 65,535.
-72. A. MITRE’s Common Vulnerabilities and Exploits (CVE) dictionary and NIST’s
+
+72. A. MITRE's Common Vulnerabilities and Exploits (CVE) dictionary and NIST's
 National Vulnerability Database (NVD) both provide information about vulnerabilities.
+
 73. D. The military classification scheme contains three major levels. They are, in descending
 order of sensitivity: Top Secret, Secret, and Confidential. Unclassified is a default, and
 not a classification, whereas Sensitive But Unclassified (SBU) has been replaced with
 Controlled Unclassified Information (CUI).
+
 74. D. In an automated recovery, the system can recover itself against one or more failure
 types. In an automated recovery without undue loss, the system can recover itself against
 one or more failure types and also preserve data against loss. In function recovery, the
 system can restore functional processes automatically. In a manual recovery approach, the
 system does not fail into a secure state but requires an administrator to manually restore
 operations.
+
 75. A. Antenna placement, antenna design, and power level control are the three important
 factors in determining where a signal can be accessed and how usable it is. A captive
 portal can be used to control user logins, and antenna design is part of antenna types. The
 FCC does provide maximum broadcast power guidelines but does not require a minimum
 power level.
+
 76. C. Physically destroying the drive is the best way to ensure that there is no remnant data
-on the drive. SSDs are flash media, which means that you can’t degauss them, whereas
+on the drive. SSDs are flash media, which means that you can't degauss them, whereas
 both random pattern writes and the built-in erase commands have been shown to be
 problematic due to the wear leveling built into SSDs as well as differences in how they
 handle erase commands.
+
 77. A. Confidentiality ensures that data cannot be read by unauthorized individuals while
 stored or in transit.
 
 78. B. The recovery time objective (RTO) is the amount of time that it may take to restore a
 service after a disaster without unacceptable impact on the business. The RTO for each
 service is identified during a business impact assessment.
+
 79. D. The United States Code (USC) contains the text of all federal criminal and civil laws
-passed by the legislative branch and signed by the president (or where the president’s veto
+passed by the legislative branch and signed by the president (or where the president's veto
 was overruled by Congress).
+
 80. B. A post-admission philosophy allows or denies access based on user activity after
-connection. Since this doesn’t check the status of a machine before it connects, it can’t
-prevent the exploit of the system immediately after connection. This doesn’t preclude
+connection. Since this doesn't check the status of a machine before it connects, it can't
+prevent the exploit of the system immediately after connection. This doesn't preclude
 out-of-band or in-band monitoring, but it does mean that a strictly post-admission policy
-won’t handle system checks before the systems are admitted to the network.
+won't handle system checks before the systems are admitted to the network.
+
 81. B. The principle of implicit denial states that any action that is not explicitly allowed is
 denied. This is an important concept for firewall rules and other access control systems.
 Implementing least privilege ensures that subjects have only the rights they need to
 accomplish their job. While explicit deny and final rule fall-through may sound like
 important access control concepts, neither is.
+
 82. B. Risks are the combination of a threat and a vulnerability. Threats are the external
 forces seeking to undermine security, such as the hacker in this case. Vulnerabilities are
 the internal weaknesses that might allow a threat to succeed. In this case, web defacement
 is the risk. In this scenario, if the hacker attempts a SQL injection attack (threat) against
 the unpatched server (vulnerability), the result is website defacement (risk).
+
 83. A. The kernel of an operating system is the collection of components that work together
 to implement a secure, reliable operating system. The kernel contains both the Trusted
 Computing Base (TCB) and the reference monitor.
+
 84. A. Val can use statistical sampling techniques to choose a set of records for review that
-are representative of the entire day’s data. Clipping chooses only records that exceed a set
+are representative of the entire day's data. Clipping chooses only records that exceed a set
 threshold, so it is not a representative sample. Choosing records based on the time they
 are recorded may not produce a representative sample because it may capture events that
-occur at the same time each day and miss many events that simply don’t occur during the
+occur at the same time each day and miss many events that simply don't occur during the
 chosen time period.
+
 85. D. Fiber-optic cable is more expensive and can be much harder to install than stranded
-copper cable or coaxial cable, but it isn’t susceptible to electromagnetic interference
-(EMI). That makes it a great solution for Jen’s problem, especially if she is deploying EMIhardened systems to go with her EMI-resistant network cables.
+copper cable or coaxial cable, but it isn't susceptible to electromagnetic interference
+(EMI). That makes it a great solution for Jen's problem, especially if she is deploying EMIhardened systems to go with her EMI-resistant network cables.
+
 86. D. The request control process provides an organized framework within which users can
 request modifications, managers can conduct cost/benefit analyses, and developers can
 prioritize tasks.
+
 87. B. Change control provides an organized framework within which multiple developers
 can create and test solutions prior to rolling them out into a production environment.
 
 88. C. Release control includes acceptance testing to ensure that any alterations to end-user
 work tasks are understood and functional.
+
 89. A. Configuration control ensures that changes to software versions are made in
 accordance with the change control and configuration management process. Updates can
 be made only from authorized distributions in accordance with those policies.
+
 90. B. Ben is reusing his salt. When the same salt is used for each hash, all users with the same
 password will have the same hash, and the attack can either attempt to steal the salt or
 may attempt to guess the salt by targeting the most frequent hash occurrences based on
 commonly used passwords. Short salts are an issue, but the salts used here are 32 bytes
 (256 bits) long. There is no salting algorithm used or mentioned here; salt is an added
 value for a hash, and plaintext salting is a made-up term.
+
 91. B. Risk transference involves actions that shift risk from one party to another. Purchasing
 insurance is an example of risk transference because it moves risk from the insured to the
 insurance company.
+
 92. C. The Online Certificate Status Protocol (OCSP) eliminates the latency inherent in
 the use of certificate revocation lists by providing a means for real-time certificate
 verification.
+
 93. D. Static code analysis uses techniques like control flow graphs, lexical analysis, and data
 flow analysis to assess code without running it. Dynamic code analysis runs code on a
 real or virtual processor and uses actual inputs for testing. Fuzzing provides unexpected
 or invalid input to test how programs handle input outside the norm. Manual analysis is
 performed by reading code line by line to identify bugs or other issues.
-94. B. TCP’s use of a handshake process to establish communications makes it a connectionoriented protocol. TCP does not monitor for dropped connections, nor does the fact that it
+
+94. B. TCP's use of a handshake process to establish communications makes it a connectionoriented protocol. TCP does not monitor for dropped connections, nor does the fact that it
 works via network connections make it connection-oriented.
+
 95. A. The LDAP bind operation authenticates and specifies the LDAP protocol version.
 Auth, StartLDAP, and AuthDN operations do not exist in the LDAP protocol.
+
 96. C. The two most important elements of a qualitative risk assessment are determining the
 probability and impact of each risk upon the organization. Likelihood is another word for
 probability. Cost should be taken into account but is only one element of impact, which
 also includes reputational damage, operational disruption, and other ill effects.
+
 97. B. When a message reaches the Data Link layer, it is called a frame. Data streams exist at
 the Application, Presentation, and Session layers, whereas segments and datagrams exist at
 the Transport layer (for TCP and UDP, respectively).
+
 98. A. If the (ISC)2 peer review board finds that a certified individual has violated the (ISC)2
 code of ethics, the board may revoke their certification. The board is not able to terminate
-an individual’s employment or assess financial penalties.
+an individual's employment or assess financial penalties.
+
 99. D. SDLC approaches include steps to provide operational training for support staff as
 well as end-user training. The SDLC may use one of many development models, including
 the waterfall and spiral models. The SDLC does not mandate the use of an iterative or
 sequential approach; it allows for either approach.
+
 100. A. The Bell-LaPadula model includes the Simple Security Property, which prevents an
-individual from reading information that is classified at a level higher than the individual’s
+individual from reading information that is classified at a level higher than the individual's
 security clearance.
+
 101. C. Captive portals are designed to show a page that can require actions like accepting an
 agreement or recording an email address before connecting clients to the Internet. NAC is
-designed to verify whether clients meet a security profile, which doesn’t match the needs of
+designed to verify whether clients meet a security profile, which doesn't match the needs of
 most coffee shops. A wireless gateway is a tool to access a cellular or other network, rather
 than a way to interact with users before they connect, and 802.11 is the family of IEEE
 wireless standards.
+
 102. A. Active monitoring is also known as synthetic monitoring and relies on prerecorded or
 generated traffic to test systems for performance and other issues. Passive monitoring uses
 span ports, network taps, or similar technologies to capture actual traffic for analysis.
 Reactive monitoring is not a commonly used industry term.
+
 103. B. TCP headers can be 20 to 60 bytes long depending on options that are set.
+
 104. A. Cellular networks have the same issues that any public network does. Encryption
 requirements should match those that the organization selects for other public networks
 like hotels, conference Wi-Fi, and similar scenarios. Encrypting all data is difficult and
 adds overhead, so it should not be the default answer unless the company specifically
 requires it. WAP is a dated wireless application protocol and is not in broad use; requiring
 it would be difficult. WAP does provide TLS, which would help when in use.
-105. D. Fred’s best option is to use an encrypted, trusted VPN service to tunnel all of his data
+
+105. D. Fred's best option is to use an encrypted, trusted VPN service to tunnel all of his data
 usage. Trusted Wi-Fi networks are unlikely to exist at a hacker conference, normal usage
 is dangerous due to the proliferation of technology that allows fake towers to be set up,
-and discontinuing all usage won’t support Fred’s business needs.
+and discontinuing all usage won't support Fred's business needs.
+
 106. B. Remote wipe tools are a useful solution, but they only work if the phone can access
 either a cellular or Wi-Fi network. Remote wipe solutions are designed to wipe data from
 the phone regardless of whether it is in use or has a passcode. Providers unlock phones for
 use on other cellular networks rather than for wiping or other feature support.
+
 107. C. The goal of business continuity planning exercises is to reduce the amount of time
 required to restore operations. This is done by minimizing the recovery time objective (RTO).
+
 108. D. NIST Special Publication 800-53 describes depth and coverage. Depth is the level of
 detail, rigor, and formality of artifacts produced during design and development. Coverage
 is the breadth and scope of the assessment conducted. If you encounter a question like
 this and are not familiar with the details of a standard like NIST 800-53, or may not
 remember them, focus on the meanings of each word and the details of the question. We
-can easily rule out affirmation, which isn’t a measure. Suitability is a possibility, but depth
+can easily rule out affirmation, which isn't a measure. Suitability is a possibility, but depth
 fits better than suitability or coverage.
 
 109. The disaster recovery test types, listed in order of their potential impact on the business
@@ -490,33 +542,32 @@ from the least impactful to the most impactful, are as follows:
 A. Checklist review
 B. Parallel test
 C. Tabletop exercise
-D. Full interruption test
-Checklist reviews are the least impactful type of exercise because they do not even
-require a meeting. Each team member reviews the checklist on his or her own. Tabletop
-exercises are slightly more impactful because they require bringing together the DR
-team in the same room. Parallel tests require the activation of alternate processing sites
-and require significant resources. Full interruption tests are the most impactful type of
-exercise because they involve shifting operations to the alternate site and could disrupt
-production activity.
+D. Full interruption Test
+
 110. C. Interference is electrical noise or other disruptions that corrupt the contents of packets.
 Latency is a delay in the delivery of packets from their source to their destination. Jitter is
 a variation in the latency for different packets. Packet loss is the disappearance of packets
 in transit that requires retransmission.
+
 111. A. Fagan inspections follow a rigorous, highly structured process to perform code review,
 using a planning, overview, preparation, inspection, rework, and follow-up cycle. Fuzzing
 feeds unexpected input to programs, while over-the-shoulder code review is simply a
 review by having another developer meet with them to review code using a walk-through.
 Pair programming uses a pair of developers, one of whom writes code while both talk
 through the coding and development process.
+
 112. B. While removing the <SCRIPT> tag from user input, it is not sufficient, as a user may
 easily evade this filter by encoding the tag with an XSS filter evasion technique. Frank
 was correct to perform validation on the server rather than at the client, but he should use
 validation that limits user input to allowed values, rather than filtering out one potentially
 malicious tag.
+
 113. C. Fortran is a functional programming language. Java, C++, and C# are all objectoriented languages, meaning that they use the object model and approach programming as
 describing the interactions between objects.
+
 114. C. HIPAA requires that anyone working with personal health information on behalf of a
 HIPAA-covered entity be subject to the terms of a business associates agreement (BAA).
+
 115. A. During a full interruption test, the team takes down the primary site and confirms that
 the disaster recovery site is capable of handling regular operations. The full interruption
 test is the most thorough test but also the most disruptive. During a parallel test, the
@@ -527,31 +578,38 @@ recovery checklists on their own and suggest any necessary changes. During a tab
 exercise, team members come together and walk through a scenario without making any
 changes to information systems.
 
-116. D. Ed’s best option is to install an IPv6 to IPv4 gateway that can translate traffic between
+116. D. Ed's best option is to install an IPv6 to IPv4 gateway that can translate traffic between
 the networks. A bridge would be appropriate for different types of networks, whereas a
 router would make sense if the networks were similar. A modern switch might be able
-to carry both types of traffic but wouldn’t be much help translating between the two
+to carry both types of traffic but wouldn't be much help translating between the two
 protocols.
+
 117. C. The Rijndael block cipher was selected as the winner and is the cryptographic
 algorithm underlying the Advanced Encryption Standard (AES).
+
 118. The services match with the network ports as follows:
 1. DNS: D. UDP port 53.
 2. HTTPS: A. TCP port 443.
 3. SSH: E. TCP port 22.
 4. RDP: B. TCP port 3389.
 5. MSSQL: C. TCP port 1433.
+
 119. B. The EU General Data Protection Regulation does not require that organizations
 provide individuals with employee lists.
+
 120. B. Tammy should choose a warm site. This type of facility meets her requirements for
 a good balance between cost and recovery time. It is less expensive than a hot site but
 facilitates faster recovery than a cold site. A red site is not a type of disaster recovery
 facility.
+
 121. B. When data reaches the Transport layer, it is sent as segments (TCP) or datagrams
 (UDP). Above the Transport layer, data becomes a data stream, while below the Transport
 layer they are converted to packets at the Network layer, frames at the Data Link layer,
 and bits at the Physical layer.
+
 122. D. The Advanced Encryption Standard supports encryption with 128-bit keys, 192-bit
 keys, and 256-bit keys.
+
 123. D. An application programming interface (API) allows developers to create a direct
 method for other users to interact with their systems through an abstraction that does
 not require knowledge of the implementation details. Access to object models, source
@@ -559,6 +617,6 @@ code, and data dictionaries also indirectly facilitate interaction but do so in 
 provides other developers with implementation details.
 
 125. B. The permissions granted on files in Linux designate what authorized users can do
-with those files—read, write, or execute. In the image shown, all users can read, write,
+with those files-read, write, or execute. In the image shown, all users can read, write,
 and execute index.html, whereas the owner can read, write, and execute example.txt, the
 group cannot, and everyone can write and execute it.
