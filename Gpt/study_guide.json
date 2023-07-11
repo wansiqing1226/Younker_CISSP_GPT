@@ -104,7 +104,7 @@
 {"prompt": "Public Key Infrastructure (PKI)", "completion": "PKI leverages symmetric, asymmetric, and elliptic curve encryption to provide and manage digital certificates. It ensures confidentiality, integrity, and non-repudiation for users."}
 {"prompt": "Key management practices", "completion": "Key management practices include having a certificate authority for managing and signing certificates."}
 {"prompt": "Digital signatures", "completion": "Digital signatures are cryptographic mechanisms used to uniquely represent the identity of an individual or entity."}
-{"prompt": "Non-repudiation ", "completion": "Non-repudiation ensures that a party cannot deny their involvement or actions in a transaction or communication."}
+{"prompt": "Non-repudiation", "completion": "Non-repudiation ensures that a party cannot deny their involvement or actions in a transaction or communication."}
 {"prompt": "Integrity (e.g., hashing)", "completion": "Integrity, often achieved through techniques like hashing, verifies that data has not been altered or tampered with."}
 {"prompt": "Methods of cryptanalytic attacks", "completion": "Cryptanalytic attacks involve analyzing initialization vectors, key exchanges, symmetric encryption, and other components for weaknesses that can be exploited."}
 {"prompt": "Digital Rights Management (DRM)", "completion": "DRM is a systematic approach for protecting digital rights and managing access to digital content."}
