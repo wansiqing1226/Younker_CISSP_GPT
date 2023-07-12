@@ -1,0 +1,1314 @@
+{"prompt":"Accountability ->","completion":" Holds individuals accountable for their actions\n"}
+{"prompt":"Accountability Principle ->","completion":" OECD Privacy Guideline principle which states individuals should have the right to challenge the content of any personal data being held, and have a process for updating their personal data if found to be inaccurate or incomplete\n"}
+{"prompt":"Act honorably, justly, responsibly, and legally ->","completion":" Second canon of the (ISC)2 Code of ethics\n"}
+{"prompt":"Administrative Law ->","completion":" Law enacted by government agencies, aka regulatory law\n"}
+{"prompt":"Advance and protect the profession ->","completion":" Fourth canon of the (ISC)2 Code of Ethics\n"}
+{"prompt":"Agents of law enforcement ->","completion":" Private citizens carrying out actions on the behalf of law enforcement\n"}
+{"prompt":"AIC triad ->","completion":" The three security principles: availability, integrity, and confidentiality.\n"}
+{"prompt":"ALE\/Annualized Loss Expectancy ->","completion":" The cost of loss due to a risk over a year\n"}
+{"prompt":"Annualized loss expectancy (ALE) ->","completion":" A dollar amount that estimates the loss potential from a risk in a span of a year. Single Loss Expectancy (SLE) x annualized rate of occurrence (ARO) = ALE\n"}
+{"prompt":"Annualized Rate of Occurrence (ARO) ->","completion":" The value that represents the estimated possibility of a specific threat taking place within a one-year timeframe.\n"}
+{"prompt":"Antivirus Software ->","completion":" Software designed to prevent and detect malware infections\n"}
+{"prompt":"ARO\/Annual Rate of Occurrence ->","completion":" The number of losses suffered per year\n"}
+{"prompt":"Attack ->","completion":" An attempt to bypass security controls in a system with the mission of using that system or compromising it. An attack is usually accomplished by exploiting a current vulnerability.\n"}
+{"prompt":"Authentication ->","completion":" Proof of an Identity claim\n"}
+{"prompt":"Authorization ->","completion":" Actions an individual can perform on a system\n"}
+{"prompt":"AV\/Asset Value ->","completion":" The Value of a protected asset\n"}
+{"prompt":"Availability ->","completion":" The reliability and accessibility of data and resources to authorized identified individuals in a timely manner.\n"}
+{"prompt":"Availability ->","completion":" Assures information is available when needed\n"}
+{"prompt":"Awareness ->","completion":" Security Control designed to change user behavior\n"}
+{"prompt":"Background checks ->","completion":" A Verification of a person's background and experience, Also called pre-employment screening\n"}
+{"prompt":"Baseline ->","completion":" Uniform ways to implement a safeguard, administrative control\n"}
+{"prompt":"Baseline ->","completion":" The minimum level of security necessary to support and enforce a security policy.\n"}
+{"prompt":"Best evidence rule ->","completion":" Requires use of the strongest possible evidence\n"}
+{"prompt":"Best practice ->","completion":" A consensus of the best way to protect the confidentiality, integrity, and availability of assets\n"}
+{"prompt":"Bot ->","completion":" A computer system running malware that is controlled via a botnet\n"}
+{"prompt":"Botnet ->","completion":" A central bot command and control (C&C) network, managed by humans\n"}
+{"prompt":"Breach notification ->","completion":" Notification of persons whose personal data has been, or is likely to have been, compromised\n"}
+{"prompt":"Business Impact Analysis (BIA) ->","completion":" A functional analysis in which a team collects data, documents business functions, develops a hierarchy of business functions, and applies a classification scheme to indicate each individual function's criticality level.\n"}
+{"prompt":"CIA triad ->","completion":" Confidentiality, Integrity, and Availability\n"}
+{"prompt":"Circumstantial evidence ->","completion":" Evidence that serves to establish the circumstances related to particular points or even other evidence\n"}
+{"prompt":"Civil law ->","completion":" Law that resolves disputes between individuals or organizations\n"}
+{"prompt":"Civil law (legal system) ->","completion":" Legal system that leverages codified laws or statutes to determine what is considered within the bounds of law\n"}
+{"prompt":"Classification ->","completion":" A systematic arrangement of objects into groups or categories according to a set of established criteria. Data and resources can be assigned a level of sensitivity as they are being created, amended, enhanced, stored, or transmitted. The classification level then determines the extent to which the resource needs to be controlled and secured, and is indicative of its value in terms of information assets.\n"}
+{"prompt":"Collection Limitation Principle ->","completion":" OECD Privacy Guideline principle which states personal data collection should have limits, be obtained in a lawful manner, and, unless there is a compelling reason to the contrary, with the individual's knowledge and approval.\n"}
+{"prompt":"Collusion ->","completion":" Two or more people working together to carry out a fraudulent activity. More than one person would need to work together to cause some type of destruction or fraud; this drastically reduces its probability.\n"}
+{"prompt":"Color of law ->","completion":" Acting on the authority of law enforcement\n"}
+{"prompt":"Commandments of Computer Ethics ->","completion":" The Computer Ethics institute code of ethics\n"}
+{"prompt":"Common law ->","completion":" Legal system that places significant emphasis on particular cases and judicial precedent as a determinant of laws\n"}
+{"prompt":"Compensation controls ->","completion":" Additional security controls put in place to compensate for weaknesses in other controls\n"}
+{"prompt":"Compensatory damages ->","completion":" Damages provided as compensation\n"}
+{"prompt":"Computer crimes ->","completion":" Crimes using computers\n"}
+{"prompt":"Computer Fraud and Abuse Act ->","completion":" Title 18 United States Code Section 1030\n"}
+{"prompt":"Copyright ->","completion":" Type of intellectual property that protects the form of expression in artistic, musical, or literary works\n"}
+{"prompt":"Copyright ->","completion":" A legal right that protects the expression of ideas.\n"}
+{"prompt":"Corrective controls ->","completion":" Controls that correct a damaged system or process\n"}
+{"prompt":"Corroborative evidence ->","completion":" Evidence that provides additional support for a fact that might have been called into question\n"}
+{"prompt":"cost\/benefit analysis ->","completion":" An assessment that is performed to ensure that the cost of a safeguard does not outweigh the benefit of the safeguard. Spending more to protect an asset than the asset is actually worth does not make good business sense. All possible safeguards must be evaluated to ensure that the most security-effective and cost-effective choice is made.\n"}
+{"prompt":"countermeasure ->","completion":" A control, method, technique, or procedure that is put into place to prevent a threat agent from exploiting a vulnerability. A countermeasure is put into place to mitigate risk. Also called a safeguard or control\n"}
+{"prompt":"Cracker ->","completion":" A black hat hacker\n"}
+{"prompt":"Criminal law ->","completion":" Law where the victim can be seen as society itself\n"}
+{"prompt":"Custodian ->","completion":" Provides hands-on protection of assets\n"}
+{"prompt":"Customary Law ->","completion":" Customs or practices that are so commonly accepted by a group that the custom is treated as law\n"}
+{"prompt":"Cybersquatting ->","completion":" Registering internet domain names associated with another organization's intellectual property\n"}
+{"prompt":"DAD ->","completion":" Disclosure, Alteration, and Destruction, the opposite of Confidentiality, Integrity and Availability\n"}
+{"prompt":"Data controllers ->","completion":" Role that creates and manages sensitive data within the organization. Human resources employees are an example: they create and manage sensitive data, such as salary and benefit data, reports from employee sanctions, etc.\n"}
+{"prompt":"Data Quality Principle ->","completion":" OECD Privacy guideline principle that states personal data should be complete, accurate, and maintained in a fashion consistent with the purposes for the data collection\n"}
+{"prompt":"Ddos ->","completion":" Distributed Denial of Service, an availability attack using many systems\n"}
+{"prompt":"declassification ->","completion":" An administrative decision or procedure to remove or reduce the security classification information.\n"}
+{"prompt":"dedicated security mode ->","completion":" The mode in which a system operates if all users have the clearance or authorization to access, and the need to know about, all data processed within the system. All users have been given formal access approval for all information on the system and have signed nondisclosure agreements pertaining to this information.\n"}
+{"prompt":"Defense in Depth ->","completion":" Application of Multiple safeguards that span multiple domains to protect an asset\n"}
+{"prompt":"Delphi technique ->","completion":" A group decision method used to ensure that each member of a group gives an honest and anonymous opinion pertaining to the company's risks.\n"}
+{"prompt":"Denial of Service ->","completion":" Denial of Service, an attack on availability\n"}
+{"prompt":"Detection controls ->","completion":" Controls that alert during or after a successful attack\n"}
+{"prompt":"Detection phase ->","completion":" Incident response phase that analyzes events in order to determine whether they might comprise a security incident\n"}
+{"prompt":"Deterrent controls ->","completion":" Deter users from performing actions on a system\n"}
+{"prompt":"Direct evidence ->","completion":" Testimony provided by a witness regarding what the witness actually experienced\n"}
+{"prompt":"Disclosure, Alteration and Destruction ->","completion":" See--DAD\n"}
+{"prompt":"Distributed Denial of Service ->","completion":" Distributed Denial of Service, an availability attack using many systems\n"}
+{"prompt":"Divestitures ->","completion":" Also known as de-mergers and de-acquisitions, and represent flip side of acquisition: one company becomes two or more\n"}
+{"prompt":"DoS ->","completion":" Denial of Service, an attack on availability\n"}
+{"prompt":"Due care ->","completion":" Requires that key organizational stakeholders are prudent in carrying out their duties, aka that 'prudent man rule'\n"}
+{"prompt":"Due Diligence ->","completion":" The management of Due care\n"}
+{"prompt":"due diligence ->","completion":" the process of systematically evaluating information to identify vulnerabilities, threats, and issues relating to an organization's overall risk.\n"}
+{"prompt":"ECPA \/ Electronic Communications Privacy Act ->","completion":" Provides search and seizure protection to non-telephony electronic communications\n"}
+{"prompt":"EF \/ Exposure Factor ->","completion":" The percentage of value an asset lost due to an incident\n"}
+{"prompt":"Enticement ->","completion":" Making the conditions for commission of a crime favorable for those already intent on breaking the law\n"}
+{"prompt":"Entrapment ->","completion":" A legal defense where the defendant claims an agent of law enforcement persuaded the defendant to commit a crime that he or she would otherwise not have committed\n"}
+{"prompt":"Ethics ->","completion":" Doing what is morally right\n"}
+{"prompt":"EU Data Protection Directive ->","completion":" Privacy directive which allows for the free flow of information while still maintaining consistent protections of each member nations citizens data\n"}
+{"prompt":"EULA \/ End User License Agreement ->","completion":" A form of software licensing agreement\n"}
+{"prompt":"Exigent circumstances ->","completion":" With respect to evidence acquisition, justification for the seizure of evidence without a warrant due to the extreme likelihood that the evidence will be destroyed\n"}
+{"prompt":"exposure ->","completion":" An instance of being exposed to losses from a threat. A weakness or vulnerability can cause an organization to be exposed to possible damages.\n"}
+{"prompt":"exposure factor ->","completion":" The percentage of loss a realized threat could have on a certain asset.\n"}
+{"prompt":"Fair use doctrine ->","completion":" Allows someone to duplicate copyrighted material without requiring the payment, consent, or even knowledge of the copyright holder\n"}
+{"prompt":"First sale doctrine ->","completion":" Allows a legitimate purchaser of copyrighted material to sell it to another person\n"}
+{"prompt":"GLBA \/ Gramm-Leach-Bliley Act ->","completion":" Requires financial institutions to protect the confidentiality and integrity of consumer financial information\n"}
+{"prompt":"Gramm-Leach-Bliley Act (GLBA) ->","completion":" Requires financial institutions to protect the confidentiality and integrity of consumer financial information\n"}
+{"prompt":"Gross negligence ->","completion":" The opposite of due care\n"}
+{"prompt":"Guideline ->","completion":" A recommendation, administrative control\n"}
+{"prompt":"Hacker ->","completion":" Controversial term that may mean explorer or someone who maliciously attacks systems\n"}
+{"prompt":"Hacktivist ->","completion":" Hacker activist, someone who attacks computer systems for political reasons\n"}
+{"prompt":"Health Insurance Portability and Accountability Act (HIPAA) ->","completion":" Health insurance portability and accountability act, united states regulation which protects healthcare information\n"}
+{"prompt":"Hearsay ->","completion":" Second-hand evidence\n"}
+{"prompt":"Hybrid Risk Analysis ->","completion":" Combines quantitative and qualitative risk analysis\n"}
+{"prompt":"Identification ->","completion":" Association of an individual\n"}
+{"prompt":"Impact ->","completion":" The severity of damage, sometimes expressed in dollars (value)\n"}
+{"prompt":"Individual Participation Protocol ->","completion":" OECD privacy guideline principle that states individual should have control over their data\n"}
+{"prompt":"Integrity ->","completion":" Seeks to prevent unauthorized modification of information\n"}
+{"prompt":"Intellectual property ->","completion":" Intangible property that resulted from a creative act\n"}
+{"prompt":"Legal liability ->","completion":" Liability enforced through civil law\n"}
+{"prompt":"loss potential ->","completion":" The potential losses that can be accrued if a threat agent actually exploits a vulnerability.\n"}
+{"prompt":"OECD Privacy Guidelines ->","completion":" Organization for Economic Cooperation and Development privacy guidelines, containing eight principles\n"}
+{"prompt":"Offshoring ->","completion":" Outsourcing to another country\n"}
+{"prompt":"Openness Principle ->","completion":" OECD Privacy Guideline principle that states collection and use of personal data should be readily available\n"}
+{"prompt":"Outsourcing ->","completion":" Use of a third party to provide information technology support services which were previously performed in-house\n"}
+{"prompt":"Patent ->","completion":" Intellectual property protection that grants a monopoly on the right to use, make, or sell an invention for a period of time\n"}
+{"prompt":"Payment Card Industry Data Security Standard ->","completion":" See PCI DSS\n"}
+{"prompt":"PCI-DSS ->","completion":" Payment Card Industry Data Security Standard, a security standard created by the Payment Card Industry Security Standards Council (PCI SSC)\n"}
+{"prompt":"Personally Identifiable Information ->","completion":" See PII\n"}
+{"prompt":"personnel security ->","completion":" The procedures that are established to ensure that all personnel who have access to sensitive information have the required authority as well as appropriate clearances. Procedures confirm a person's background and provide assurance of necessary trustworthiness.\n"}
+{"prompt":"Phishing ->","completion":" Malicious attack that poses as a legitimate site such as a bank, attempting to steal account credentials\n"}
+{"prompt":"policy ->","completion":" High-level management directives, administrative control\n"}
+{"prompt":"preventive controls ->","completion":" Prevents actions from occurring\n"}
+{"prompt":"privacy ->","completion":" Protection of the confidentiality of personal information\n"}
+{"prompt":"privacy act of 1974 ->","completion":" Protects US citizens' data that is being used by the federal government\n"}
+{"prompt":"procedure ->","completion":" Step-by-step guide for accomplishing a task, administrative control\n"}
+{"prompt":"procedure ->","completion":" Detailed step-by-step instructions to achieve a certain task, which are used by users, IT staff, operations staff, security members, and others.\n"}
+{"prompt":"protect society, the commonwealth, and the infrastructure ->","completion":" First canon of the (ISC)2 Code of Ethics\n"}
+{"prompt":"provide diligent and competent service to principals ->","completion":" Third canon of the (ISC)2 Code of Ethics\n"}
+{"prompt":"prudent man rule ->","completion":" Organization should engage in business practices that a prudent, right-thinking person would consider to be appropriate (ever watch what would you do?)\n"}
+{"prompt":"punitive damages ->","completion":" Damages designed to punish an individual or organization\n"}
+{"prompt":"purpose specification principle ->","completion":" OECD privacy guideline principle that states the purpose for the data collection should be known, and the subsequent use of the data should be limited to the purposes outlined at the time of collection\n"}
+{"prompt":"qualitative risk analysis ->","completion":" A risk analysis method that uses intuition and experience to judge an organization's exposure to risks. It uses scenarios and rating systems. Compare to quantitative risk analysis.\n"}
+{"prompt":"qualitative risk analysis ->","completion":" RA method which uses approximate values (different from quantitative - which is to quantify, how much, count, etc..)\n"}
+{"prompt":"quantitative risk analysis ->","completion":" A risk analysis method that attempts to use percentages in damage estimations and assigns real numbers to the costs of countermeasures for particular risks and the amount of damage that could result from the risk. Compare to qualitative risk analysis.\n"}
+{"prompt":"RAT ->","completion":" Remote access trojans, trojan horse which may be remotely controlled\n"}
+{"prompt":"RAT \/ Remote Access Trojans ->","completion":" Trojan Horses which may be remotely controlled.\n"}
+{"prompt":"read-only memory ->","completion":" ROM\n"}
+{"prompt":"real evidence ->","completion":" Evidence consisting of tangible or physical objects\n"}
+{"prompt":"recovery controls ->","completion":" Controls that restore a damaged system or process\n"}
+{"prompt":"reduced instruction set computer ->","completion":" RISC\n"}
+{"prompt":"reduction analysis ->","completion":" The process of analyzing and lowering risk\n"}
+{"prompt":"regulatory law ->","completion":" Administrative law\n"}
+{"prompt":"Religious law ->","completion":" Legal system that uses religious doctrine or interpretation as a source of legal understanding and statutes.\n"}
+{"prompt":"Remanence ->","completion":" Data that might persist after removal attempts.\n"}
+{"prompt":"Repudiation ->","completion":" When the sender of a message denies sending the message. The countermeasure to this is to implement digital signatures.\n"}
+{"prompt":"Residual Risk ->","completion":" The remaining risk after the security controls have been applied. The conceptual formulas that explain the difference between total and residual risk are: threats x vulnerability x asset value = total risk (threats x vulnerability x asset value) x control gaps = residual risk\n"}
+{"prompt":"Return on Investment ->","completion":" Money saved by deploying a safeguard.\n"}
+{"prompt":"Risk ->","completion":" The likelihood of a threat agent taking advantage of a vulnerability and the resulting business impact. A risk is the loss potential, or probability, that a threat will exploit a vulnerability.\n"}
+{"prompt":"Risk Analysis ->","completion":" A method of identifying risks and assessing the possible damage that could be caused in order to justify security safeguards.\n"}
+{"prompt":"Risk Analysis Matrix ->","completion":" A quadrant used to map the likelihood of a risk occurring against the consequences (or impact) that risk would have.\n"}
+{"prompt":"Risk Management ->","completion":" The process of identifying, assessing, and reducing the risk to an acceptable level and implementing the right mechanisms to maintain the level of risk.\n"}
+{"prompt":"ROM ->","completion":" Read Only Memory\n"}
+{"prompt":"Sanction ->","completion":" Action taken as a result of policy violation.\n"}
+{"prompt":"Scoping ->","completion":" The process of determining which portions of a standard will be employed by an organization.\n"}
+{"prompt":"Script kiddies ->","completion":" Attackers who target computer systems with tools they have little or no understanding of.\n"}
+{"prompt":"Search Warrant ->","completion":" Court order that allows a legal search.\n"}
+{"prompt":"Secondary Evidence ->","completion":" Evidence consisting of copies of original documents and oral descriptions.\n"}
+{"prompt":"Security Safeguards Principle ->","completion":" OECD Privacy Guideline principle that states personal data should be reasonably protected against unauthorized use, disclosure, or alteration.\n"}
+{"prompt":"Servicemark ->","completion":" Intellectual property protection that allows for the creation of a brand that distinguishes the source of services.\n"}
+{"prompt":"Shredding \/ Wiping ->","completion":" Writes new data over each bit or block of file data.\n"}
+{"prompt":"SLE ->","completion":" Single Loss Expectancy, the cost of a single loss\n"}
+{"prompt":"SOX ->","completion":" Sarbanes-Oxley Act of 2002, created regulatory compliance mandates for publicly traded companies.\n"}
+{"prompt":"SOX \/ Sarbanes-Oxley Act ->","completion":" Sarbanes-Oxley Act of 2002, created regulatory compliance mandates for publicly traded companies.\n"}
+{"prompt":"Spear Phishing ->","completion":" Targeted phishing attack against a small number of high-level victims.\n"}
+{"prompt":"Standard ->","completion":" Describes the specific use of technology, often applied to hardware and software administrative control.\n"}
+{"prompt":"Statutory Damages ->","completion":" Damages prescribed by law.\n"}
+{"prompt":"tactical goals ->","completion":" Midterm goals to accomplish. These may be milestones to accomplish within a project or specific projects to accomplish in a year. Strategic, tactical, and operational goals make up a planning horizon.\n"}
+{"prompt":"Technical Controls ->","completion":" These controls, also called logical access control mechanisms, work in software to provide confidentiality, integrity, or availability protection. Some examples are passwords, identification and authentication methods, security devices, auditing, and the configuration of the network.\n"}
+{"prompt":"Threat ->","completion":" Any potential danger that a vulnerability will be exploited by a threat agent.\n"}
+{"prompt":"threat ->","completion":" Any potential danger that a vulnerability will be exploited by a threat agent.\n"}
+{"prompt":"Threat ->","completion":" A potentially negative occurrence.\n"}
+{"prompt":"top-down approach ->","completion":" An approach in which the initiation, support, and direction for a project come from top management and work their way down through middle management and then to staff members.\n"}
+{"prompt":"Total Cost of Ownership (TCO) ->","completion":" The total cost of ownership (TCO) refers to the overall cost associated with acquiring, deploying, and maintaining a particular asset or system over its entire lifecycle.\n"}
+{"prompt":"Total Risk ->","completion":" When a safeguard is not implemented, an organization is faced with the total risk of that particular vulnerability.\n"}
+{"prompt":"Trade secret ->","completion":" A trade secret is business-proprietary information that is important to an organization's ability to compete.\n"}
+{"prompt":"Trademark ->","completion":" A trademark is a legal right that protects a word, name, product shape, symbol, color, or combination of these used to identify a product or company.\n"}
+{"prompt":"Trojan Horse ->","completion":" A Trojan Horse is a computer program that has an apparently or actually useful function but also contains hidden malicious capabilities to exploit a vulnerability and\/or provide unauthorized access into a system.\n"}
+{"prompt":"Typosquatting ->","completion":" Typosquatting refers to registering internet domain names comprised of likely misspellings or mistyping of legitimate domain trademarks.\n"}
+{"prompt":"USA PATRIOT ACT ->","completion":" The USA PATRIOT ACT (Uniting and Strengthening America by Promoting Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001) is a law enacted in the United States to enhance national security measures.\n"}
+{"prompt":"Use Limitation Principle ->","completion":" The Use Limitation Principle is an OECD Privacy Guideline principle that states personal data should never be disclosed without either the consent of the individual or legal requirement.\n"}
+{"prompt":"Vulnerability ->","completion":" A vulnerability refers to the absence or weakness of a safeguard that could be exploited.\n"}
+{"prompt":"Wassenaar Arrangement ->","completion":" The Wassenaar Arrangement is a munitions law that followed COCOM, beginning in 1996.\n"}
+{"prompt":"White hat ->","completion":" A white hat refers to an ethical hacker or researcher who uses their skills for beneficial purposes, such as identifying and fixing security vulnerabilities.\n"}
+{"prompt":"Zombie ->","completion":" A zombie, also known as a bot, is a computer system running malware that is controlled by a botnet.\n"}
+{"prompt":"Accreditation ->","completion":" Accreditation refers to the data owner's acceptance of the risk represented by a system.\n"}
+{"prompt":"Asset ->","completion":" An asset is a resource that is valuable to an organization and must be protected.\n"}
+{"prompt":"ATA Secure Erase ->","completion":" ATA Secure Erase is a hardware-level secure erase command available on Solid State Drives (SSD's) that erases all blocks and generates a new encryption key.\n"}
+{"prompt":"BIOS\/Basic Input Output System ->","completion":" BIOS (Basic Input Output System) is a firmware typically stored in a computer's firmware, responsible for initializing and controlling hardware during the boot process.\n"}
+{"prompt":"Business Owners ->","completion":" Business Owners, also called Mission Owners, are members of senior management who create the information security program and ensure that it is properly staffed, funded, and has organizational priority.\n"}
+{"prompt":"Cache memory ->","completion":" Cache memory is the fastest memory in a system, required to keep up with the CPU as it fetches and executes instructions.\n"}
+{"prompt":"Clearance ->","completion":" Clearance is a determination, typically made by a senior security professional, about whether or not a user can be trusted with a specific level of information.\n"}
+{"prompt":"COBIT ->","completion":" COBIT (Control Objectives for Information and related Technology) is a control framework for employing information security governance best practices within an organization.\n"}
+{"prompt":"Common Criteria ->","completion":" Common Criteria is an internationally agreed-upon standard for describing and testing the security of IT projects.\n"}
+{"prompt":"Control Objectives for Information and related Technology ->","completion":" Control Objectives for Information and related Technology (COBIT) is a framework for employing information security governance best practices within an organization.\n"}
+{"prompt":"Data at rest (DAR) ->","completion":" Data at rest (DAR) refers to data that resides in external or auxiliary storage devices such as hard disk drives, solid-state drives, or DVDs.\n"}
+{"prompt":"Data classification ->","completion":" Data classification refers to assignments given to data that indicate the level of availability, integrity, and confidentiality required for each type of information.\n"}
+{"prompt":"Data custodian ->","completion":" A data custodian is an individual who is responsible for the maintenance and protection of data, usually filled by the IT department or network administrator.\n"}
+{"prompt":"Data in transit or data in motion (DIM) ->","completion":" Data in transit or data in motion (DIM) refers to data that is moving between computing nodes over a data network such as the Internet.\n"}
+{"prompt":"Data in use ->","completion":" Data in use refers to data that temporarily resides in primary storage such as registers, caches, or RAM while the CPU is using it.\n"}
+{"prompt":"Data leak prevention (DLP) ->","completion":" Data leak prevention (DLP) refers to the actions that organizations take to prevent unauthorized external parties from gaining access to sensitive data.\n"}
+{"prompt":"Data Owner ->","completion":" A Data Owner is a management employee responsible for ensuring that specific data is protected.\n"}
+{"prompt":"Data Processor ->","completion":" A Data Processor is a role that manages data on behalf of data controllers. For example, an outsourced payroll company acts as a data processor.\n"}
+{"prompt":"Data remanence ->","completion":" Data remanence refers to any data remaining on magnetic storage media after the applied magnetic force, which is used to erase data, has been removed.\n"}
+{"prompt":"Degauss ->","completion":" Degauss is the process of demagnetizing magnetic media so that a very low residue of magnetic induction is left on the media, effectively erasing the data.\n"}
+{"prompt":"Degaussing ->","completion":" Degaussing refers to destroying the integrity of the magnetization of storage media, making the data unrecoverable.\n"}
+{"prompt":"DRAM ->","completion":" DRAM (Dynamic Random Access Memory) stores bits in small capacitors and is cheaper and slower than SRAM (Static Random Access Memory).\n"}
+{"prompt":"EEPROM\/Electrically Erasable Programmable Read Only Memory ->","completion":" EEPROM (Electrically Erasable Programmable Read Only Memory) is a type of memory that can be electrically erased and reprogrammed.\n"}
+{"prompt":"Electronic discovery (e-discovery) ->","completion":" Electronic discovery (e-discovery) refers to the process of producing all electronically stored information pertinent to a legal proceeding for a court or external attorney.\n"}
+{"prompt":"End-to-end encryption ->","completion":" End-to-end encryption is a technology that encrypts the data payload of a packet to provide secure communication between endpoints.\n"}
+{"prompt":"FDE\/Full Disk Encryption ->","completion":" FDE (Full Disk Encryption) refers to the encryption of an entire disk or storage device, providing comprehensive data protection.\n"}
+{"prompt":"Firmware ->","completion":" Firmware stores small programs that do not change frequently, such as a computer's BIOS (Basic Input Output System).\n"}
+{"prompt":"Flash memory ->","completion":" Flash memory is a specific type of EEPROM (Electrically Erasable Programmable Read Only Memory) commonly used for small portable disk drives.\n"}
+{"prompt":"Formal access approval ->","completion":" Formal access approval refers to documented approval from the data owner for a subject to access certain objects or resources.\n"}
+{"prompt":"Hardcopy Data ->","completion":" Hardcopy data refers to any data that is accessed through reading or writing on paper rather than processing through a computer system.\n"}
+{"prompt":"Information Technology Infrastructure Library (ITIL) ->","completion":" Information Technology Infrastructure Library (ITIL) is a framework for providing best practices in IT Service Management (ITSM).\n"}
+{"prompt":"ISO 17799 ->","completion":" ISO 17799 is a broad-based approach for an information security code of practice developed by the International Organization for Standardization (ISO).\n"}
+{"prompt":"ITIL ->","completion":" ITIL (Information Technology Infrastructure Library) is a framework for providing best practices in IT Service Management (ITSM).\n"}
+{"prompt":"Label ->","completion":" A label is a security level assigned to an object, such as confidential, secret, or top secret, indicating the level of protection required for the object.\n"}
+{"prompt":"Mission Owners ->","completion":" Mission Owners, also called Business Owners, are members of senior management who create the information security program and ensure that it is properly staffed, funded, and has organizational priority.\n"}
+{"prompt":"Multilevel security ->","completion":" Multilevel security refers to a class of systems containing information with different classifications, where access decisions are based on the subject's security clearances, need-to-know, and formal approval.\n"}
+{"prompt":"Need to know ->","completion":" A requirement that subjects need to know information before accessing it.\n"}
+{"prompt":"OCTAVE ->","completion":" Operationally Critical Threat, Asset and Vulnerability Evaluation, a risk management framework from Carnegie Mellon University.\n"}
+{"prompt":"Operationally Critical Threat, Asset, and Vulnerability Evaluation ->","completion":" See OCTAVE.\n"}
+{"prompt":"Payment Card Industry Data Security Standard (PCI-DSS) ->","completion":" An information security standard for organizations that are involved in payment card transactions.\n"}
+{"prompt":"PII ->","completion":" Personally Identifiable Information, data associated with a specific person, such as credit card data.\n"}
+{"prompt":"PLD ->","completion":" Programmable Logic Device, a field-programmable hardware.\n"}
+{"prompt":"Presentation layer ->","completion":" Layer 6 of the OSI model, presents data to the application in a comprehensible way.\n"}
+{"prompt":"Programmable logic device ->","completion":" PLD.\n"}
+{"prompt":"Programmable read only memory ->","completion":" PROM, memory that can be written to once, typically at the factory.\n"}
+{"prompt":"PROM ->","completion":" Programmable read only memory, memory that can be written to once, typically at the factory.\n"}
+{"prompt":"Purge ->","completion":" The removal of sensitive data from a system, storage device, or peripheral device with storage capacity at the end of a processing period. This action is performed in such a way that there is assurance proportional to the sensitivity of the data that the data cannot be reconstructed.\n"}
+{"prompt":"Read ->","completion":" An operation that results in the flow of information from an object to a subject and does not give the subject the ability to modify the object or the data within the object.\n"}
+{"prompt":"Registers ->","completion":" Small storage locations used by the CPU to store instructions and data.\n"}
+{"prompt":"SRAM ->","completion":" Static Random Access Memory, expensive and fast memory that uses small latches called 'flip-flops' to store bits.\n"}
+{"prompt":"SSD ->","completion":" Solid State Drive, a combination of flash memory (EEPROM) and DRAM.\n"}
+{"prompt":"System Owner ->","completion":" A manager responsible for the actual computers that house data, including hardware and software configuration, updates, patching, etc.\n"}
+{"prompt":"Tailoring ->","completion":" The process of customizing a standard for an organization.\n"}
+{"prompt":"Wiping ->","completion":" Writes new data over each bit or block of file data. Also called shredding.\n"}
+{"prompt":"Worm ->","completion":" An independent program that can reproduce by copying itself from one system to another. It may damage data directly or degrade system performance by tying up resources.\n"}
+{"prompt":"802.1X ->","completion":" Port-based Network Access Control layer 2 authentication.\n"}
+{"prompt":"Abstraction ->","completion":" Hides unnecessary details from the user.\n"}
+{"prompt":"Access Control Matrix ->","completion":" A table defining what access permissions exist between specific subjects and objects.\n"}
+{"prompt":"Accredited ->","completion":" A computer system or network that has received official authorization and approval to process sensitive data in a specific operational environment. There must be a security evaluation of the system's hardware, software, configurations, and controls by technical personnel.\n"}
+{"prompt":"ActiveX controls ->","completion":" The functional equivalent of Java applets. They use digital certificates instead of a sandbox to provide security.\n"}
+{"prompt":"ASLR ->","completion":" Address Space Layout Randomization, seeks to decrease the likelihood of successful exploitation by making memory addresses employed by the system less predictable.\n"}
+{"prompt":"Advanced Encryption Standard (AES) ->","completion":" A block cipher using 128-bit, 192-bit, or 256-bit keys to encrypt 128-bit blocks of data.\n"}
+{"prompt":"Aggregation ->","completion":" A mathematical attack where a user is able to use lower-level access to learn restricted information.\n"}
+{"prompt":"Authentication Header (AH) ->","completion":" Authentication Header, an IPsec protocol that provides authentication and integrity for each packet of network data.\n"}
+{"prompt":"ALU (Arithmetic Logic Unit) ->","completion":" A CPU component that performs mathematical calculations.\n"}
+{"prompt":"Analog ->","completion":" Communications that send a continuous wave of information.\n"}
+{"prompt":"Applet ->","completion":" Small pieces of mobile code that are embedded in other software, such as web browsers.\n"}
+{"prompt":"Assurance ->","completion":" A measurement of confidence in the level of protection that a specific security control delivers and the degree to which it enforces the security policy.\n"}
+{"prompt":"Asymmetric Encryption ->","completion":" Encryption that uses two keys: if you encrypt with one, you may decrypt with the other.\n"}
+{"prompt":"Backdoor ->","completion":" A shortcut in a system that allows a user to bypass security checks.\n"}
+{"prompt":"Bell-LaPadula ->","completion":" A security model focused on maintaining the confidentiality of objects.\n"}
+{"prompt":"Bell-LaPadula Model ->","completion":" The model uses a formal state transition model that describes its access controls and how they should perform. When the system must transition from one state to another, the security of the system should never be lowered or compromised. See also multilevel security, simple security property, and *-property.\n"}
+{"prompt":"Biba ->","completion":" A security model focused on maintaining the integrity of objects.\n"}
+{"prompt":"Biba Model ->","completion":" A formal state transition system of a computer security policy that describes a set of access control rules designed to ensure data integrity.\n"}
+{"prompt":"Big Bang testing ->","completion":" Integration testing that tests all integrated software components.\n"}
+{"prompt":"Blowfish ->","completion":" A block cipher using from 32 through 448-bit (the default is 128) keys to encrypt 64 bits of data.\n"}
+{"prompt":"Bollard ->","completion":" A post designed to stop a car, typically deployed in front of building entrances.\n"}
+{"prompt":"Book cipher ->","completion":" Cryptographic method that uses whole words from a well-known text such as a dictionary as a one-to-one replacement for plaintext\n"}
+{"prompt":"Boot sector virus ->","completion":" Virus that infects the boot sector of a PC, which ensures the virus loads upon system startup\n"}
+{"prompt":"Brewer-Nash \/ Chinese Wall Model ->","completion":" Model designed to avoid conflicts of interest by prohibiting one person, like a consultant, from accessing multiple conflict of interest categories (CoIs)\n"}
+{"prompt":"Caesar Cipher ->","completion":" A rot-3 substitution cipher\n"}
+{"prompt":"CBC ->","completion":" Cipher Block Chaining, a block mode of DES that XORs the previous encrypted block of ciphertext to the next block of plaintext to be encrypted\n"}
+{"prompt":"CCD ->","completion":" Charged Couple Discharge, a digital CCTV\n"}
+{"prompt":"CCTV ->","completion":" Closed Circuit Television, a detective device used to aid guards in detecting the presence of intruders in restricted areas\n"}
+{"prompt":"Certificate Authority ->","completion":" PKI component that authenticates the identity of a person or organization before issuing a certificate to them\n"}
+{"prompt":"Certificate Revocation List ->","completion":" Certificate Revocation Lists, PKI component which lists digital certificates that have been revoked\n"}
+{"prompt":"Certification ->","completion":" The technical evaluation of the security components and their compliance for the purpose of accreditation. A certification process can use safeguard evaluation, risk analysis, verification, testing, and auditing techniques to assess the appropriateness of a specific system processing a certain level of information within a particular environment. The certification is the testing of the security component or system, and the accreditation is the approval from management of the security component or system.\n"}
+{"prompt":"CFB ->","completion":" Cipher Feedback, a stream mode DES that is similar to block-mode CBC\n"}
+{"prompt":"Chaining ->","completion":" Block cipher mechanism that seeds the previous encrypted block into the next block to be encrypted\n"}
+{"prompt":"Charged Couple Discharge - CCD ->","completion":" Charged Couple Discharge, a digital CCTV\n"}
+{"prompt":"Chinese Wall Model ->","completion":" Model designed to avoid conflicts of interest by prohibiting one person, like a consultant, from accessing multiple conflict of interest categories (CoIs)\n"}
+{"prompt":"Cipher Block Chaining - CBC ->","completion":" Cipher Block Chaining, a block mode of DES that XORs the previous encrypted block of ciphertext to the next block of plaintext to be encrypted\n"}
+{"prompt":"Cipher disk ->","completion":" Cryptographic device that uses two concentric disks, each with an alphabet around the periphery\n"}
+{"prompt":"Cipher Feedback - CFB ->","completion":" Cipher Feedback, a stream mode DES that is similar to block-mode CBC\n"}
+{"prompt":"Ciphertext ->","completion":" A encrypted message\n"}
+{"prompt":"Ciphertext ->","completion":" Data that has been encrypted and is unreadable until it has been converted into plaintext.\n"}
+{"prompt":"CISC ->","completion":" Complex Instruction Set Computers, CPU instructions that are longer and more powerful\n"}
+{"prompt":"Clark-Wilson ->","completion":" Real-world integrity model that protects integrity by having subjects access objects via programs\n"}
+{"prompt":"Clark-Wilson Model ->","completion":" An integrity model that addresses all three integrity goals: prevent unauthorized users from making modification, prevent authorized users from making improper modifications, and maintain internal and external consistency through auditing.\n"}
+{"prompt":"Class I gate ->","completion":" Residential gate designed for home use\n"}
+{"prompt":"Class II gate ->","completion":" Commercial gate, such as a parking garage gate\n"}
+{"prompt":"Class III gate ->","completion":" Industrial\/limited access gate, such as a loading dock\n"}
+{"prompt":"Class IV gate ->","completion":" Restricted access gate, used at an airport or prison\n"}
+{"prompt":"Client-side attacks ->","completion":" Attack where a user downloads malicious content\n"}
+{"prompt":"Clipper Chip ->","completion":" (Failed) 1993 Escrowed Encryption Standard (EES), which used the Skipjack algorithm\n"}
+{"prompt":"Closed Circuit Television - CCTV ->","completion":" Closed Circuit Television, a detective device used to aid guards in detecting the presence of intruders in restricted areas\n"}
+{"prompt":"Closed system ->","completion":" System using proprietary hardware or software\n"}
+{"prompt":"Cloud computing ->","completion":" The use of shared remote computing devices for the purpose of providing improved efficiencies, performance, reliability, scalability, and security.\n"}
+{"prompt":"Codebreakers (The) ->","completion":" David Kahn's history of cryptography\n"}
+{"prompt":"Complex Instruction Set Computer ->","completion":" See - CISC\n"}
+{"prompt":"Computer bus ->","completion":" The primary communication channel on a computer system\n"}
+{"prompt":"Confusion ->","completion":" The relationship between the plaintext and ciphertext should be confused (or random) as possible\n"}
+{"prompt":"Contraband check ->","completion":" Seek to identify objects that are prohibited to enter a secure perimeter (such as an airplane)\n"}
+{"prompt":"Control unit ->","completion":" CPU component that acts as a traffic cop, sending instructions to the ALU\n"}
+{"prompt":"Counter Mode ->","completion":" See - CTR\n"}
+{"prompt":"Covert channel ->","completion":" Any communication that violates security policy\n"}
+{"prompt":"covert channel ->","completion":" A communications path that enables a process to transmit information in a way that violates the system's security policy\n"}
+{"prompt":"covert storage channel ->","completion":" A covert channel that involves writing to a storage location by one process and the direct or indirect ready of the storage location by another process. Covert storage channels typically involve a resource (for example, sectors on a disk) that is shared by two subjects at different security levels.\n"}
+{"prompt":"covert timing channel ->","completion":" A covert channel in which one process modulates its system resource (for example, CPU cycles), which is interpreted by a second process as some type of communication.\n"}
+{"prompt":"CRL ->","completion":" Certificate Revocation Lists, PKI component which lists digital certificates that have been revoked\n"}
+{"prompt":"cryptanalysis ->","completion":" The practice of breaking cryptosystems and algorithms used in encryption and decryption processes.\n"}
+{"prompt":"Cryptographic Protocol Governance ->","completion":" Describes the process of selecting the right cipher and implementation for the right job\n"}
+{"prompt":"Cryptography ->","completion":" Science of creating messages whose meaning is hidden\n"}
+{"prompt":"cryptography ->","completion":" The science of secret writing that enables storage and transmission of data in a form that is available only to the intended individuals.\n"}
+{"prompt":"Cryptology ->","completion":" The science of secure communications\n"}
+{"prompt":"cryptology ->","completion":" The study of cryptography and cryptanalysis.\n"}
+{"prompt":"cryptosystem ->","completion":" The hardware or software implementation of cryptography.\n"}
+{"prompt":"CTR ->","completion":" Counter, a stream mode of DES that uses a counter for feedback\n"}
+{"prompt":"Data Encryption Standard (DES) ->","completion":" Symmetric key encryption algorithm that was adopted by the government as a federal standard for protecting sensitive unclassified information. DES was later replaced with Advanced Encryption Standard (AES).\n"}
+{"prompt":"Data Execution Prevention ->","completion":" See - DEP\n"}
+{"prompt":"Data Mining ->","completion":" Used to search for patterns, such as fraudulent activity, in a data warehouse\n"}
+{"prompt":"Date Encryption Standard ->","completion":" See - DES\n"}
+{"prompt":"DEA ->","completion":" Data Encryption Algorithm, described by DES\n"}
+{"prompt":"Deadbolt ->","completion":" A rigid locking mechanism that is held in place by a key, and prevents the door from opening or fully closing when extended\n"}
+{"prompt":"Demarc ->","completion":" Demarcation point, where the ISP's responsibility ends, and the customer's begins\n"}
+{"prompt":"DEP ->","completion":" Data Execution Prevention, which can be enabled within hardware and\/or software, and makes specific pages of the stack non-executable\n"}
+{"prompt":"DES ->","completion":" Data Encryption Standard, a symmetric block cipher using a 56-bit key and 64-bit block size\n"}
+{"prompt":"Differential cryptanalysis ->","completion":" Seeks to find the \"difference\" between related plaintexts that are encrypted\n"}
+{"prompt":"Diffie-Hellman Key Agreement protocol ->","completion":" Key agreement allows two parties to securely agree on a symmetric key via public channel with no prior key exchange\n"}
+{"prompt":"Diffusion ->","completion":" The order of plaintext should be dispersed in the ciphertext\n"}
+{"prompt":"Digital signature ->","completion":" Provides non-repudiation, which includes authentication of the identity of the signer, and proof of the document's integrity\n"}
+{"prompt":"digital signature ->","completion":" An electronic signature based upon cryptographic methods of originator authentication, computed by using a set of rules and a set of parameters such that the identity of the signer and the integrity of the data can be verified.\n"}
+{"prompt":"Diskless workstation ->","completion":" Computer systems that contain CPU, Memory, and Firmware, but no hard drive, type of thin client\n"}
+{"prompt":"domain ->","completion":" The set of objects that a subject is allowed to access. Within this domain, all subjects and objects share a common security policy, procedures, and rules, and they are managed by the same management system.\n"}
+{"prompt":"ECB \/ Electronic Code Book mode ->","completion":" The simplest and weakest mode of DES\n"}
+{"prompt":"Emanations ->","completion":" Energy which escapes an electronic system, and which may be remotely monitored under certain circumstances\n"}
+{"prompt":"encryption ->","completion":" The transformation of plaintext into unreadable ciphertext.\n"}
+{"prompt":"Enigma ->","completion":" Rotor machine used by German Axis powers during World War II\n"}
+{"prompt":"ESP \/ Encapsulating Security Payload ->","completion":" IPsec protocol which primarily provides confidentiality by encrypting packet data\n"}
+{"prompt":"Exclusive Or ->","completion":" Binary operation that is true if one of two inputs (but not both) are true\n"}
+{"prompt":"Exfiltration ->","completion":" Policy-violating removal of sensitive data from a secure perimeter\n"}
+{"prompt":"fail-safe ->","completion":" A functionality that ensures that when software or a system fails for any reason, it does not end up in a vulnerable state. After a failure, the software might default to no access instead of allowing full control, which would be an example of a fail-safe measure.\n"}
+{"prompt":"FDX \/ Fetch and execute ->","completion":" Mechanism that allows the CPU to receive machine language instructions and execute them. Also called 'Fetch, Decode, Execute'\n"}
+{"prompt":"Feedback ->","completion":" Stream cipher mechanism that seeds the previous encrypted bit into the next bit to be encrypted\n"}
+{"prompt":"Fiber Optic network cable ->","completion":" Uses light to carry information\n"}
+{"prompt":"Field of view ->","completion":" The entire area viewed by a camera\n"}
+{"prompt":"Footcandle ->","completion":" One lumen per square foot\n"}
+{"prompt":"formal security policy model ->","completion":" A mathematical statement of a security policy. When an operating system is created, it can be built upon a predeveloped model that lays out how all activities will take place in each and every situation. This model can be expressed mathematically, which is then translated into a programming language.\n"}
+{"prompt":"Half Duplex ->","completion":" Sends or receives at one time only (not simultaneously), like a walkie-talkie\n"}
+{"prompt":"Harrison-Ruzzo-Ullman Model ->","completion":" Maps subjects, objects, and access rights to an access matrix. It is considered a variation of the Graham-Denning model.\n"}
+{"prompt":"Hash Function ->","completion":" One-way encryption using an algorithm and no key\n"}
+{"prompt":"Hash of Variable Length ->","completion":" Hash algorithm that creates message digests of 128, 160, 192, 224, or 256 bits in length, using 3, 4, or 5 rounds.\n"}
+{"prompt":"Hashed Message Authentication Code (HMAC) ->","completion":" Hash function that uses a key\n"}
+{"prompt":"Hebern Machines ->","completion":" Class of cryptographic devices known as rotor machines, includes Enigma and SIGABA\n"}
+{"prompt":"Hypervisor ->","completion":" Software or operating system that controls access between virtual guests and host hardware\n"}
+{"prompt":"Hypervisor Mode ->","completion":" Allows guests or operating in ring 0, controlled by a hypervisor in ring -1\n"}
+{"prompt":"I\/O Controller Hub (ICH) ->","completion":" CPU Southbridge bus connects input\/output (I\/O) devices such as disk, keyboard, mouse, CD drive, USB ports, etc.\n"}
+{"prompt":"Inference ->","completion":" Deductive attack where a user is able to use lower-level access to learn restricted information\n"}
+{"prompt":"Information Technology Security Evaluation Criteria (ITSEC) ->","completion":" First successful evaluation model that separates functionality (how well a system works) from assurance (the ability to evaluate the security of a system)\n"}
+{"prompt":"Integrated Circuits Cards (ICC) ->","completion":" Alias for 'Smart Card.' Physical access control device that contains a computer circuit\n"}
+{"prompt":"Integrity Axiom ->","completion":" Biba property which states 'no write-up'\n"}
+{"prompt":"International Data Encryption Algorithm (IDEA) ->","completion":" International data encryption algorithm, a symmetric block cipher using a 128-bit key and 64-bit block size\n"}
+{"prompt":"Internet Key Exchange (IKE) ->","completion":" Internet key exchange, manages the IPSec encryption algorithm\n"}
+{"prompt":"Internet Protocol Security (IPSEC) ->","completion":" Internet protocol security, a suite of protocols that provide a cryptographic layer to both IPv4 and IPv6\n"}
+{"prompt":"Internet Security Association and Key Management Protocol (ISAKMP) ->","completion":" Internet Security Association and Key Management Protocol manages the IPsec Security Association process\n"}
+{"prompt":"Interrupt ->","completion":" Indicates an asynchronous CPU event has occurred\n"}
+{"prompt":"ITSEC ->","completion":" Information Technology Security Evaluation Criteria, the first successful evaluation model that separates functionality (how well a system works) from assurance (the ability to evaluate the security of a system)\n"}
+{"prompt":"JavaScript Object Notation ->","completion":" See JSON - JavaScript Object Notation, a data interchange format\n"}
+{"prompt":"Jefferson Disks ->","completion":" Cryptographic device invented by Thomas Jefferson that used multiple wheels, each with an entire alphabet along the ridge\n"}
+{"prompt":"JSON ->","completion":" JavaScript Object Notation, a data interchange format\n"}
+{"prompt":"Kernel ->","completion":" The heart of the operating system, that usually runs in ring 0. It provides the interface between hardware and the rest of the operating system, including applications\n"}
+{"prompt":"kernel ->","completion":" The core of an OS, a kernel manages the machine's hardware resources (including the processor and the memory) and provides and controls the way any other software component accesses these resources.\n"}
+{"prompt":"key ->","completion":" A discrete data set that controls the operation of a cryptography algorithm. In encryption, a key specifies the particular transformation of plaintext to ciphertext, or vice versa, during encryption. Keys are also used in other cryptographic algorithms, such as digital signatures and keyed-hash functions (also known as HMACs), which are often used for authentication and integrity.\n"}
+{"prompt":"Key lock ->","completion":" Preventive device that requires a physical key to unlock\n"}
+{"prompt":"lattice-based access control mode ->","completion":" A mathematical model that allows a system to easily represent the different security levels and control access attempts based on those levels. Every pair of elements has a highest lower bound and a lowest upper bound of access rights. The classes stemmed from military designations.\n"}
+{"prompt":"Lattice-Based Access Controls ->","completion":" Nondiscretionary access control with defined upper and lower bounds implemented by the system\n"}
+{"prompt":"Linear cryptanalysis ->","completion":" Known plaintext attack where the cryptanalyst finds large amounts of plaintext\/ciphertext pairs created with the same key\n"}
+{"prompt":"link encryption ->","completion":" A type of encryption technology that encrypts packets' headers, trailers, and the data payload. Each network communications node, or hop, must decrypt the packets to read its address and routing information and then re-encrypt the packets. This is different from end-to-end encryption.\n"}
+{"prompt":"Lock bumping ->","completion":" Attack on locks using a shaved key, which bumps the pins, allowing the lock to turn\n"}
+{"prompt":"Lock picking ->","completion":" The art of unlocking a lock without a key\n"}
+{"prompt":"logic bomb ->","completion":" A malicious program that is triggered by a specific event or condition.\n"}
+{"prompt":"Lux ->","completion":" One lumen per square meter\n"}
+{"prompt":"LWP ->","completion":" See—Thread - A lightweight process (LWP)\n"}
+{"prompt":"Magnetic stripe card ->","completion":" Passive device that contains no circuits. Sometimes called swipe cards: they are used by swiping through a card reader\n"}
+{"prompt":"Maintenance hook ->","completion":" Shortcut installed by system designers and programmers to allow developers to bypass normal system checks during development\n"}
+{"prompt":"maintenance hook ->","completion":" Instructions within a program's code that enable the developer or maintainer to enter the program without having to go through the usual access control and authentication processes. Maintenance hooks should be removed from the code before it is released to production; otherwise, they can cause serious security risks. Also called trapdoor or back door.\n"}
+{"prompt":"malware ->","completion":" Malicious software. Code written to perform activities that circumvent the security policy of a system. Examples are viruses, malicious applets, Trojan horses, logic bombs, and worms.\n"}
+{"prompt":"Mantrap ->","completion":" A preventive physical control with two doors. Each door requires a separate form of authentication to open\n"}
+{"prompt":"MCH ->","completion":" See—Northbridge - Connects the CPU to RAM and video memory, also called the Memory Controller Hub (MCH)\n"}
+{"prompt":"Media Access Control ->","completion":" See—MAC - Mandatory Access Control, system-enforced access control based on subject's clearances and object's labels\n"}
+{"prompt":"Memory Controller Hub ->","completion":" See—Northbridge - Connects the CPU to RAM and video memory, also called the Memory Controller Hub (MCH)\n"}
+{"prompt":"Message Authention Code (MAC) ->","completion":" An access policy that restricts subjects' access to objects based on the security clearance of the subject and the classification of the object. The system enforces the security policy, and users cannot share their files with other users.\n"}
+{"prompt":"Microkernels ->","completion":" A modular kernel\n"}
+{"prompt":"Microwave motion detector ->","completion":" Active motion detector that uses microwave energy\n"}
+{"prompt":"Modes of Operation ->","completion":" Dedicated, system-high, compartmented, and multilevel modes\n"}
+{"prompt":"Monoalphabetic cipher ->","completion":" Substitution cipher using one alphabet\n"}
+{"prompt":"Monolithic kernel ->","completion":" A statically compiled kernel\n"}
+{"prompt":"Motherboard ->","completion":" Contains computer hardware including the CPU, memory slots, firmware, and peripheral slots such as PCI (Peripheral Component Interconnect) slots\n"}
+{"prompt":"Multipartite virus ->","completion":" Virus that spreads via multiple vectors. Also called multipart virus\n"}
+{"prompt":"Multiprocessing ->","completion":" Runs multiple processes on multiple CPUs\n"}
+{"prompt":"Multitasking ->","completion":" Allows multiple tasks (heavyweight processes) to run simultaneously on one CPU\n"}
+{"prompt":"Noninterference model ->","completion":" Ensures that data at different security domains remain separate from one another\n"}
+{"prompt":"Non-repudiation ->","completion":" Assurance that a specific user performed a specific transaction and assurance that the transaction did not change\n"}
+{"prompt":"nonrepudiation ->","completion":" A service that ensures the sender cannot later falsely deny sending a message.\n"}
+{"prompt":"Northbridge ->","completion":" Connects the CPU to RAM and video memory, also called the memory controller hub (MCH)\n"}
+{"prompt":"object ->","completion":" A passive entity that contains or receives information. Access to an object potentially implies access to the information that it contains. Examples of objects include records, pages, memory segments, files, directories, directory trees, and programs.\n"}
+{"prompt":"OCSP ->","completion":" Online Certificate Status Protocol\n"}
+{"prompt":"OFB ->","completion":" Output Feedback, a stream mode of DES that uses portions of the key for feedback\n"}
+{"prompt":"one-time pad ->","completion":" A method of encryption in which the plaintext is combined with a random 'pad,' which should be the same length as the plaintext. This encryption process uses a nonrepeating set of random bits that are combined bitwise (XOR) with the message to produce ciphertext. A one-time pad is a perfect encryption scheme because it is unbreakable and each pad is used exactly once, but it is impractical because of all of the required overhead.\n"}
+{"prompt":"Online Certificate Status Protocol ->","completion":" See OCSP\n"}
+{"prompt":"Open system ->","completion":" System using open hardware and standards, using standard components from a variety of vendors\n"}
+{"prompt":"Operating System ->","completion":" Software that operates a computer\n"}
+{"prompt":"Orange Book ->","completion":" See TCSEC\n"}
+{"prompt":"Output Feedback ->","completion":" See OFB\n"}
+{"prompt":"Overt Channel ->","completion":" Authorized communication that complies with security policy\n"}
+{"prompt":"overt channel ->","completion":" A path within a computer system or network that is designed for the authorized transfer of data.\n"}
+{"prompt":"PaaS ->","completion":" Platform as a service, provides a pre-configured operating system, and the customer configures the application\n"}
+{"prompt":"Panic bar ->","completion":" Egress device that opens externally facing doors from the inside\n"}
+{"prompt":"Passive infrared sensor ->","completion":" Passive motion detector that detects infrared energy created by body heat\n"}
+{"prompt":"permissions ->","completion":" The type of authorized interactions that a subject can have with an object. Examples include read, write, execute, add, modify, and delete.\n"}
+{"prompt":"Permutation ->","completion":" (Also called transposition) provides confusion by rearranging the characters of the plaintext, anagram-style\n"}
+{"prompt":"PGP ->","completion":" Pretty Good Privacy, software that integrates asymmetric, symmetric, and hash cryptography\n"}
+{"prompt":"photoelectric motion sensor ->","completion":" Active motion detector that sends a beam of light across a monitored space to a photoelectric sensor\n"}
+{"prompt":"physical controls ->","completion":" Implemented with physical devices, such as locks, fences, gates, etc.\n"}
+{"prompt":"physical security ->","completion":" Controls and procedures put into place to prevent intruders from physically accessing a system or facility. The controls enforce access control and authorized access.\n"}
+{"prompt":"piggyback ->","completion":" Unauthorized access to a system by using another user's legitimate credentials.\n"}
+{"prompt":"plaintext ->","completion":" In cryptography, the original readable text before it is encrypted.\n"}
+{"prompt":"playback attack ->","completion":" Capturing data and resending the data at a later time in the hope of tricking the receiving system. This is usually carried out to obtain unauthorized access to specific resources.\n"}
+{"prompt":"polyalphabetic cipher ->","completion":" substitution cipher using multiple alphabets\n"}
+{"prompt":"POST ->","completion":" power on self test, performs basic computer hardware testes, including verifying the integrity of the BIOS, testing the memory, identifying system devices, among other tasks. Machines can fail this, it may come with beeps.\n"}
+{"prompt":"power-on self-test ->","completion":" POST\n"}
+{"prompt":"process ->","completion":" an executable program and its associated data loaded and running in memory\n"}
+{"prompt":"process isolation ->","completion":" logical control that attempts to prevent on process from interfering with another\n"}
+{"prompt":"pseudo guard ->","completion":" an unarmed security guard (sounds like a security monitor)\n"}
+{"prompt":"public key encryption ->","completion":" A type of encryption that uses two mathematically related keys to encrypt and decrypt messages. The private key is known only to the owner, and the public key is available to anyone.\n"}
+{"prompt":"Public Key Infrastructure (PKI) ->","completion":" A framework of programs, procedures, communication protocols, and public key cryptography that enables a diverse group of individuals to communicate securely.\n"}
+{"prompt":"purple ->","completion":" allied name for the stepping-switch encryption device used by Japanese Axis powers durring WWII\n"}
+{"prompt":"radio-frequency identification ->","completion":" RFID (best known as scanning bar codes)\n"}
+{"prompt":"RC5 ->","completion":" rivest cipher 5, symmetric block cipher by RSA laboratories\n"}
+{"prompt":"RC6 ->","completion":" rivest cipher 6, symmetric block cipher by RSA laboratories, AES finalist\n"}
+{"prompt":"reference monitor ->","completion":" mediates all access between subjects and objects\n"}
+{"prompt":"Reference Monitor Concept ->","completion":" An access control concept that refers to an abstract machine that mediates all accesses to objects by subjects. The security kernel enforces the reference monitor concept.\n"}
+{"prompt":"regression testing ->","completion":" testing software after updates, modifications or patches\n"}
+{"prompt":"Reliability ->","completion":" The assurance of a given system, or individual component, performing its mission adequately for a specified period of time under the expected operating conditions.\n"}
+{"prompt":"REST \/ Representational State Transfer ->","completion":" Used to implement web services.\n"}
+{"prompt":"Rijndael ->","completion":" Cipher which became AES, named after authors Vincent Rijmen and Joan Daemen.\n"}
+{"prompt":"Ring model ->","completion":" Form of CPU hardware layering that separates and protects domains (such as kernel mode and user mode) from each other.\n"}
+{"prompt":"RISC \/ Reduced Instruction Set Computer ->","completion":" CPU instructions which are short and simple.\n"}
+{"prompt":"Rootkit ->","completion":" Malware that replaces portions of the kernel and\/or operating system.\n"}
+{"prompt":"Rotation Cipher ->","completion":" Substitution cipher that shifts each character of ciphertext a fixed amount past each plaintext character.\n"}
+{"prompt":"Running-key cipher ->","completion":" Cryptographic method that uses whole words from a well-known text such as a dictionary, \"adding\" letters to plaintext using modular math.\n"}
+{"prompt":"S\/MIME \/ Secure\/Multipurpose Internet Mail Extensions ->","completion":" Leverages PKI to encrypt and authenticate MIME-encoded email.\n"}
+{"prompt":"SA \/ Security Association ->","completion":" A simplex connection which may be used to negotiate ESP or AH parameters.\n"}
+{"prompt":"SaaS \/ Software as a Service ->","completion":" Completely configured cloud-based application, from the operating system on up.\n"}
+{"prompt":"Security domain ->","completion":" The list of objects a subject is allowed to access.\n"}
+{"prompt":"Security property ->","completion":" Bell-LaPadula property that states \"no write-down\"\n"}
+{"prompt":"Server-side attack ->","completion":" Attack launched directly from an attacker to a listening service. Also called service-side attack\n"}
+{"prompt":"SHA-1 \/ Secure Hash Algorithm 1 ->","completion":" A hash function that creates a 160-bit message digest.\n"}
+{"prompt":"SHA-2 \/ Secure Hash Algorithm 2 ->","completion":" A hash function that includes SHA-224, SHA-256, SHA-384, and SHA-512, named after the length of the message digest each creates.\n"}
+{"prompt":"Shoulder surfing ->","completion":" Physical attack where an attacker observes credentials, such as a key combination.\n"}
+{"prompt":"Side-Channel attack ->","completion":" Cryptographic attack which uses physical data to break a cryptosystem, such as monitoring CPU cycles or power consumption used while encrypting or decrypting.\n"}
+{"prompt":"SIGABA ->","completion":" Rotor machine used by the United States through World War II into the 1950s.\n"}
+{"prompt":"Simple integrity axiom ->","completion":" Biba property that states \"no read down\".\n"}
+{"prompt":"Simple Security Property ->","completion":" Bell-LaPadula property that states \"no read up\" (NRU).\n"}
+{"prompt":"Smart Card ->","completion":" a physical access control device containing an integrated circuit, AKA Integrated Circuit Card (ICC)\n"}
+{"prompt":"SOAP ->","completion":" used to implement web services, used to stand for Simple Object Access Protocol, now simply \"SOAP\"\n"}
+{"prompt":"Social Engineering ->","completion":" uses the human mind to bypass security controls\n"}
+{"prompt":"Southbridge ->","completion":" connects I\/O devices such as disk, keyboard, mouse, CD drive, USB ports etc\n"}
+{"prompt":"SPI ->","completion":" Security Parameter Index, used to identify Simplex IPsec security violations\n"}
+{"prompt":"SPI \/ Security Parameter Index ->","completion":" Used to identify simplex IPsec security associations.\n"}
+{"prompt":"Spring-bolt lock ->","completion":" a locking mechanism that springs in and out of the door jamb\n"}
+{"prompt":"Stealth Virus ->","completion":" Virus that hides itself from the OS and other protective software, such as anti-virus software\n"}
+{"prompt":"Steganography ->","completion":" The science of hidden communication\n"}
+{"prompt":"Storage Channel ->","completion":" Covert channel that uses shared storage, such as a temporary directory to allow two subjects to signal each other\n"}
+{"prompt":"STP ->","completion":" Shielded Twisted Pair, network cabling that contains additional metallic shielding around each twisted pair of wires\n"}
+{"prompt":"STP \/ Shielded Twisted Pair ->","completion":" Network cabling that contains additional metallic shielding around each twisted pair of wires.\n"}
+{"prompt":"Strike Plate ->","completion":" plate in the door jamb with a slot for a deadbolt or spring-bolt lock\n"}
+{"prompt":"Strong Tranquility property ->","completion":" Bell-LaPudula property that states security labels will not change while the system is operating\n"}
+{"prompt":"Subject ->","completion":" an active entity on an Information System which accesses or changes data\n"}
+{"prompt":"Substitution ->","completion":" cryptographic method that replaces one character with another\n"}
+{"prompt":"Swapping ->","completion":" uses virtual memory to copy contents in primary memory (RAM) to or from secondary memory\n"}
+{"prompt":"Symmetric Encryption ->","completion":" Encryption that uses one key to encrypt and decrypt\n"}
+{"prompt":"System call ->","completion":" allow processes to communicate with the kernel and provide a window between CPU rings\n"}
+{"prompt":"Tailgating ->","completion":" following an authorized person into a building without providing credentials, AKA piggybacking\n"}
+{"prompt":"Take-Grant Protection Method ->","completion":" Determines the safety of a given computer system that follows specific rules\n"}
+{"prompt":"TCSEC ->","completion":" Trusted Computer System Evaluation Criteria, AKA the Orange Book, evaluation model developed by the US Dept of Defense\n"}
+{"prompt":"TCSEC ->","completion":" Trusted Computer System Evaluation Critera - aka the Orange Book, evluaiton model developed by the departmnet of defence\n"}
+{"prompt":"Technical Controls ->","completion":" Implemented using software, hardware or firmware that restricts logical access on an information technology system\n"}
+{"prompt":"TEMPEST ->","completion":" A standard for shielding electromagnetic emanations from computer equipment\n"}
+{"prompt":"Thin client applications ->","completion":" use a web browser as a universal client, providing access to robust applications that are downloaded from the thin client server and run in the client's browser\n"}
+{"prompt":"Thin clients ->","completion":" Simple computer systems the rely on centralise applications and data\n"}
+{"prompt":"Thread ->","completion":" A lightweight process (LWP)\n"}
+{"prompt":"Time multiplexing ->","completion":" Shares system resources between mulitiple processes, eahc with a dedicated slice of time\n"}
+{"prompt":"Timing Channel ->","completion":" Covert channel that relies on the system clock to inder sensitve information\n"}
+{"prompt":"TLS ->","completion":" Tunnel Layer Security - the sucessor to SSL\n"}
+{"prompt":"TNI ->","completion":" Trusted Network Interpretation - the red Book\n"}
+{"prompt":"Topology ->","completion":" The physical construction of how nodes are connected to form a network.\n"}
+{"prompt":"TPM (Trusted Platform Module) ->","completion":" A processor that can provide additional security capabilities at the hardware level, allowing for hardware-based cryptographic operations\n"}
+{"prompt":"Transposition ->","completion":" Permutation - provides confustion by rearranging the characterso fthe plain-text, anagram style\n"}
+{"prompt":"Triple DES ->","completion":" 56-bit DES applied three times per block\n"}
+{"prompt":"Trusted Computer System ->","completion":" A system that has the necessary controls to ensure that the security policy will not be compromised and that can process a range of sensitive or classified information simultaneously.\n"}
+{"prompt":"Trusted Computing Base (TCB) ->","completion":" All the protection mechanisms within a computer system (software, hardware, and firmware) that are responsible for enforcing a security policy.\n"}
+{"prompt":"Trusted Path ->","completion":" A mechanism within the system that enables the user to communicate directly with the TCB. This mechanism can be activated only by the user or the TCB and not by an untrusted mechanism or process.\n"}
+{"prompt":"Truth table ->","completion":" Table used to map all the results of a mathematical operation such as XOR\n"}
+{"prompt":"Turnstile ->","completion":" Device designed to prevent tailgating by enforcing a 'one person per authentication' rule\n"}
+{"prompt":"Twofish ->","completion":" AES finalist, encrypting 128-bit blocks using 128 through 256 bit keys\n"}
+{"prompt":"Ultrasonic motion detector ->","completion":" Active motion detector that uses ultrasonic energy\n"}
+{"prompt":"Vernam Cipher ->","completion":" One-time pad using a teletypewriter, invented by Gilbert Vernam\n"}
+{"prompt":"Vigenere Cipher ->","completion":" Polyalphabetic cipher named after Blaise de Vignère, using a Vigenère Square\n"}
+{"prompt":"Virtual Memory ->","completion":" Provides virtual address mapping between applications and hardware memory\n"}
+{"prompt":"Virus ->","completion":" A small application, or string of code, that infects applications. The main function of a virus is to reproduce, and it requires a host application to do this. It can damage data directly or degrade system performance.\n"}
+{"prompt":"Virus ->","completion":" Malware that requires a carrier to propagate\n"}
+{"prompt":"Vulnerability ->","completion":" The absence or weakness of a safeguard that could be exploited.\n"}
+{"prompt":"Warded lock ->","completion":" Preventative device that turns a key through channels (called wards) to unlock\n"}
+{"prompt":"Watchdog timer ->","completion":" Recovers a system by rebooting after critical processes hang or crash\n"}
+{"prompt":"Weak tranquility property ->","completion":" Bell-Lapadula property that states security labels will not change in a way that violates security policy\n"}
+{"prompt":"Well-formed transactions ->","completion":" Clark-Wilson control to enforce control over applications\n"}
+{"prompt":"Work Factor ->","completion":" The estimated time and effort required for an attacker to overcome a security control.\n"}
+{"prompt":"work factor ->","completion":" The estimated time and effort required for an attacker to overcome a security control.\n"}
+{"prompt":"Work factor ->","completion":" The amount of time required to break a cryptosystem (decrypt a ciphertext without a key)\n"}
+{"prompt":"write ->","completion":" An operation that results in the flow of information from a subject to an object\n"}
+{"prompt":"WSDL ->","completion":" Web Services Description Language, provides details about how web services are to be invoked\n"}
+{"prompt":"XML ->","completion":" eXtensible Markup Language, a markup language designed as a standard way to encode documents and data\n"}
+{"prompt":"XML \/ Extensible Markup Language ->","completion":" A markup language designed as a standard way to encode documents and data\n"}
+{"prompt":"XOR ->","completion":" Exclusive OR, a binary operation that is true if one of two inputs (but not both) are true\n"}
+{"prompt":"Zachman Framework ->","completion":" Provides 6 frameworks for providing information security, asking what, how, where, who, when, and why, and mapping those frameworks across roles including planner, owner, designer, builder, programmer, and user\n"}
+{"prompt":"802.11 ->","completion":" Wireless networking standard\n"}
+{"prompt":"802.11-1997 ->","completion":" The original mode of 802.11 operated at 2 Mbps using the 2.4 GHz frequency\n"}
+{"prompt":"802.11a ->","completion":" 802.11 mode that operates at 54 Mbps using the 5 GHz frequency\n"}
+{"prompt":"802.11b ->","completion":" 802.11 mode that operates at 11 Mbps using the 2.4 GHz frequency\n"}
+{"prompt":"802.11g ->","completion":" 802.11 mode that operates at 54 Mbps using the 2.4 GHz frequency\n"}
+{"prompt":"802.11i ->","completion":" The first 802.11 wireless security standard that provides reasonable security\n"}
+{"prompt":"802.11n ->","completion":" 802.11 mode that uses both 2.4 and 5 GHz frequencies and allows speeds of 144 Mbps and beyond\n"}
+{"prompt":"ABM ->","completion":" Asynchronous Mode HDLC combined mode where nodes may act as primary or secondary, initiating transmission without receiving permission\n"}
+{"prompt":"Access Control Lists\/ACL ->","completion":" Access Control List\n"}
+{"prompt":"ACK ->","completion":" TCP flag, acknowledge received data\n"}
+{"prompt":"Active RFID ->","completion":" Powered RFID tags that can operate over larger distances\n"}
+{"prompt":"Ad hoc mode ->","completion":" 802.11 peer-to-peer mode with no central AP\n"}
+{"prompt":"ADSL ->","completion":" Asymmetric Digital Subscriber Line, DSL featuring faster download speeds than upload\n"}
+{"prompt":"Application Layer (OSI) ->","completion":" Layer 7 of the OSI model where the user interfaces with the computer application.\n"}
+{"prompt":"Application Layer (TCP\/IP) ->","completion":" TCP\/IP model layer that combines Layers 5 through 7 of the OSI model\n"}
+{"prompt":"Application-layer proxy ->","completion":" Proxy firewall that operates up to Layer 7\n"}
+{"prompt":"ARCNET ->","completion":" Attached Resource Computer Network, a Legacy LAN technology that uses tokens\n"}
+{"prompt":"ARM\/Asynchronous Response Mode ->","completion":" HDLC mode where secondary nodes may initiate communication with the primary\n"}
+{"prompt":"ARPAnet ->","completion":" The predecessor of the Internet\n"}
+{"prompt":"ATM\/Asynchronous Transfer Mode ->","completion":" A WAN technology that uses fixed-length cells\n"}
+{"prompt":"Baseband ->","completion":" Network with one channel; can only send one signal at a time\n"}
+{"prompt":"Bastion Host ->","completion":" Any host placed on the internet that is not protected by another device\n"}
+{"prompt":"BGP ->","completion":" Border Gateway Protocol, the routing protocol used on the Internet\n"}
+{"prompt":"Bluetooth ->","completion":" 802.15 networking, a PAN wireless technology\n"}
+{"prompt":"Border Gateway Protocol - BGP ->","completion":" Border Gateway Protocol, the routing protocol used on the Internet\n"}
+{"prompt":"BRI ->","completion":" Basic Rate interface, provides two 64 K digital ISDN channels\n"}
+{"prompt":"BRI\/Basic Rate Interface ->","completion":" Provides two 64k digital ISDN channels\n"}
+{"prompt":"Bridge ->","completion":" Layer 2 device that has two ports and connects network segments together\n"}
+{"prompt":"Broadband ->","completion":" Network with multiple channels; can send multiple signals at a time, like cable TV\n"}
+{"prompt":"Broadcast ->","completion":" Traffic that is sent to all stations on a LAN\n"}
+{"prompt":"Bus ->","completion":" Physical network topology that connects network nodes in a string\n"}
+{"prompt":"Cable modem ->","completion":" Provides Internet access via broadband cable TV\n"}
+{"prompt":"Callback ->","completion":" Modem-based authentication system\n"}
+{"prompt":"Caller ID ->","completion":" Identifies the calling phone number, sometimes used as a weak authentication method\n"}
+{"prompt":"Carrier Sense Multiple Access - CSMA ->","completion":" Carrier Sense Multiple Access, a method used by Ethernet networks to allow shared usage of a baseband network and avoid collisions\n"}
+{"prompt":"CCMP ->","completion":" Counter Mode CBC MAC Protocol, used by WPA2 to create a MIC\n"}
+{"prompt":"CDN ->","completion":" Content Distribution networks (also Content Delivery Networks) use a series of distributed caching servers to improve performance and lower the latency of downloaded online content\n"}
+{"prompt":"Channel Service Unit\/Data Service Unit - CSU\/DSU ->","completion":" Channel Service Unit\/Data Service Unit, DCE device\n"}
+{"prompt":"CIDR ->","completion":" Classless Inter-Domain Routing, allows for many network sizes beyond the arbitrary stateful network sizes\n"}
+{"prompt":"Circuit-level proxy ->","completion":" Proxy firewall that operates at Layer 5\n"}
+{"prompt":"Circuit-switched network ->","completion":" Network that provides a dedicated circuit or channel between two nodes\n"}
+{"prompt":"Classful address ->","completion":" IPv4 networks in classes A through E\n"}
+{"prompt":"Classless Inter-Domain Routing - CIDR ->","completion":" Classless Inter-Domain Routing, allows for many network sizes beyond the arbitrary stateful network sizes\n"}
+{"prompt":"Communications Security ->","completion":" Controls in place to protect information as it is being transmitted, especially by telecommunications mechanisms\n"}
+{"prompt":"Content Distribution Networks ->","completion":" See - CDN\n"}
+{"prompt":"Convergence ->","completion":" All routers on a network agree on the state of routing\n"}
+{"prompt":"Counter Mode CBC MAC Protocol ->","completion":" See - CCMP\n"}
+{"prompt":"CSMA ->","completion":" Carrier Sense Multiple Access, a method used by Ethernet networks to allow shared usage of a baseband network and avoid collisions\n"}
+{"prompt":"CSU\/DSU ->","completion":" Channel Service Unit\/Data Service Unit, DCE device\n"}
+{"prompt":"CWR ->","completion":" New TCP flag, Congestion Window Reduced\n"}
+{"prompt":"DARPA ->","completion":" Defense Advanced Research Projects Agency, funders of the original MILNET and ARPANET\n"}
+{"prompt":"Data Circuit-Terminating Equipment ->","completion":" See - DCE\n"}
+{"prompt":"Data link layer ->","completion":" Layer 2 of the OSI model, handles access to the physical layer as well as local area network communication\n"}
+{"prompt":"Demilitarized Zone ->","completion":" Demilitarized Zone network, used to separate trusted from untrusted networks\n"}
+{"prompt":"denial of service (DoS) ->","completion":" Any action, or series of actions, that prevents a system, or its resources, from functioning in accordance with its intended purpose\n"}
+{"prompt":"DHCP ->","completion":" Dynamic Host Configuration protocol, assigns temporary IP address leases to systems, as well as DNS and default gateway configurations\n"}
+{"prompt":"dial-up ->","completion":" The service whereby a computer terminal can use telephone lines, usually via a modem, to initiate and continue communications with another computer system\n"}
+{"prompt":"Digital subscriber line ->","completion":" Digital subscriber Line, uses existing copper pairs to provide digital service to homes and small offices\n"}
+{"prompt":"Distributed Network Protocol ->","completion":" See DPN3\n"}
+{"prompt":"Distributed Network Protocol 3 (DNP3) ->","completion":" A communications protocol designed for use in SCADA systems, particular those within the power sector, that does not include routing functionality.\n"}
+{"prompt":"DMZ ->","completion":" Demilitarized Zone network, used to separate trusted from untrusted networks\n"}
+{"prompt":"DNP3 ->","completion":" Distributed Network Protocol, provides an open standard used primarily within the energy sector for interoperability between various vendors' SCADA and smart grid applications\n"}
+{"prompt":"DNS ->","completion":" Domain Name System, a distributed global hierarchical database that translates names to IP Addresses, and vice versa\n"}
+{"prompt":"DNS reflection attack ->","completion":" Spoofed Dos attack using third-party DNS servers\n"}
+{"prompt":"DNSSEC ->","completion":" Domain Name server security extensions, provides authentication and integrity to DNS reponces via the use of public key encryption\n"}
+{"prompt":"Domain Name Server security extensions ->","completion":" Domain Name server security extensions, provides authentication and integrity to DNS response via the use of public key encryption\n"}
+{"prompt":"Domain Name systems ->","completion":" Domain Name System, a distributed global hierarchical database that translates names to IP Addresses, and vice versa\n"}
+{"prompt":"Domains of trust ->","completion":" Access control Module used by windows active directory\n"}
+{"prompt":"DSl ->","completion":" Digital subscriber Line, uses existing copper pairs to provide digital service to homes and small offices\n"}
+{"prompt":"DSSS ->","completion":" Direct Sequence Spared Spectrum, uses the entire wireless band at once\n"}
+{"prompt":"DTE ->","completion":" Data terminal equipment, a Network \"terminal,\" such as a desktop, server, or actual terminal\n"}
+{"prompt":"DTE\/DCE ->","completion":" Connection that spans the Demarc\n"}
+{"prompt":"Dual homed host ->","completion":" Host with 2 Network interfaces one connected to a trusted network and the other connected to an untrusted network\n"}
+{"prompt":"Dynamic host configuration protocol ->","completion":" Dynamic Host Configuration protocol, assigns temporary IP address leases to systems, as well as DNS and default gateway configurations\n"}
+{"prompt":"E1 ->","completion":" Dedicated 2.048 megabit circuits that carries 30 channels\n"}
+{"prompt":"E3 ->","completion":" 24 E1s\n"}
+{"prompt":"EAP ->","completion":" Extensible Authentication Protocol, a Layer 2 authentication framework that describes many specific authentication protocols\n"}
+{"prompt":"EAP \/ Extensible Authentication Protocol ->","completion":" A layer 2 authentication framework that describes many specific authentication protocols\n"}
+{"prompt":"EAP OVER LAN ->","completion":" EAP Over LAN, a Layer 2 protocol for varying EAP\n"}
+{"prompt":"EAP tunneled transport layer security ->","completion":" EAP tunneled transport layer security, simplifies EAP-TLS by dropping the client side certificate requirement\n"}
+{"prompt":"EAP-FAST ->","completion":" EAP-Flexible Authentication via Secure Tunneling, designed by Cisco to replace LEAP\n"}
+{"prompt":"EAPOL ->","completion":" EAP Over LAN, a Layer 2 protocol for varying EAP\n"}
+{"prompt":"EAP-TLS ->","completion":" EAP-Transport Layer security, uses PKI, requiring both server-side and client side certificates\n"}
+{"prompt":"EAP-Transport Layer Security ->","completion":" EAP-Transport Layer security, uses PKI, requiring both server-side and client side certificates\n"}
+{"prompt":"EAP-TTLS ->","completion":" EAP tunneled transport layer security, simplifies EAP-TLS by dropping the client side certificate requirement\n"}
+{"prompt":"ECE \/ New TCP Flag ->","completion":" ...\n"}
+{"prompt":"EGP \/ Exterior Gateway Protocol ->","completion":" An exterior gateway protocol used by Private networks like Intreanets\n"}
+{"prompt":"Encapsulation \/ Network ->","completion":" Takes information from a higher network layer and adds a header to it, treating the higher-layer information as data\n"}
+{"prompt":"Ephemeral ports ->","completion":" TCP\/IP ports 1024 and higher\n"}
+{"prompt":"Extranet ->","completion":" A connection between private Intranets\n"}
+{"prompt":"Faraday Cage ->","completion":" Shields enclosed objects from EMI\n"}
+{"prompt":"FCIP \/ Fibre Channel over IP ->","completion":" SAN protocol that encapsulates Fibre Channel frames via Ethernet and TCP\/IP\n"}
+{"prompt":"FCoE \/ Fibre Channel over Ethernet ->","completion":" SAN protocol that leverages Fibre Channel, but can be transmitted across standard Ethernet networks. Does not use TCP\/IP\n"}
+{"prompt":"FDDI \/ Fiber Distributge Data Interface ->","completion":" Legacy LAB technology that uses light\n"}
+{"prompt":"FHSS \/ Frequency Hopping Spread Spectrume ->","completion":" Uses a mumber of small frequency channels throughout the wireless band and \"hops\" through them in pseudorandom order\n"}
+{"prompt":"Fiber Channel over Ethernet (FCoE) ->","completion":" A converged protocol that allows Fiber Channel frames to ride over Ethernet networks\n"}
+{"prompt":"Fibre Channel ->","completion":" Non-Ethernet\/IP fiber optic storage technology\n"}
+{"prompt":"FIN ->","completion":" TCP fral, finish a connection (gracefully)\n"}
+{"prompt":"Firewall ->","completion":" Device that filters traffic based on layers 3 (IP Addresses) and 4 (ports)\n"}
+{"prompt":"FTP \/ File Transfer Protocol ->","completion":" Used to transfer files to and from servers\n"}
+{"prompt":"Full duplex ->","completion":" Two-way simultaneous transmission, like two people having a face-to-face conversation\n"}
+{"prompt":"GAN \/ Global Area Network ->","completion":" A global collection of WAN's\n"}
+{"prompt":"GIG \/ Global Information Grid ->","completion":" The US DoD global network, one of the largest private networks in the world\n"}
+{"prompt":"Global Information Grid ->","completion":" US Department of Defense (DoD) global network, one of the largest private networks in the world\n"}
+{"prompt":"Graham-Denning Model ->","completion":" Provides more granuler approach for interaction between subjects and objects.\n"}
+{"prompt":"High-data-rate Digital Subscriber Line (HDSL) ->","completion":" high-data-rate DSL, matches SDSL speeds using two pairs of copper\n"}
+{"prompt":"High-Data-Rate Digital Subscriber Line (HDSL) ->","completion":" Matches SDSL speeds using two pairs of copper. HDSL is used to provide inexpensive T1 service.\n"}
+{"prompt":"High-level Data link control (HDLC) ->","completion":" Successor to SDLC. HDLC adds error correction and flow control, as well as two additional modes (ARM and ABM).\n"}
+{"prompt":"Hold-Down Timers, Routing Information protocol ->","completion":" distance vector routing protocol safeguard that avoids flapping\n"}
+{"prompt":"Hub ->","completion":" Layer 1 network access device that acts as a multi port repeater\n"}
+{"prompt":"Hypertext Markup Language (HTML) ->","completion":" hypertext markup language, used to display web content\n"}
+{"prompt":"Hypertext Transport Protocol (HTTP) ->","completion":" hypertext transfer protocol, a protocol to transmit web data via a network\n"}
+{"prompt":"Hypertext Transport Protocol Secure (HTTPS) ->","completion":" hypertext transport protocol secure, HTTP using SSL, or TLS\n"}
+{"prompt":"Industrial, Scientific, and Medical (ISM) ->","completion":" Radium Spectrum (bands) that are set aside for unlicensed use, meaning you do not need to acquire a license from an organization such as the FCC to use them\n"}
+{"prompt":"Integrated Services Digital Network (ISDN) ->","completion":" Earlier attempt to provide digital service via 'copper pair'. Commonly used for teleconferencing and videoconferencing.\n"}
+{"prompt":"Interior Gateway Protocol (IGP) ->","completion":" OSI Layer 3 Routing Protocol used for private networks, like Intranets\n"}
+{"prompt":"Internet ->","completion":" a global collection of peered networks running tcp\/ip\n"}
+{"prompt":"Internet Control Message Protocol (ICMP) ->","completion":" Internet control message protocol\n"}
+{"prompt":"Internet Layer (TCP\/IP) ->","completion":" tcp\/ip model layer that aligns with the layer 3 of the OSI model, describes IP Addresses and routing\n"}
+{"prompt":"Internet Message Access Protocol (IMAP) ->","completion":" Internet message access protocol, an email client protocol\n"}
+{"prompt":"Internet Protocol (TCP\/IP) ->","completion":" TCP\/IP model layer that aligns with layer 3 (network) layer of the OSI Model. This is where IP Addresses and routing lives.\n"}
+{"prompt":"Internet Relay Chat (IRC) ->","completion":" internet relay chat, a global network of chat servers and clients\n"}
+{"prompt":"Internet Small Computer System Interface (iSCSI) ->","completion":" SAN protocol that allows for leveraging existing networking infrastructure and protocols to interface with storage\n"}
+{"prompt":"Internet Small Computer System Interface (iSCSI) ->","completion":" A converged protocol that encapsulates SCSI data on TCP segments in order to allow peripherals to be connected to computers across networks.\n"}
+{"prompt":"Intranet ->","completion":" A privately owned network running TCP\/IP\n"}
+{"prompt":"IP ->","completion":" Internet protocol, includes all IPV4 and IPv6\n"}
+{"prompt":"IPv4 ->","completion":" Internet protocol Version 4, commonly called IP. It's the fundamental protocol of the internet\n"}
+{"prompt":"IPv6 ->","completion":" Internet protocol Version 6, the successor of IPv4, featuring the far larger address space, simpler routing, and simpler address assignment\n"}
+{"prompt":"IPv6 Autoconfiguration ->","completion":" autoconfiguration of a unique IPv6 address, omitting the need for static addressing for DHCP\n"}
+{"prompt":"iSCSI ->","completion":" Internet Small Computer System Interface, Storage Area Network (SAN) protocol transmitted via Ethernet and TCP\/IP\n"}
+{"prompt":"ISDN ->","completion":" Integrated Services Digital Network, provides digital service via copper pair\n"}
+{"prompt":"ISM ->","completion":" Industrial, Scientific, and Medical, wireless bands set aside for unlicensed use\n"}
+{"prompt":"L2F ->","completion":" Layer 2 Forwarding, designed to tunnel PPP\n"}
+{"prompt":"L2TP ->","completion":" Layer 2 Tunneling Protocol, combines PPTP and L2F\n"}
+{"prompt":"LAN ->","completion":" Local Area Network, a comparatively small network, typically confined to a building or an area within one\n"}
+{"prompt":"Layer 2 Tunneling Protocol ->","completion":" See—L2TP - Layer 2 Tunneling Protocol, combines PPTP and L2F\n"}
+{"prompt":"LCP ->","completion":" Link Control Protocol, the initial unauthenticated connected used by CHAP\n"}
+{"prompt":"LEAP ->","completion":" Lightweight Extensible Authentication Protocol, a Cisco-proprietary protocol released before 802.1X was finalized\n"}
+{"prompt":"Lightweight Extensible Authentication Protocol ->","completion":" See—LEAP - Lightweight Extensible Authentication Protocol, a Cisco-proprietary protocol released before 802.1X was finalized\n"}
+{"prompt":"Link Control Protocol ->","completion":" See—LCP -Link Control Protocol, the initial unauthenticated connected used by CHAP\n"}
+{"prompt":"Link state ->","completion":" Routing protocols that factor in additional metrics for determining the best route, including bandwidth\n"}
+{"prompt":"LLC ->","completion":" Logical Link Control, layer 2 protocol that handles LAN communications\n"}
+{"prompt":"Local Area Network ->","completion":" See—LAN - Local Area Network, a comparatively small network, typically confined to a building or an area within one\n"}
+{"prompt":"Logical Link Control ->","completion":" See—LLC- Logical Link Control, layer 2 protocol that handles LAN communications\n"}
+{"prompt":"Logical Unit Numbers ->","completion":" See—LUN - Logical Unit Numbers, provide a way of addressing storage across the network. Also used for basic access control for network accessible storage\n"}
+{"prompt":"MAN ->","completion":" Metropolitan Area Network, typically confined to a city, a zip code, or a campus or office park\n"}
+{"prompt":"masquerading ->","completion":" Impersonating another user, usually with the intention of gaining unauthorized access to a system.\n"}
+{"prompt":"Maximum Transmission Unit ->","completion":" See—MTU - Maximum Transmission Unit, the maximum PDU size on a network\n"}
+{"prompt":"Mesh ->","completion":" Physical network topology that interconnects network nodes to each other\n"}
+{"prompt":"Metropolitan Area Network ->","completion":" See—MAN - Metropolitan Area Network, typically confined to a city, a zip code, or a campus or office park\n"}
+{"prompt":"Modem ->","completion":" Modulator\/Demodulator; takes binary data and modulates it into analog sound that can be carried on phone networks\n"}
+{"prompt":"MPLS ->","completion":" Multiprotocol Label Switching, provides a way to forward WAN data via labels\n"}
+{"prompt":"MTU ->","completion":" Maximum Transmission Unit, the maximum PDU size on a network\n"}
+{"prompt":"Multicast ->","completion":" One-to-many network traffic, and the \"many\" is preselected\n"}
+{"prompt":"Multiprotocol Label Switching ->","completion":" See—MPLS - Multiprotocol Label Switching, provides a way to forward WAN data via labels\n"}
+{"prompt":"Multiprotocol Label Switching (MPLS) ->","completion":" A converged data communications protocol designed to improve the routing speed of high-performance networks.\n"}
+{"prompt":"NAT ->","completion":" Network Address Translation, translates IP addresses\n"}
+{"prompt":"Network Address Translation ->","completion":" See NAT\n"}
+{"prompt":"Network Interface Card ->","completion":" See NIC\n"}
+{"prompt":"Network layer ->","completion":" Layer 3 of the OSI model, describes routing data from a system on one LAN to a system on another\n"}
+{"prompt":"Network model (telecommunications) ->","completion":" A description of how a network protocol suite operates\n"}
+{"prompt":"Network stack ->","completion":" A network protocol suite programmed in software or hardware\n"}
+{"prompt":"NIC ->","completion":" Network Interface Card, a card that connects a system to a network\n"}
+{"prompt":"Nonce Sum ->","completion":" See NS\n"}
+{"prompt":"Normal Response Mode ->","completion":" See NRM\n"}
+{"prompt":"NRM ->","completion":" Normal response mode, SDLC\/HDLC mode where secondary nodes can transmit when given permission by the primary\n"}
+{"prompt":"NS ->","completion":" Nonce sum, the newest TCP flag, used for congestion notification\n"}
+{"prompt":"OFDM ->","completion":" Orthogonal Frequency-Division Multiplexing, a newer wireless multiplexing method, allowing simultaneous transmission using multiple independent wireless frequencies that do not interfere with each other\n"}
+{"prompt":"One-Time Pad ->","completion":" Theoretically unbreakable encryption using paired pads of random characters\n"}
+{"prompt":"Open Shortest Path First ->","completion":" See OSPF\n"}
+{"prompt":"Organizationally Unique Identifier ->","completion":" See OUI\n"}
+{"prompt":"Orthogonal Frequency-Division Multiplexing ->","completion":" See OFDM\n"}
+{"prompt":"OSI Model ->","completion":" A network model with seven layers: physical, data link, network, transport, session, presentation, application\n"}
+{"prompt":"OSPF ->","completion":" Open Shortest Path First, an open link state routing protocol\n"}
+{"prompt":"OUI ->","completion":" Organizationally unique identifier, first 24-bits of a MAC address\n"}
+{"prompt":"Packet ->","completion":" Layer 3 PDU\n"}
+{"prompt":"Packet Filter ->","completion":" A simple and fast firewall that has no concept of state\n"}
+{"prompt":"Packet-switched network ->","completion":" A form of networking where bandwidth is shared and data is carried in units called packets\n"}
+{"prompt":"PAN ->","completion":" Personal Area Network, a very small network with a range of 100 m or much less\n"}
+{"prompt":"PAP ->","completion":" Password Authentication Protocol, an insecure network authentication protocol that exposes passwords in cleartext\n"}
+{"prompt":"Passive RFID ->","completion":" Unpowered RFID tags\n"}
+{"prompt":"Password Authentication Protocol ->","completion":" See PAP\n"}
+{"prompt":"PDA ->","completion":" Personal Data Assistant, a small networked computer that can fit in the palm of your hand\n"}
+{"prompt":"PDU ->","completion":" Protocol Data Unit, a header and data at one layer of a network stack\n"}
+{"prompt":"Personal Area Network ->","completion":" See PAN\n"}
+{"prompt":"Personal Digital Assistant ->","completion":" See PDA\n"}
+{"prompt":"physical layer ->","completion":" Layer 1 of the OSI model, describes units of data like bits represented by energy, and the medium used to carry them\n"}
+{"prompt":"ping ->","completion":" Sends an ICMP Echo Request to a node and listens for an ICMP Echo Reply\n"}
+{"prompt":"ping of death (malformed packets) ->","completion":" DoS that sends a malformed ICMP Echo Request (ping) that is larger than the maximum size of an IP packet\n"}
+{"prompt":"point-to-point protocol ->","completion":" PPP\n"}
+{"prompt":"point-to-point tunneling protocol ->","completion":" PPTP\n"}
+{"prompt":"poison reverse ->","completion":" Distance vector routing protocol safeguard that sets bad route to infinity\n"}
+{"prompt":"polyinstantiation ->","completion":" Allows two different objects to have the same name. The name is based on the Latin roots for multiple (poly) and instances (instantiation)\n"}
+{"prompt":"polymorphic virus ->","completion":" Virus that changes its signature upon infection of a new system, attempting to evade signature-based antivirus software\n"}
+{"prompt":"POP ->","completion":" Post Office Protocol, an email client protocol\n"}
+{"prompt":"post office protocol ->","completion":" POP\n"}
+{"prompt":"PPP ->","completion":" Point-to-Point Protocol, a layer 2 protocol that has largely replaced SLIP, adding confidentiality, integrity and authentication (CIA triad)\n"}
+{"prompt":"pretty good privacy ->","completion":" PGP\n"}
+{"prompt":"PRI ->","completion":" Primary Rate Interface, provides 23 64K digital ISDN channels (as in conjunction with BRI)\n"}
+{"prompt":"primary rate interface ->","completion":" PRI\n"}
+{"prompt":"promiscuous access ->","completion":" The ability to sniff all traffic on a network (sounds like promiscuous mode)\n"}
+{"prompt":"protected EAP ->","completion":" PEAP\n"}
+{"prompt":"protocol ->","completion":" A set of rules and formats that enables the standardized exchange of information between different systems.\n"}
+{"prompt":"protocol data unit ->","completion":" PDU\n"}
+{"prompt":"proxy firewall ->","completion":" Firewalls that terminate connections and act as intermediary servers\n"}
+{"prompt":"PSH ->","completion":" TCP flag, push data to application layer\n"}
+{"prompt":"PVC ->","completion":" Permanent Virtual Circuit, a circuit that is always connected\n"}
+{"prompt":"QoS ->","completion":" quality of service, gives specific traffic precedence over other traffic on packet-switched networks\n"}
+{"prompt":"RC4 ->","completion":" rivest cipher 4, used to provide confidentiality by WPA\n"}
+{"prompt":"real-time transport protocol ->","completion":" RTP\n"}
+{"prompt":"Remote meeting technology ->","completion":" Newer technology that allows users to conduct online meetings via the Internet, including desktop sharing functionality.\n"}
+{"prompt":"Remote wipe ->","completion":" The ability to remotely erase a mobile device.\n"}
+{"prompt":"Repeater ->","completion":" Layer 1 device that receives bits on one port, and 'repeats' them out the other port.\n"}
+{"prompt":"Reserved ports ->","completion":" TCP\/IP ports 1023 and lower.\n"}
+{"prompt":"RFC 1918 addresses ->","completion":" Private IPv4 addresses which may be used for internal traffic.\n"}
+{"prompt":"RFID \/ Radio-Frequency Identification ->","completion":" A type of contactless card technology.\n"}
+{"prompt":"Ring (physical) ->","completion":" Physical network topology that connects nodes in a physical ring.\n"}
+{"prompt":"RIP \/ Routing Information Protocol ->","completion":" A distance vector routing protocol that uses hop count as its metric.\n"}
+{"prompt":"Router ->","completion":" Layer 3 device that routes traffic from one LAN to another, based on IP addresses.\n"}
+{"prompt":"RSN \/ Robust Security Network ->","completion":" Part of 802.11i that allows changes to cryptographic ciphers as new vulnerabilities are discovered.\n"}
+{"prompt":"RST ->","completion":" TCP flag, reset (tear down) a connection.\n"}
+{"prompt":"RTP \/ Real Time Protocol ->","completion":" VoIP protocol designed to carry streaming audio and video.\n"}
+{"prompt":"SAN \/ Storage Area Network ->","completion":" Provides block-level disk storage via a network.\n"}
+{"prompt":"Screened host architecture ->","completion":" Older flat network design using one router to filter external traffic to and from a bastion host via an ACL.\n"}
+{"prompt":"Screened subnet architecture ->","completion":" Two firewalls screening a DMZ.\n"}
+{"prompt":"SDLC \/ Synchronous Data Link Control (Telecommunications) ->","completion":" A synchronous layer 2 WAN protocol that uses polling to transmit data.\n"}
+{"prompt":"SDN \/ Software Defined Networking ->","completion":" Separates a router's control plane from the data (forwarding) plane. Routing decisions are made remotely, instead of on each individual router.\n"}
+{"prompt":"SDSL \/ Symmetric Digital Subscriber Line ->","completion":" DSL with matching upload and download speeds.\n"}
+{"prompt":"Segment ->","completion":" Layer 4 PDU \/ Protocol Data Unit.\n"}
+{"prompt":"Session hijacking ->","completion":" Compromise of an existing network session.\n"}
+{"prompt":"Session layer ->","completion":" Layer 5 of the OSI model, manages sessions, which provide maintenance on connections.\n"}
+{"prompt":"Simplex ->","completion":" One-way communication, like a car radio tuned to a music station.\n"}
+{"prompt":"SIP ->","completion":" Session Initiation Protocol, a VoIP signaling protocol.\n"}
+{"prompt":"SIP \/ Session Initiation Protocol ->","completion":" A VoIP signaling protocol.\n"}
+{"prompt":"SLIP ->","completion":" Serial Line Internet Protocol, a Layer 2 protocol which provides IP connectivity via asynchronous connections such as serial lines and modems.\n"}
+{"prompt":"SLIP \/ Serial Line Internet Protocol ->","completion":" A Layer 2 protocol which provides IP connectivity via asynchronous connections such as serial lines and modems.\n"}
+{"prompt":"SMTP ->","completion":" Simple mail transfer protocol, a store-and-forward protocol used to exchange email between servers.\n"}
+{"prompt":"SMTP \/ Simple Mail Transfer Protocol ->","completion":" A store-and-forward protocol used to exchange email between servers.\n"}
+{"prompt":"Sniffing ->","completion":" Confidentiality attack on network traffic.\n"}
+{"prompt":"SNMP ->","completion":" Simple Network Management Protocol, used to monitor network devices.\n"}
+{"prompt":"SNMP \/ Simple Network Management Protocol ->","completion":" Used to monitor network devices.\n"}
+{"prompt":"Socket ->","completion":" A combination of an IP address and a TCP or UDP port on one node.\n"}
+{"prompt":"Socket pair ->","completion":" Describes a unique connection between two nodes: source port, source IP, destination port, and destination IP.\n"}
+{"prompt":"SOCKS ->","completion":" Popular circuit-level proxy.\n"}
+{"prompt":"SONET ->","completion":" Synchronous Optical Networking, carries multiple T-carrier circuits via fiber optic cable.\n"}
+{"prompt":"SPAN port ->","completion":" Switched port analyzer, receives traffic forwarded from other switch ports.\n"}
+{"prompt":"Split horizon ->","completion":" Distance vector routing protocol safeguard will not send a route update via an interface it learned the route from.\n"}
+{"prompt":"SRTP ->","completion":" Secure Real-time Transport Protocol used to provide secure VoIP.\n"}
+{"prompt":"SRTP \/ Secure Real-time Transport Protocol ->","completion":" Used to provide secure VoIP.\n"}
+{"prompt":"SSH ->","completion":" Secure Shell, a secure replacement for Telnet, FTP and the UNIX 'R' commands.\n"}
+{"prompt":"SSH \/ Secure Shell ->","completion":" A secure replacement for Telnet, FTP and the UNIX 'R' commands.\n"}
+{"prompt":"SSID ->","completion":" Service Set Identifier, acts as a wireless network name.\n"}
+{"prompt":"SSID \/ Service Set Identifier ->","completion":" Acts as a wireless network name.\n"}
+{"prompt":"SSL \/ Secure Sockets Layer ->","completion":" Authenticates and provides confidentiality to network traffic such as web traffic.\n"}
+{"prompt":"Star ->","completion":" Physical network topology that connects each node to a central device such as a hub or a switch.\n"}
+{"prompt":"Stateful firewall ->","completion":" Firewall with a state table that allows the firewall to compare current packets to previous.\n"}
+{"prompt":"Static Route ->","completion":" Fixed routing entries.\n"}
+{"prompt":"Switch ->","completion":" Layer 2 device that carries traffic on one LAN.\n"}
+{"prompt":"SYN ->","completion":" TCP flag, synchronize a connection.\n"}
+{"prompt":"SYN flood ->","completion":" Resource exhaustion DoS attack that fills a system's half-open connection table.\n"}
+{"prompt":"T1 ->","completion":" A dedicated 1.544 megabit circuit that carries 24 64-bit DSO channels.\n"}
+{"prompt":"T3 ->","completion":" 28 bundled T1s.\n"}
+{"prompt":"TAP ->","completion":" Test Access Port, provides a way to tap into network traffic and see all unicast streams on a network.\n"}
+{"prompt":"TCP ->","completion":" Transmission Control Protocol, uses a 3-way handshake to create reliable connections across a network.\n"}
+{"prompt":"TCP\/IP Model ->","completion":" A network model with 4 layers: network access, Internet, transport, and application.\n"}
+{"prompt":"Telnet ->","completion":" Protocol that provides terminal emulation over a network using TCP port 23.\n"}
+{"prompt":"TFTP ->","completion":" Trivial File Transfer Protocol, a simple way to transfer files with no authentication or directory structure.\n"}
+{"prompt":"Thicknet ->","completion":" Older type of coaxial cable, used for Ethernet bus networking.\n"}
+{"prompt":"Thinnet ->","completion":" Older type of coaxial cable, used for Ethernet bus networking.\n"}
+{"prompt":"TKIP ->","completion":" Temporal Key Integrity Protocol - used to provide integrity by WPA.\n"}
+{"prompt":"Token Ring ->","completion":" Legacy LAN technology that uses tokens.\n"}
+{"prompt":"topology ->","completion":" The physical construction of how nodes are connected to form a network.\n"}
+{"prompt":"Traceroute ->","completion":" Command that uses ICMP Time Exceeded messages to trace a network route.\n"}
+{"prompt":"Transport Layer (OSI) ->","completion":" TCP\/IP model layer that connects the internet layer to the application layer.\n"}
+{"prompt":"Tree ->","completion":" Physical network topology with a root node, and branch nodes that are at least three levels deep.\n"}
+{"prompt":"Trivial Transfer Protocol (TFTP) ->","completion":" A simple way to transfer files without the use of authentication or directory structure.\n"}
+{"prompt":"UDP ->","completion":" User Datagram Protocol, a simpler and faster cousin of TCP.\n"}
+{"prompt":"Unicast ->","completion":" One-to-one network traffic, such as a client surfing the web.\n"}
+{"prompt":"URG ->","completion":" TCP flag, packet contains urgent data.\n"}
+{"prompt":"VDSL ->","completion":" Very High Rate Digital Subscriber Line - DSL, featuring much faster asymmetric speeds.\n"}
+{"prompt":"VLAN ->","completion":" LAN, which can be thought of as a virtual switch.\n"}
+{"prompt":"WAN ->","completion":" Wide area network, typically covering cities, states, or countries.\n"}
+{"prompt":"WAP ->","completion":" Wireless Application Protocol, designed to provide secure web services to handheld wireless devices such as smartphones.\n"}
+{"prompt":"WEP ->","completion":" Wired Equivalent Privacy, a very weak 802.11 security protocol.\n"}
+{"prompt":"Wi-Fi Protected Access ->","completion":" WPA - a partial implementation of 802.11i.\n"}
+{"prompt":"Wi-Fi Protected Access 2 ->","completion":" WPA2 - the full implementation of 802.11i.\n"}
+{"prompt":"X.25 ->","completion":" Older packet switched WAN protocol.\n"}
+{"prompt":"Access ->","completion":" A subject's ability to view, modify, or communicate with an object. Access enables the flow of information between the subject and the object.\n"}
+{"prompt":"Access aggregation ->","completion":" The collective entitlements granted by multiple systems to one user. Can lead to authorization creep.\n"}
+{"prompt":"Access Control ->","completion":" Mechanisms, controls, and methods of limiting access to resources to authorized subjects only.\n"}
+{"prompt":"Access Control list (ACL) ->","completion":" A list of subjects that are authorized to access a particular object. Typically, the types of access are read, write, execute, append, modify, delete, and create.\n"}
+{"prompt":"Account Lockout ->","completion":" Disables an account after a set number of failed logins, sometimes during a specific time period.\n"}
+{"prompt":"Asynchronous Dynamic Token ->","completion":" Authentication that is not synchronized with a central server, includes challenge-response tokens.\n"}
+{"prompt":"Audit Trail ->","completion":" A chronological set of logs and records used to provide evidence of a system's performance or activity that took place on the system. These logs and records can be used to attempt to reconstruct past events and track the activities that took place, and possibly detect and identify intruders.\n"}
+{"prompt":"Authenticate ->","completion":" To verify the identity of a subject requesting the use of a system and\/or access to network resources. The steps to giving a subject access to an object should be identification, authentication, and authorization.\n"}
+{"prompt":"Authorization Creep ->","completion":" Occurs when employees not only maintain old access rights but also gain new ones as they move from one division to another within an organization.\n"}
+{"prompt":"Back Door ->","completion":" An undocumented way of gaining access to a computer system. After a system is compromised, an attacker may load a program that listens on a port (back door) so that the attacker can enter the system at any time. A back door is also referred to as a trapdoor.\n"}
+{"prompt":"Biometrics ->","completion":" When used within computer security, identifies individuals by physiological characteristics, such as a fingerprint, hand geometry, or pattern in the iris.\n"}
+{"prompt":"Capability ->","completion":" A capability outlines the objects a subject can access and the operations the subject can carry out on the different objects. It indicates the access rights for a specific subject; many times, the capability is in the form of a ticket.\n"}
+{"prompt":"Centralized access control ->","completion":" Concentrates access control in one logical point for a system or organization.\n"}
+{"prompt":"CER ->","completion":" Crossover Error Rate, describes the point where the False Reject Rate (FRR) and the False Accept Rate (FAR) are equal.\n"}
+{"prompt":"Clipping level ->","completion":" A minimum reporting threshold level.\n"}
+{"prompt":"Content-dependent access controls ->","completion":" Adds additional criteria beyond identification and authentication: the actual content the subject is attempting to access.\n"}
+{"prompt":"Context-dependent access control ->","completion":" Adds additional criteria beyond identification and authentication: the context of the access, such as time.\n"}
+{"prompt":"Control Zone ->","completion":" The space within a facility that is used to protect sensitive processing equipment. Controls are in place to protect equipment from physical or technical unauthorized entry or compromise. The zone can also be used to prevent electrical waves carrying sensitive data from leaving the area.\n"}
+{"prompt":"Crossover Error Rate ->","completion":" See - CER.\n"}
+{"prompt":"Diameter RADIUS ->","completion":" Successor, designed to provide an improved Authentication, Authorization, and accounting (AAA) framework.\n"}
+{"prompt":"Dictionary attack ->","completion":" Password cracking method that uses a predefined list of words like a dictionary, running each word through a hash algorithm.\n"}
+{"prompt":"dictionary attack ->","completion":" A form of attack in which an attacker uses a large set of likely combinations to guess a secret, usually a password.\n"}
+{"prompt":"Discretionary access control ->","completion":" See --DAC.\n"}
+{"prompt":"discretionary access control (DAC) ->","completion":" An access control model and policy that restricts access to objects based on the identity of the subjects and the groups to which those subjects belong. The data owner has the discretion of allowing or denying others access to the resources it owns.\n"}
+{"prompt":"Dual Factor Authentication ->","completion":" See Strong Authentication.\n"}
+{"prompt":"Dynamic password ->","completion":" Changes at regular intervals.\n"}
+{"prompt":"Dynamic signatures ->","completion":" Biometric control that measures the process by which someone signs their name.\n"}
+{"prompt":"emanations ->","completion":" Electrical and electromagnetic signals emitted from electrical equipment that can transmit through the airwaves. These signals carry information that can be captured and deciphered, which can cause a security breach. These are also called emissions.\n"}
+{"prompt":"Enrollment ->","completion":" The process of enrolling with a system (such as a biometric authentication system), creating an account for the first time.\n"}
+{"prompt":"Entitlements ->","completion":" The permissions granted to a user.\n"}
+{"prompt":"Facial Scan ->","completion":" Biometric control that compares a picture of a face to pictures stored in a database.\n"}
+{"prompt":"FAR \/ False Accept Rate ->","completion":" Occurs when an unauthorized subject is accepted as valid. Also known as a type II error.\n"}
+{"prompt":"FIdM \/ Federated Identity Management ->","completion":" Applies Single Sign On at a much wider scale: ranging from cross-organization to Internet scale.\n"}
+{"prompt":"Fingerprint scan ->","completion":" Biometric scan of the minutiae (specific details of the fingerprint).\n"}
+{"prompt":"FRR \/ False Reject Rate ->","completion":" Occurs when an authorized subject is rejected as invalid. Also known as a type I error.\n"}
+{"prompt":"Hand Geometry ->","completion":" Biometric control that uses measurements from within specific points on the subject's hand.\n"}
+{"prompt":"Host-To-Host Transport Layer (TCP\/IP transport layer) ->","completion":" Connects the internet layer to the application layer. Where applications are addressed on a network via ports.\n"}
+{"prompt":"Hybrid Attack ->","completion":" Password attack that appends, prepends, or changes characters in words from a dictionary.\n"}
+{"prompt":"Identity as a Service (IDaaS) ->","completion":" Identity as a service, also called cloud identity, allows organizations to leverage closed service for identity management.\n"}
+{"prompt":"Iris Scan ->","completion":" Passive biometric scan of the iris (colored portion of the eye).\n"}
+{"prompt":"KDC ->","completion":" Key Distribution Center, a Kerberos service that authenticates principals.\n"}
+{"prompt":"Kerberos ->","completion":" A third-party authentication service that may be used to support Single Sign On.\n"}
+{"prompt":"Key Distribution Center ->","completion":" See - KDC. Key Distribution Center, a Kerberos service that authenticates principals.\n"}
+{"prompt":"Keyboard dynamics ->","completion":" Biometric control that refers to how hard a person presses each key and the rhythm by which the keys are pressed.\n"}
+{"prompt":"keystroke monitoring ->","completion":" A type of auditing that can review or record keystrokes entered by a user during an active session.\n"}
+{"prompt":"LDAP ->","completion":" Lightweight Directory Access Protocol, open protocol for interfacing and querying directory service information provided by network operating systems. Uses port 389 via TCP or UDP\n"}
+{"prompt":"Lightweight Directory Access Protocol ->","completion":" See—LDAP - Lightweight Directory Access Protocol, open protocol for interfacing and querying directory service information provided by network operating systems. Uses port 389 via TCP or UDP\n"}
+{"prompt":"Lightweight Directory Access Protocol (LDAP) ->","completion":" A directory service based on a subset of the X.500 standard that allows users and applications to interact with a directory.\n"}
+{"prompt":"Minutiae ->","completion":" Specific fingerprint details that include whorls, ridges, bifurcation, and others\n"}
+{"prompt":"Network Access Layer ->","completion":" TCP\/IP model layer that combines layers 1 and 2 of the OSI model. It describes Layer 1 issues such as energy, bits and the medium used to carry them\n"}
+{"prompt":"Nondiscretionary access control ->","completion":" Access control based on subjects' roles or tasks\n"}
+{"prompt":"object reuse ->","completion":" Reassigning to a subject media that previously contained information. Object reuse is a security concern because if insufficient measures were taken to erase the information on the media, the information may be disclosed to unauthorized personnel.\n"}
+{"prompt":"One-Time password ->","completion":" Password that may be used for a single authentication\n"}
+{"prompt":"Passphrase ->","completion":" A long static password, comprised of words in a phrase or sentence\n"}
+{"prompt":"password ->","completion":" A sequence of characters used to prove one's identity. It is used during a logon process and should be highly protected.\n"}
+{"prompt":"Password Cracking ->","completion":" An offline technique in which the attacker has gained access to the password hashes or database\n"}
+{"prompt":"Password guessing ->","completion":" An online technique that involves attempting to authenticate as a particular user to the system\n"}
+{"prompt":"Personal Identification Number ->","completion":" See PIN\n"}
+{"prompt":"physical controls ->","completion":" Controls that pertain to controlling individual access into the facility and different departments, locking systems and removing unnecessary floppy or CD-ROM drives, protecting the perimeter of the facility, monitoring for intrusion, and checking environmental controls.\n"}
+{"prompt":"PIN ->","completion":" personal identification number, a number-based password\n"}
+{"prompt":"PKI ->","completion":" public key infrastructure leverages symmetric, asymmetric and hash-based cyrptography to manage digital certificates\n"}
+{"prompt":"plaintext ->","completion":" an uncreypted message\n"}
+{"prompt":"principal ->","completion":" kerberos client (user) or service\n"}
+{"prompt":"public key ->","completion":" one half of asymmetric key pari, may be publicly poste\n"}
+{"prompt":"public key infrastructure ->","completion":" PKI\n"}
+{"prompt":"RADIUS (Remote Authentication Dial-in User Service) ->","completion":" A security service that authenticates and authorizes dial-up users and is a centralized access control mechanism.\n"}
+{"prompt":"RADIUS \/ Remote Authentication Dial In User Service ->","completion":" A UDP-based third-party authentication system.\n"}
+{"prompt":"RBAC ->","completion":" role-based access controls, subjects are grouped into roles and each defined role has access permission base dupon the role, not the individual (there is also MAC & DAC)\n"}
+{"prompt":"RBAC \/ Role-Based Access Controls ->","completion":" Subjects are grouped into roles and each defined role has access permissions based upon the role, not the individual.\n"}
+{"prompt":"realm ->","completion":" a logical kerberos network\n"}
+{"prompt":"Retina scan ->","completion":" Biometric laser scan of the capillaries which feed the retina.\n"}
+{"prompt":"Rule-based access control ->","completion":" Uses a series of defined rules, restrictions, and filters for accessing objects within a system.\n"}
+{"prompt":"Salt ->","completion":" A random number that is hashed with a password. Allows one password to hash multiple ways.\n"}
+{"prompt":"SAML \/ Security Assertion Markup Language ->","completion":" An XML-based framework for exchanging security information, including authentication data.\n"}
+{"prompt":"SSO ->","completion":" Single Sign On, allows a subject to authenticate once and then access multiple systems\n"}
+{"prompt":"Static password ->","completion":" Reusable passwords that may or may not expire\n"}
+{"prompt":"Strong Authentication ->","completion":" Requires that the user present more than one authentication factor, also called dual factor authentication\n"}
+{"prompt":"Synchronous Dynamic Token ->","completion":" use time or counters to synchronize a displayed token code with the code expected by the authentication server\n"}
+{"prompt":"TACACS ->","completion":" Terminal Access Controller Access Controller System, a SSO method often used for network equipment\n"}
+{"prompt":"TACACS (Terminal Access Controller Access Control System) ->","completion":" A client\/server authentication protocol that provides the same type of functionality as RADIUS and is used as a central access control mechanism mainly for remote users.\n"}
+{"prompt":"technical controls ->","completion":" These controls, also called logical access control mechanisms, work in software to provide confidentiality, integrity, or availability protection. Some examples are passwords, identification and authentication methods, security devices, auditing, and the configuration of the network.\n"}
+{"prompt":"Tempest ->","completion":" The study and control of spurious electronic signals emitted by electrical equipment. Tempest equipment is implemented to prevent intruders from picking up information through the airwaves with listening devices.\n"}
+{"prompt":"TGS ->","completion":" Ticket Granting Service, a Kerberos service which grants access to services\n"}
+{"prompt":"TGT ->","completion":" Ticket Granting Ticket, Kerberos credentials encrypted with the TGS key\n"}
+{"prompt":"Throughput ->","completion":" The process of authenitcain to a system (such as a biometric authentication system)\n"}
+{"prompt":"Ticket ->","completion":" Dara that authenticates a Kerberos principal's identity\n"}
+{"prompt":"Ticket Granting Service (TGS) ->","completion":" A kerberos service which grants access to services\n"}
+{"prompt":"Ticket Granting Ticket (TGT) ->","completion":" Kerberos credentials encrypted with the TGS' key\n"}
+{"prompt":"Type 1 Authentication ->","completion":" Something you know\n"}
+{"prompt":"Type 2 Authentication ->","completion":" Something you have\n"}
+{"prompt":"Type 3 Authenication ->","completion":" Something you are\n"}
+{"prompt":"Type I error ->","completion":" False Reject Rate (FRR) occurs when an authorised subject is rejected as invalid\n"}
+{"prompt":"Type II Error ->","completion":" False Acceptance Rate (FAR) , occurs when an authorised subject is accepted as valid\n"}
+{"prompt":"User ->","completion":" A person or process that is accessing a computer system.\n"}
+{"prompt":"user ->","completion":" A person or process that is accessing a computer system.\n"}
+{"prompt":"User ID ->","completion":" A unique set of characters or code that is used to identify a specific user to a system.\n"}
+{"prompt":"user ID ->","completion":" A unique set of characters or code that is used to identify a specific user to a system.\n"}
+{"prompt":"Acceptance Testing ->","completion":" Testing to ensure the software meets the customers operational requirements\n"}
+{"prompt":"Administrative Controls ->","completion":" Security mechanisms that are management's responsibility and referred to as \"soft\" controls. These controls include the development and publication of policies, standards, procedures, and guidelines; the screening of personnel; security-awareness training; the monitoring of system activity; and change control procedures.\n"}
+{"prompt":"All pairs testing ->","completion":" Form of combinatorial software testing that tests unique pairs of inputs otherwise known as (Pairwise testing)\n"}
+{"prompt":"Black box software testing ->","completion":" Gives the tester no internal details: the software is treated as a black box that receives inputs\n"}
+{"prompt":"Combinatorial software testing ->","completion":" Black box testing method that seeks to identify and test all unique combinations of software inputs\n"}
+{"prompt":"Dynamic testing ->","completion":" Tests code while executing it\n"}
+{"prompt":"Full knowledge test ->","completion":" A penetration test where the tester is provided with inside information at the start of the test\n"}
+{"prompt":"Installation testing ->","completion":" testing software as it is installed and first operated\n"}
+{"prompt":"Integration testing ->","completion":" testing multiple software components as they are combined into a working system\n"}
+{"prompt":"Interface Testing ->","completion":" tests all the ways users can interact with the application, and is concerned with appropriate functionality being exposed. From a security-oriented vantage point, the goal is to ensure that security is uniformly applied across the various interfaces\n"}
+{"prompt":"operational assurance ->","completion":" A level of confidence of a trusted system's architecture and implementation that enforces the system's security policy. This can include system architecture, covert channel analysis, system integrity, and trusted recovery.\n"}
+{"prompt":"Pairwise testing ->","completion":" Form of combinatorial software testing that tests unique pairs of inputs\n"}
+{"prompt":"Partial Knowledge Test ->","completion":" A penetration test where the tester is provided with partial inside information at the start of the test\n"}
+{"prompt":"Penetration test ->","completion":" Security test designed to determine if an attacker can penetrate an organization\n"}
+{"prompt":"piplining ->","completion":" CPU feature that combines multiple steps into on combined process, allowing simultaneous fetch, decode, execuet and write steps for different instructions\n"}
+{"prompt":"Security assessments ->","completion":" A holistic approach to assessing the effectiveness of access control. May use other tests as a subset, including penetration tests and vulnerability scans.\n"}
+{"prompt":"Security audit ->","completion":" A test against a published standard.\n"}
+{"prompt":"Static Testing ->","completion":" tests code passively, the code is not running\n"}
+{"prompt":"Synthetic Transactions ->","completion":" Also called synthetic monitoring, involves building scripts or tools that simulate activities normally performed in an application.\n"}
+{"prompt":"Traceability Matrix ->","completion":" Maps customers' requirements to the software testing plan: it 'traces' the 'requirements', and ensures they are being met.\n"}
+{"prompt":"Unit Testing ->","completion":" Low-level tests of software components, such as functions, procedures or objects.\n"}
+{"prompt":"War Dialing ->","completion":" An attack in which a long list of phone numbers I inserted into a war-dialing program in the hope of finding a modem that can be exploited to gain unauthorized access.\n"}
+{"prompt":"war dialing ->","completion":" An attack in which a long list of phone numbers is inserted into a war-dialing program in the hope of finding a modem that can be exploited to gain unauthorized access.\n"}
+{"prompt":"War dialing ->","completion":" Uses modem to dial a series of phone numbers, looking for an answering modm carrier tone.\n"}
+{"prompt":"white box software testing ->","completion":" Gives the tester access to program source code, data structures, variables, etc.\n"}
+{"prompt":"Write ->","completion":" An operation that results in the flow of information from a subject to an object.\n"}
+{"prompt":"Zero knowledge test ->","completion":" A blind penetration test where the tester has no inside information at the start of the test.\n"}
+{"prompt":"\"Bad\" Blocks\/Clusters\/sectors ->","completion":" Good disk blocks marked as bad.\n"}
+{"prompt":"Active-active Cluster ->","completion":" Involves multiple systems all of which are online and actively processing traffic or data.\n"}
+{"prompt":"Active-passive Cluster ->","completion":" Involves devices or systems that are already in place, configured, powered on and ready to begin processing network traffic should a failure occur on the primary system.\n"}
+{"prompt":"Administrative Controls ->","completion":" Implemented by creating and following organizational policy, procedures, or regulation. Also called directive controls.\n"}
+{"prompt":"Allocated Space ->","completion":" Portions of disk partition that are marked as actively containing data.\n"}
+{"prompt":"Baselining ->","completion":" The process of capturing a point in time understanding of the current system security configuration.\n"}
+{"prompt":"BCI ->","completion":" The Business Continuity Institute.\n"}
+{"prompt":"BCP ->","completion":" Business Continuity Plan, A long-term plan to ensure the continuity of business operations\n"}
+{"prompt":"BCP\/DRP project manager ->","completion":" The key point of contact for ensuring that a BCP\/DRP is not only completed, but also routinely tested\n"}
+{"prompt":"Binary image ->","completion":" Bit-level copy of memory\n"}
+{"prompt":"Blacklist ->","completion":" A set of known bad resources such as IP addresses, domain names, or applications.\n"}
+{"prompt":"BRP ->","completion":" Business Recovery Plan, details the steps required to restore normal business operations after recovering from a disruptive event. Also known as the Business Resumption Plan\n"}
+{"prompt":"BS-25999 ->","completion":" Continuity standard by the British Standards institution (BSI)\n"}
+{"prompt":"Business Continuity Plan - BCP ->","completion":" Business Continuity Plan, A long-term plan to ensure the continuity of business operations\n"}
+{"prompt":"Business interruption testing ->","completion":" Partial or complete failover to an alternate site\n"}
+{"prompt":"Business Recovery Plan - BRP ->","completion":" Business Recovery Plan, details the steps required to restore normal business operations after recovering from a disruptive event. Also known as the Business Resumption Plan\n"}
+{"prompt":"Business Resumption Plan - BRP ->","completion":" Business Recovery Plan, details the steps required to restore normal business operations after recovering from a disruptive event. Also known as the Business Resumption Plan\n"}
+{"prompt":"Checklist testing ->","completion":" Lists all necessary components required for successful recovery, and ensures that they are, or will be, readily available should a disaster occur. Also knows as consistency testing\n"}
+{"prompt":"CMP ->","completion":" Crisis Management Plan\n"}
+{"prompt":"Cold Site ->","completion":" A backup site with raised floor, power, utilities, and physical security, and no configured systems or data\n"}
+{"prompt":"Collusion ->","completion":" An agreement between two or more individuals to subvert the security of a system\n"}
+{"prompt":"Computer Security Incident Response Team ->","completion":" See - CSIRT\n"}
+{"prompt":"Conduct the business impact analysis (BIA) ->","completion":" Second step of the NIST SP 800-34 contingency planning process\n"}
+{"prompt":"Configuration Management ->","completion":" The identification, control, accounting, and documentation of all changes that take place to system hardware, software, firmware, supporting documentation, and test results throughout the lifespan of the system.\n"}
+{"prompt":"Consistency testing ->","completion":" See - Checklist testing\n"}
+{"prompt":"Containment phase ->","completion":" Incident response phase that attempts to keep further damage from occurring as a result of the incident\n"}
+{"prompt":"Contingency Plan ->","completion":" A plan put in place before any potential emergencies, with the mission of dealing with possible future emergencies. It pertains to training peronnel, performing backups, preparing critical facilities, and recoving from an emergency or disaster so that business operations can continue.\n"}
+{"prompt":"Continuity of Operations Plan ->","completion":" See - COOP\n"}
+{"prompt":"Continuity of Support Plan ->","completion":" Focuses narrowly on support of specific IT systems and applications\n"}
+{"prompt":"Continuity Planning Project Team ->","completion":" See - CPPT\n"}
+{"prompt":"COOP ->","completion":" Continuity of Operations Plan, a plan to maintain operations during a disaster\n"}
+{"prompt":"CPPT ->","completion":" Continuity Planning Project Team, a team comprised of stakeholders within an organization and focuses on identifying who would need to play a role in specific emergency event were to occur\n"}
+{"prompt":"Crisis Management Plan ->","completion":" See - CMP\n"}
+{"prompt":"CSIRT ->","completion":" Computer Security Incident Response Team, the group that is tasked with monitoring, identifying, and responding to security incidents\n"}
+{"prompt":"Cyber Incident Response Plan ->","completion":" Plan designed to respond to disruptive cyber events, including network-based attacks, worms, computer viruses, Trojan horses, etc.\n"}
+{"prompt":"database shadowing ->","completion":" A mirroring technology used in databases, in which information is written to at least two hard drives for the purpose of redundancy.\n"}
+{"prompt":"Develop an IT contingency plan ->","completion":" Fifth step of the NIST SP 800-34 contingency planning process\n"}
+{"prompt":"Develop recovery strategy ->","completion":" Forth step of the NIST SP 800-34 contingency planning process\n"}
+{"prompt":"Develop the contingency planning policy statement ->","completion":" First step of the NIST SP 800-34 contingency planning process\n"}
+{"prompt":"Differential backup ->","completion":" An archive of any files that have been changed since the last full backup was performed\n"}
+{"prompt":"Disaster ->","completion":" Any disruptive event that interrupts normal systems, operations.\n"}
+{"prompt":"Disaster recovery plan ->","completion":" Disaster Recovery Plan, a short-term plan to recover from a disruptive event\n"}
+{"prompt":"disaster recovery plan ->","completion":" A plan developed to help a company recover from a disaster. It provides procedures for emergency response, extended backup operations, and post-disaster recovery when an organization suffers a loss of computer processing capability or resources and physical facilities.\n"}
+{"prompt":"DRP ->","completion":" Disaster Recovery Plan, a short-term plan to recover from a disruptive event\n"}
+{"prompt":"eDiscovery \/ Electronic Discovery ->","completion":" Pertains to legal counsel gaining access to pertinent ESI (Electronic Stored Information) during the pre-trial discovery phase of civil legal proceedings\n"}
+{"prompt":"Electronic vaulting ->","completion":" Batch process of electronically transmitting data that is to be backed up on a routine, regularly scheduled time interval\n"}
+{"prompt":"Electronic vaulting ->","completion":" The transfer of backup data to an offsite location. This process is primarily a batch process of transmitting data through communications lines to a server at an alternative location.\n"}
+{"prompt":"EOC \/ Emergency Operations Center ->","completion":" The command post established during or just after an emergency event\n"}
+{"prompt":"Eradication phase ->","completion":" Incident response phase that cleans a compromised system\n"}
+{"prompt":"Executive Succession Planning ->","completion":" Determines an organization's line of succession\n"}
+{"prompt":"Failover ->","completion":" A backup operation that automatically switches to a standby system if the primary system fails or is taken offline. It is an important fault-tolerant function that provides system availability.\n"}
+{"prompt":"Failover cluster ->","completion":" Multiple systems that can be seamlessly leveraged to maintain the availability of the service or application being provided. Also called a failover cluster\n"}
+{"prompt":"Full backup ->","completion":" An archive of all files\n"}
+{"prompt":"Fuzzing \/ Fuzz testing ->","completion":" A type of black box testing that enters random malformed data as inputs into software programs to determine if they will crash\n"}
+{"prompt":"GFS \/ Grandfather Father Son ->","completion":" A backup rotation method\n"}
+{"prompt":"High Availability (HA) Cluster ->","completion":" Multiple systems that can be seamlessly leveraged to maintain the availability of the service or application being provided. Also called a failover cluster\n"}
+{"prompt":"Honeynet ->","completion":" A network of honeypots\n"}
+{"prompt":"Honeypot ->","completion":" A system designed to attract attackers\n"}
+{"prompt":"Host-Based Intrusion Detection Systems (HIDS) ->","completion":" Host-based intrusion detection systems, a detective technical control\n"}
+{"prompt":"Host-Based Intrusion Prevention Systems (HIPS) ->","completion":" Host-based intrusion prevention system, a preventative device that processes information within the host\n"}
+{"prompt":"Hot Site ->","completion":" A backup site with all necessary hardware and critical applications data mirrored in real time\n"}
+{"prompt":"Identify preventative controls ->","completion":" Third step of the NIST SP 800-34 contingency planning process\n"}
+{"prompt":"Incremental Backup ->","completion":" An archive of all files that have changed since the last backup of any kind was performed\n"}
+{"prompt":"Intrusion Detection System (IDS) ->","completion":" Intrusion detection system, a detective technical control\n"}
+{"prompt":"Intrusion Prevention System (IPS) ->","completion":" Preventative device designed to prevent malicious actions\n"}
+{"prompt":"ISO 22301 ->","completion":" Management-focused business continuity guideline called 'Business continuity management systems - Requirements'\n"}
+{"prompt":"ISO\/IEC-27031 ->","completion":" Technically-focused business continuity guideline that is part of the ISO 27000 series\n"}
+{"prompt":"life-cycle assurance ->","completion":" Confidence that a trusted system is designed, developed, and maintained with formal designs and controls. This includes design specification and verification, implementation, testing, configuration management, and distribution.\n"}
+{"prompt":"Live forensics ->","completion":" Taking a binary image of physical memory, gathering details about running processes, and gathering network connection data\n"}
+{"prompt":"Mandatory leave ->","completion":" Forcing staff to take vacation or time away from the office. Also known as forced vacation\n"}
+{"prompt":"Maximum Allowable Downtime ->","completion":" See—MTD - Maximum Tolerable Downtime, the total time a system can be inoperable before an organization is severely impacted\n"}
+{"prompt":"Maximum Tolerable Downtime ->","completion":" See—MTD - Maximum Tolerable Downtime, the total time a system can be inoperable before an organization is severely impacted\n"}
+{"prompt":"Mean Time Between Failures ->","completion":" See—MTBF - Mean Time Between Failures, quantifies how long a new or repaired system will run on average before failing\n"}
+{"prompt":"Mean Time to Repair ->","completion":" See—MTTR - Mean Time to Repair, describes how long it will take to recover a failed system\n"}
+{"prompt":"Minimum Operating Requirements ->","completion":" See—MOR - Minimum Operating Requirements, describes the minimum environmental and connectivity requirements to operate computer equipment\n"}
+{"prompt":"Mirroring ->","completion":" Complete duplication of data to another disk, used by some levels of RAID\n"}
+{"prompt":"Mobile sites ->","completion":" DRP backup site option that is a 'data centers on wheels'; towable trailers that contain racks of computer equipment, as well as HVAC, fire suppression, and physical security\n"}
+{"prompt":"MOR ->","completion":" Minimum Operating Requirements, describes the minimum environmental and connectivity requirements to operate computer equipment\n"}
+{"prompt":"MTBF ->","completion":" Mean Time Between Failures, quantifies how long a new or repaired system will run on average before failing\n"}
+{"prompt":"MTD ->","completion":" Maximum Tolerable Downtime, the total time a system can be inoperable before an organization is severely impacted\n"}
+{"prompt":"MTTR ->","completion":" Maximum Transmission Unit, the maximum PDU size on a network\n"}
+{"prompt":"Mutual Aid Agreement ->","completion":" See—Reciprocal agreement\n"}
+{"prompt":"NDA ->","completion":" Nondisclosure agreement, a contractual agreement that ensures that an individual or organization appreciates their legal responsibility to maintain the confidentiality of sensitive information\n"}
+{"prompt":"Network Intrusion Prevention System ->","completion":" See—NIPS\n"}
+{"prompt":"Network-based Intrusion Detection Systems ->","completion":" See—NIDS\n"}
+{"prompt":"NIDS ->","completion":" Network-based intrusion detection system, a detective technical control\n"}
+{"prompt":"NIPS ->","completion":" Network intrusion prevention system, a device designed to prevent malicious network traffic\n"}
+{"prompt":"NIST SP 800-34 ->","completion":" NIST Special Publication 800-34 'Contingency Planning Guide for Information Technology Systems'\n"}
+{"prompt":"Nondisclosure agreement ->","completion":" See—NDA\n"}
+{"prompt":"Occupant Emergency Plan ->","completion":" See—OEP\n"}
+{"prompt":"OEP ->","completion":" Occupant Emergency Plan, a facility-based plan focused on safety and evacuation\n"}
+{"prompt":"Parallel Processing ->","completion":" Recovery of critical processing components at an alternate computing facility, without impacting regular production systems\n"}
+{"prompt":"Parity ->","completion":" A means to achieve data redundancy without incurring the same degree of cost as that of mirroring in terms of disk usage and write performance\n"}
+{"prompt":"Patch management ->","completion":" The process of managing software updates\n"}
+{"prompt":"RAID ->","completion":" Redundant Array of Inexpensive Disks, a method of using multiple disk drives to achieve greater data reliability, greater speed, or both (striping, mirroring, or parity)\n"}
+{"prompt":"RAID 0 ->","completion":" RAID striped set\n"}
+{"prompt":"RAID 1 ->","completion":" RAID mirrored set\n"}
+{"prompt":"RAID 1 + 0 ->","completion":" RAID 0 combined with RAID 1, sometimes called RAID 10\n"}
+{"prompt":"RAID 10 ->","completion":" RAID 1 + 0\n"}
+{"prompt":"RAID 2 ->","completion":" RAID Hamming code\n"}
+{"prompt":"RAID 3 ->","completion":" RAID striped set with dedicated parity (byte level)\n"}
+{"prompt":"RAID 4 ->","completion":" RAID striped set with dedicated parity (block level)\n"}
+{"prompt":"RAID 5 ->","completion":" RAID striped set with distributed parity\n"}
+{"prompt":"RAID 6 ->","completion":" RAID striped set with dual distributed parity\n"}
+{"prompt":"Reciprocal agreement ->","completion":" A bi-directional agreement between two organizations in which one organization promises another organization it can move in and share space if it experiences a disaster. Also known as a mutual aid agreement.\n"}
+{"prompt":"Recovery phase ->","completion":" Incident response phase that restores a previously compromised system to operational status\n"}
+{"prompt":"Recovery Planning ->","completion":" An operation that results in the flow of information from an object to a subject and does not give the subject the ability to modify the object or the data within the object.\n"}
+{"prompt":"Recovery Point Objective ->","completion":" The acceptable amount of data loss measured in time.\n"}
+{"prompt":"Recovery point objective ->","completion":" RPO\n"}
+{"prompt":"Recovery Time Objective ->","completion":" The maximum time period within which a business process must be restored to a designated service level after a disaster to avoid unacceptable consequences.\n"}
+{"prompt":"Recovery time objective ->","completion":" RTO\n"}
+{"prompt":"Redundant Array of Inexpensive Disks ->","completion":" RAID\n"}
+{"prompt":"Redundant site ->","completion":" An exact production duplicate of a system that has the capability to seamlessly operate all necessary IT operations without loss of services to the end user\n"}
+{"prompt":"Remote Journaling ->","completion":" A method of transmitting changes to data to an offsite facility. This takes place as a parallel processing of transactions, meaning that changes to that data are saved locally and to an off-site facility. These activities take place in real time and provide redundancy and fault tolerance.\n"}
+{"prompt":"Reporting phase ->","completion":" Incident response phase that provides a final report on the incident.\n"}
+{"prompt":"Rotation of Duties ->","completion":" Requires that critical functions or responsibilities are not continuously performed by the same person without interruption. Also known as job rotation.\n"}
+{"prompt":"RPO \/ Recovery Point Objective ->","completion":" The amount of data loss or system inaccessibility (measured in time) that an organization can withstand.\n"}
+{"prompt":"RTO \/ Recovery Time Objective ->","completion":" The maximum time allowed to recover business or IT systems.\n"}
+{"prompt":"Seperation of duties ->","completion":" Dividing sensitive transactions among multiple subjects\n"}
+{"prompt":"SLA ->","completion":" Service Level Agreement, contractual agreement that helps assure availability\n"}
+{"prompt":"SLA \/ Service Level Agreement ->","completion":" Contractual agreement that helps assure availability.\n"}
+{"prompt":"Slack Space ->","completion":" Space on a disk between the end-of-file marker and the end of the cluster\n"}
+{"prompt":"Striping ->","completion":" Spreading data across multiple disks to achieve performance gains, used by some levels of RAID\n"}
+{"prompt":"Structured walkthrough ->","completion":" Thorough review of a DRP by individuals that are knowledgeable about the systems and services targeted for recovery. AKA tabletop exercise.\n"}
+{"prompt":"Trusted Recovery ->","completion":" A set of procedures that restores a system and its data in a trusted manner after the system has been disrupted or a system failure has occurred.\n"}
+{"prompt":"trusted recovery ->","completion":" A set of procedures that restores a system and its data in a trusted manner after the system has been disrupted or a system failure has occurred.\n"}
+{"prompt":"Unallocated space ->","completion":" Portions of a disk partition that do not contain active data\n"}
+{"prompt":"Vulnerability Management ->","completion":" Management of vulnerability information\n"}
+{"prompt":"Vulnerability Scanning ->","completion":" A process to discover poor configurations and missing patches in an environment\n"}
+{"prompt":"Walkthrough drill ->","completion":" Also known as a simulation test, recovery from a pretend disaster, goes beyond talking about the process and actually has teams carry out the recovery process\n"}
+{"prompt":"Warm site ->","completion":" A backup site with all the necessary hardware and connectivity, and configured computers without live data\n"}
+{"prompt":"Whitelist ->","completion":" A set of known good resources such as IP addresses, domain names, or applications.\n"}
+{"prompt":"whitelist ->","completion":" A set of known good resources such as IP addresses, domain names, or applications.\n"}
+{"prompt":"Work Recovery Time ->","completion":" WRT - the time required to configure a recovered system\n"}
+{"prompt":"4GL ->","completion":" Fourth-generation programming language designed to increase programmers' efficiency by automating the creation of computer programming code\n"}
+{"prompt":"4GL \/ Fourth-generation programming language ->","completion":" Designed to increase programmer's efficiency by automating the creation of computer programming code\n"}
+{"prompt":"Agile Software Development ->","completion":" Flexible software development model that evolved as a reaction to rigid software development models such as the Waterfall Model\n"}
+{"prompt":"ANN\/Artificial Neural Networks ->","completion":" Simulate neural networks found in humans and animals\n"}
+{"prompt":"Antimalware ->","completion":" Software whose principal functions include the identification and mitigation of malware; also known as antivirus, although this term could be specific to only one type of malware.\n"}
+{"prompt":"API\/Application Programmers Interface ->","completion":" Allows an application to communicate with another application, or an operating system, database, network, etc. For example, The Google Maps API allows an application to integrate 3rd-party content such as restaurants overlaid on a Google Map\n"}
+{"prompt":"Artificial Intelligence ->","completion":" The science of programming electronic computers to \"think\" more intelligently, sometimes mimicking the ability of mammal brains\n"}
+{"prompt":"Assembly Language ->","completion":" Low-level computer programming Language with instructions that are short mnemonics, such as \"ADD\", \"SUB\" (subtract) and \"JMP\" (jump) that match to machine language instructions\n"}
+{"prompt":"Attribute ->","completion":" A Column in a relational database table\n"}
+{"prompt":"Back up ->","completion":" Copy and move data to a medium so that it may be restored if the original data is corrupted or destroyed. A full backup copies all the data from the system to the backup medium. An incremental backup copies only the files that have been modified since the previous backup. A differential backup backs up all files since the last full backup.\n"}
+{"prompt":"Backward chaining ->","completion":" Expert system mode that starts with begins with a premise and works backwards\n"}
+{"prompt":"Bayesian filtering ->","completion":" Uses mathematical formulas to assign probabilities to make decisions such as identifying spam\n"}
+{"prompt":"Bottom-Up programming ->","completion":" Starts with the low-level technical implementation details and works up to the concept of the complete program\n"}
+{"prompt":"Buffer overflow ->","completion":" Condition where an attacker can inset data beyond the end of a buffer variable\n"}
+{"prompt":"Bytecode ->","completion":" Machine-independent interpreted code, used by Java\n"}
+{"prompt":"Candidate keys ->","completion":" Any attribute (column) in the table with unique values\n"}
+{"prompt":"Capability Maturity Model - CMM ->","completion":" Capability Maturity Model, a maturity framework for evaluating and improving the software development process\n"}
+{"prompt":"Capability Maturity Model Integration (CMMI) ->","completion":" A process model that captures the organization's maturity and fosters continuous improvement.\n"}
+{"prompt":"CASE ->","completion":" Computer-Aided Software Engineering, uses programs to create assist in the creation and maintenance of other computer programs\n"}
+{"prompt":"Cleartext ->","completion":" In data communications, cleartext is the form of a message or data, which is transferred or stored without cryptographic protection.\n"}
+{"prompt":"Closed source ->","completion":" Software released in executable form: the source code is kept confidential\n"}
+{"prompt":"Code Repositories ->","completion":" Secure service for storing source code of projects, a public example is GitHub\n"}
+{"prompt":"Cohesion ->","completion":" OOP concept that describes as independent object. Objects with high cohesion have low coupling\n"}
+{"prompt":"COM ->","completion":" Component Object Model, locates, and connects objects locally\n"}
+{"prompt":"Commercial Off-the-Shelf Software ->","completion":" See - COTS\n"}
+{"prompt":"Commit ->","completion":" Makes changes to a database permanent\n"}
+{"prompt":"Common Object Request Broker Architecture ->","completion":" See- COBRA\n"}
+{"prompt":"COTS ->","completion":" Commercial Off-the-Shelf Software, third-party developed commercial software available to the generic public\n"}
+{"prompt":"Coupling ->","completion":" OOP concept that connects objects to others. Highly coupled objects have low cohesion\n"}
+{"prompt":"Crippleware ->","completion":" Partially functioning proprietary software, often with key features disabled. The user is typically required to make a payment to unlock the full functionality\n"}
+{"prompt":"Crossover ->","completion":" Genetic algorithm concept that combines two algorithms\n"}
+{"prompt":"Cross-Site Request Forgery ->","completion":" See - CSRF\n"}
+{"prompt":"Cross-Site Scripting ->","completion":" See - XSS\n"}
+{"prompt":"CSRF ->","completion":" Cross-Site Request Forgery, third-party redirect of static content within the security context of a trusted site\n"}
+{"prompt":"Data Definition Language ->","completion":" See - DDL\n"}
+{"prompt":"Data dictionary ->","completion":" Contains a description of the database tables, including the schema, database view information, and information about authorized database administrator and user accounts\n"}
+{"prompt":"data mining ->","completion":" The analysis of the data held in data warehouses in order to produce new and useful information.\n"}
+{"prompt":"Data Warehouse ->","completion":" A Large collection of Data\n"}
+{"prompt":"data warehousing ->","completion":" the process of combining data from multiple databases or data sources into a large data store for the purpose of providing more extensive information retrieval and data analysis.\n"}
+{"prompt":"Database ->","completion":" A structured collection of related data\n"}
+{"prompt":"Database Administrators ->","completion":" Database Administrator, role that manages databases\n"}
+{"prompt":"Database Journal ->","completion":" A log of all database transactions. Should a database becomes corrupted, the database can be reverted to a backup copy, and then subsequent transactions can be \"replayed\" from the journal, restoring database integrity\n"}
+{"prompt":"Database management system ->","completion":" Database management system, controls all across all access to the database and enforces database security\n"}
+{"prompt":"Database replication ->","completion":" Mirrors a Live database, allowing simultaneous reads and writes to multiple replicated databases by clients\n"}
+{"prompt":"Database shadowing ->","completion":" two or more identical databases that are updated simultaneously\n"}
+{"prompt":"Database view ->","completion":" The results of a database query\n"}
+{"prompt":"DBA ->","completion":" Database Administrator, role that manages databases\n"}
+{"prompt":"DBMS ->","completion":" Database management system, controls all across all access to the database and enforces database security\n"}
+{"prompt":"DCE ->","completion":" Data Circuit-Terminating equipment, a device that networks DTEs, such as a router\n"}
+{"prompt":"DCOM ->","completion":" Distributed component object model, locates, and connects objects across a network\n"}
+{"prompt":"DDL ->","completion":" Data Definition language, used to create, modify, and delete tables\n"}
+{"prompt":"DevOps ->","completion":" The practice of incorporating developers and members of operations and quality assurance (QA) staff into software development projects to align their incentives and enable frequent, efficient, and reliable releases of software products.\n"}
+{"prompt":"Distributed component object model ->","completion":" DCOM\n"}
+{"prompt":"Encapsulation \/ Object ->","completion":" Contains and hides the details of an object's method\n"}
+{"prompt":"Entity Integrity ->","completion":" Requires that each tuple has a unique primary key that is not null\n"}
+{"prompt":"Expert systems ->","completion":" Seeks to replicate the knowledge and decision-making capability of human experts\n"}
+{"prompt":"Fitness function ->","completion":" Genetic algorithm concept that assigns a score to an evolved algorithm\n"}
+{"prompt":"Foreign key ->","completion":" A key in a related database table that matches a primary key in the parent database\n"}
+{"prompt":"Free software ->","completion":" Controversial term that is defined differently by different groups. \"Gree\" may mean free of charge, or \"free\" may mean the user is free to use the software in any way they would like, including modifying it\n"}
+{"prompt":"Freeware ->","completion":" Software that is free of charge\n"}
+{"prompt":"Full disclosure ->","completion":" The controverial practice of releasing vulnerability details publicly\n"}
+{"prompt":"Genetic algorithms ->","completion":" Creating computer algorithms via Darwinian evolution principles\n"}
+{"prompt":"Genetic programming ->","completion":" Creating entire software programs (usually in the form of Lisp source code) via Darwinian evolution principles\n"}
+{"prompt":"Grandfather-Father-Son Tape Rotation ->","completion":" 3 sets of tapes: 7 daily tapes (the son), 4 weekly tapes (the father), and 12 monthly tapes (the grandfather). Once per week a son tape graduates to father. Once every 5 weeks a father graduates into a grandfather. After running for a year this method ensures there are backup tapes available for the past 7 days, weekly tapes for the past 4 weeks, and monthly tapes for the past 12 months.\n"}
+{"prompt":"Hierarchical Database ->","completion":" Database that forms a tree\n"}
+{"prompt":"Inference Engines ->","completion":" Expert system component that follows the tree formed by knowledge base, and fires a rule where there is a match\n"}
+{"prompt":"Inheritance ->","completion":" Objects inherit capabilities from their parent class\n"}
+{"prompt":"Initial ->","completion":" Software Capability Maturity Model (CMM) Phase 1: software process is characterized as ad hoc, and occasionally even chaotic. Few processes are defined, and success depends on individual effort\n"}
+{"prompt":"Instance ->","completion":" One copy of an object\n"}
+{"prompt":"Integrated Product Team (IPT) ->","completion":" Integrated product team, a customer-focused group that focuses on the entire lifecycle of a project\n"}
+{"prompt":"Interface Definition Language (IDL) ->","completion":" Interface definition language, used by COBRA objects to communicate\n"}
+{"prompt":"Interpreted Code ->","completion":" Code that is compiled on the fly each time the program is run\n"}
+{"prompt":"Isolation ->","completion":" The containment of processes in a system in such a way that they are separated from one another to ensure integrity and confidentiality.\n"}
+{"prompt":"Knowledge base ->","completion":" Expert system component that consists of 'if\/then' statements\n"}
+{"prompt":"Machine code ->","completion":" Software that is executed directly by the CPU\n"}
+{"prompt":"Method ->","completion":" The function performed by an object\n"}
+{"prompt":"Middleware ->","completion":" Connects programs to programs\n"}
+{"prompt":"Mutation ->","completion":" Genetic algorithm concept that introduces random changes to algorithms\n"}
+{"prompt":"Network model (databases) ->","completion":" Type of hierarchical database that allows branches to have two parents\n"}
+{"prompt":"Normalization ->","completion":" Seeks to make the data in a database table logically concise, organized, and consistent\n"}
+{"prompt":"Object encapsulation ->","completion":" Treats a process as a 'black box'\n"}
+{"prompt":"Object Linking and Embedding ->","completion":" See OLE\n"}
+{"prompt":"Object Request Brokers ->","completion":" See ORBs\n"}
+{"prompt":"Object-Oriented Analysis ->","completion":" See OOA\n"}
+{"prompt":"Object-Oriented Database ->","completion":" Database that combines data with functions (code) in an object-oriented framework\n"}
+{"prompt":"Object-Oriented Design ->","completion":" See OOD\n"}
+{"prompt":"Object-Oriented Programming ->","completion":" See OOP\n"}
+{"prompt":"Open source ->","completion":" Software with publicly published source code, allowing anyone to inspect, modify, or compile the code\n"}
+{"prompt":"Optimizing ->","completion":" CMM Phase 5\n"}
+{"prompt":"ORBs ->","completion":" Object Request Brokers, used to locate and communicate with objects\n"}
+{"prompt":"Parent Class ->","completion":" OOP concept that allows objects to inherit capabilities from parents\n"}
+{"prompt":"Polymorphism ->","completion":" OOP concept based on the Greek roots 'polyu' and 'morph' meaning many and forms, respectively): allows an object to overload an operator, for example\n"}
+{"prompt":"Primary key ->","completion":" Unique attribute in a relational database table, used to join tables (as in SQL or MS Access)\n"}
+{"prompt":"Private key ->","completion":" One half of asymmetric key pair, must be kept secure (cousin of symmetric key pair)\n"}
+{"prompt":"Problem domain ->","completion":" A specific challenge that needs to be addressed\n"}
+{"prompt":"Procedural languages ->","completion":" Programming languages that use subroutines, procedures, and functions\n"}
+{"prompt":"Product owner ->","completion":" Scrum role that serves as the voice of the business unit\n"}
+{"prompt":"Query language ->","completion":" Language that searches and updates a database\n"}
+{"prompt":"Race condition ->","completion":" TOCTOU\n"}
+{"prompt":"RAD ->","completion":" Rapid application development, rapidly develops software via the use of prototypes, 'dummy' GUIs, back-end databases, and more\n"}
+{"prompt":"Rapid application development ->","completion":" RAD\n"}
+{"prompt":"Referential integrity ->","completion":" Requires that every foreign key in a secondary table matches a primary key in the parent table\n"}
+{"prompt":"Relational database ->","completion":" Contains two-dimensional tables of related data.\n"}
+{"prompt":"Remote journaling ->","completion":" Saves database checkpoints and the database journal to a remote site. In the event of failure at the primary site, the database may be recovered.\n"}
+{"prompt":"Repeatable ->","completion":" CMM \/ Capability Maturity Model phase 2.\n"}
+{"prompt":"Responsible Disclosure ->","completion":" The practice of privately sharing vulnerability information with a vendor and withholding public release until a patch is available.\n"}
+{"prompt":"RFI \/ Remote File Inclusion ->","completion":" Altering web URLs to include remote content.\n"}
+{"prompt":"Rollback ->","completion":" Restores a database after a failed commit.\n"}
+{"prompt":"Sashimi Model ->","completion":" Development model with highly overlapping steps; it can be thought of as a real-world successor to the Waterfall Model.\n"}
+{"prompt":"Savepoint ->","completion":" A clean snapshot of the database tables.\n"}
+{"prompt":"Schema ->","completion":" Describes the attributes and values of the database tables.\n"}
+{"prompt":"Scrum ->","completion":" Agile development model that uses small teams, roles include Scrum Master and Product Owner.\n"}
+{"prompt":"Scrum Master ->","completion":" Senior member of the organization who acts as a coach for the Scrum team.\n"}
+{"prompt":"SDLC \/ Systems Development Life Cycle (Applications) ->","completion":" A system development model that focuses on security in every phase.\n"}
+{"prompt":"Semantic integrity ->","completion":" Requires that each value is consistent with the attribute data type\n"}
+{"prompt":"Shadow Database ->","completion":" Similar to a replicated database, with one key difference: a shadow database mirrors all changes made to a primary database, but clients do not access the shadow.\n"}
+{"prompt":"Shareware ->","completion":" Fully functional proprietary software that may be initially used free of charge. If the user continues to use the Shareware for a specific period of time, the shareware license typically requires payment.\n"}
+{"prompt":"Simulation test ->","completion":" Recovery from a pretend disaster, goes beyond talking about the process and actually has teams carry out the recovery process.\n"}
+{"prompt":"Source Code ->","completion":" Computer programming language instructions that are written in text that must be translated into machine code before execution by the CPU\n"}
+{"prompt":"Spiral Model ->","completion":" Software Development model designed to control risk\n"}
+{"prompt":"SQL ->","completion":" Structured Query Language, the most popular database query language\n"}
+{"prompt":"Table ->","completion":" A group of related data in a relational database\n"}
+{"prompt":"Time of Check\/Time of Use (TOCTOU) ->","completion":" Altering a condition after it has been checked by the operating system, but before it is used\n"}
+{"prompt":"Top-down Approach ->","completion":" An approach in which the initiation, support, and direction for a project come from top management and work their way down through middle management and then to staff members.\n"}
+{"prompt":"Top-Down Programming ->","completion":" Starts with the broadest and highest level requirements (the concept of the final program) works down towards the low-level technical implementation details\n"}
+{"prompt":"Trojan horse ->","completion":" A computer program that has an apparently or actually useful function, but that also contains hidden malicious capabilities to exploit a vulnerability and\/or provide unauthorized access into a system.\n"}
+{"prompt":"Tuple ->","completion":" A row in a relational database table\n"}
+{"prompt":"Validation ->","completion":" The act of performing tests and evaluations to test a system's security level to see if it complies with security specifications and requirements.\n"}
+{"prompt":"Virus ->","completion":" A small application or string of code that infects applications. The main function of a virus is to reproduce, and it requires a host application to do this. It can damage data directly or degrade system performance.\n"}
+{"prompt":"Waterfall model ->","completion":" An application development model that uses rigid phases; when one phase ends, the next begins\n"}
+{"prompt":"XP ->","completion":" eXtreme Programming, an agile development method that uses pairs of programmers who work off detailed specifications\n"}
+{"prompt":"XP \/ Extreme Programming ->","completion":" An Agile development method that uses pairs of programmers who work off a detailed specification\n"}
+{"prompt":"XSS ->","completion":" Cross Site Scripting, third-party execution of web scripting languages such as JavaScript within the security context of a trusted site\n"}
+{"prompt":"DevOps ->","completion":" A more agile development and support model, echoing agile programming methods including Sashimi and Scrum. Developers directly support operational function\n"}
+{"prompt":"Confidentiality ->","completion":" Seeks to prevent the unauthorized disclosure of information\n"}
+{"prompt":"COCOM ->","completion":" Committee for Multilateral Export Controls, a munitions law which was in effect from 1947 to 1994. It was designed to control the export of critical technologies (including cryptography) to \"Iron Curtain\" countries during the cold war\n"}
+{"prompt":"Chain of custody ->","completion":" Requires that once evidence is acquired, full documentation regarding who, what, when and where evidence was handled is maintained\n"}
+{"prompt":"Black hat ->","completion":" Unethical hacker or researcher\n"}
+{"prompt":"CIRT ->","completion":" Computer Incident Response Team, a team that performs incident handling\n"}
+{"prompt":"Computer Incident Response Team ->","completion":" See - CIRT\n"}
+{"prompt":"Layered defense ->","completion":" See—Defense-in-depth Application of multiple safeguards that span multiple domains to protect an asset\n"}
+{"prompt":"Trojan ->","completion":" Malware that performs two functions: one benign (such as a game) and one malicious. Also called trojan horses\n"}
+{"prompt":"Worm ->","completion":" Malware that self-propagates\n"}
+{"prompt":"Malicious Code ->","completion":" See—Malware -Malicious software, any type of software which attacks an application or system\n"}
+{"prompt":"Malware ->","completion":" Malicious software, any type of software which attacks an application or system\n"}
+{"prompt":"Managed mode ->","completion":" 802.11 mode that clients use to connect to an AP\n"}
+{"prompt":"Master mode ->","completion":" 802.11 mode used by APs\n"}
+{"prompt":"Message Integrity Check ->","completion":" See—MIC - Message Integrity Check, integrity protocol used by WPA2\n"}
+{"prompt":"MIC ->","completion":" Message Integrity Check, integrity protocol used by WPA2\n"}
+{"prompt":"Monitor mode ->","completion":" 802.11 read-only mode used for sniffing\n"}
+{"prompt":"Voice over Internet Protocol ->","completion":" VOIP - carries voice via data networks\n"}
+{"prompt":"Penetration testing ->","completion":" Penetration testing is a method of evaluating the security of a computer system or network by simulating an attack that a malicious hacker would carry out. This is done so that vulnerabilities and weaknesses can be uncovered.\n"}
+{"prompt":"Least privilege ->","completion":" See—Principle of least privilege - Granting subjects the minimum amount of authorization required to do their jobs, also known as minimum necessary access\n"}
+{"prompt":"Least privilege ->","completion":" The security principle that requires each subject to be granted the most restrictive set of privileges needed for the performance of authorized tasks. The application of this principle limits the damage that can result from accident, error, or unauthorized use.\n"}
+{"prompt":"Training ->","completion":" Security control designed to provide a skill set\n"}
+{"prompt":"Principle of least privilege ->","completion":" granting subjects the minimum amount of authorization required (never give a person, program or process more permission than is required)\n"}
+{"prompt":"BIOS ->","completion":" Basic Input Output System, typically stored in firmware\n"}
+{"prompt":"Certification ->","completion":" A detailed inspection that verifies whether a system meets the documented security requirements\n"}
+{"prompt":"Compartmentalization ->","completion":" Technical enforcement of need to know\n"}
+{"prompt":"Central Processing Unit - CPU ->","completion":" Central Processing Unit, the \"brains\" of the computer, capable of controlling and performing mathematical calculations\n"}
+{"prompt":"CPU ->","completion":" Central Processing Unit, the \"brains\" of the computer, capable of controlling and performing mathematical calculations\n"}
+{"prompt":"Tactical Goals ->","completion":" Midterm goals to accomplish. These may be milestones to accomplish within a project or specific projects to accomplish in a year. Strategic, tactical, and operational goals make up a planning horizon.\n"}
+{"prompt":"Memory ->","completion":" Volatile or nonvolatile computer storage\n"}
+{"prompt":"RAM ->","completion":" Random Access Memory, memory that allows any address to be directly accessed\n"}
+{"prompt":"Random Access Memory ->","completion":" RAM\n"}
+{"prompt":"Whole Disk Encryption ->","completion":" FDE - Full Disk Encryption\n"}
+{"prompt":"WORM ->","completion":" Write Once Read Many, memory which can be written to once, and read many times\n"}
+{"prompt":"need to know ->","completion":" A security principle stating that users should have access only to the information and resources necessary to complete their tasks that fulfill their roles within an organization. Need to know is commonly used in access control criteria by operating systems and applications.\n"}
+{"prompt":"System unit ->","completion":" Computer case, containing all of the internal electronic components including motherboard, internal disk drives, power supply, etc.\n"}
+{"prompt":"BOOTP ->","completion":" Bootstrap Protocol, used for bootstrapping via a network by diskless systems\n"}
+{"prompt":"Bootstrap Protocol - BOOTP ->","completion":" Bootstrap Protocol, used for bootstrapping via a network by diskless systems\n"}
+{"prompt":"Coaxial ->","completion":" Network cabling that has an inner copper core separated by an insulator from a metallic braid or shield\n"}
+{"prompt":"Collision ->","completion":" Two or more plaintexts that generate the same hash\n"}
+{"prompt":"Data Encryption Algorithm ->","completion":" See - DEA\n"}
+{"prompt":"Cipher ->","completion":" A cryptographic algorithm\n"}
+{"prompt":"Brute force attack ->","completion":" Attack that attempts every possible key or combination\n"}
+{"prompt":"Cryptanalysis ->","completion":" The science of breaking encrypted messages (recovering their meaning)\n"}
+{"prompt":"Brute-Force Attack ->","completion":" An attack that continually tries different inputs to achieve a predefined goal, which can be used to obtain credentials for unauthorized access.\n"}
+{"prompt":"Layering ->","completion":" Separates hardware and software functionality into modular tiers\n"}
+{"prompt":"MD5 ->","completion":" Message Digest 5, a hash function that creates a 128-bit message digest\n"}
+{"prompt":"Message Digest 5 ->","completion":" See—MD5 - Message Digest 5, a hash function that creates a 128-bit message digest\n"}
+{"prompt":"SSL ->","completion":" Secure Sockets Layer, authenticates and provides confidentiality to network traffic such as web traffic\n"}
+{"prompt":"Unshielded Twisted Pair (UTP) ->","completion":" Network cabling that uses pairs of wire twisted together\n"}
+{"prompt":"Virtual Private Network ->","completion":" VPN - a method to send private data over an insecure network, such as the internet\n"}
+{"prompt":"Virtualization ->","completion":" Adds a software layer between an operating system and the underlying computer hardware\n"}
+{"prompt":"WLAN ->","completion":" Wireless Local Area Network\n"}
+{"prompt":"Rainbow Table ->","completion":" Acts as a database that contains the hashed output for most or all possible passwords (as mentioned on the McGyver TV show)\n"}
+{"prompt":"Mandatory Access Control ->","completion":" See—MAC - Media Access Control, layer 2 protocol that transfers data to and from the physical layer\n"}
+{"prompt":"MAC (Access Control) ->","completion":" Mandatory Access Control, system-enforced access control based on subject's clearances and object's labels\n"}
+{"prompt":"Aggregation ->","completion":" The act of combining information from separate sources of a lower classification level that results in the creation of information of a higher classification level, which the subject does not have the necessary rights to access.\n"}
+{"prompt":"Java ->","completion":" An object-oriented language used not only to write applets but also as a general-purpose programming language\n"}
+{"prompt":"Teardrop Attack ->","completion":" A malformed packet DoS attack that targets issues with systems'fragmentation reassembly\n"}
+{"prompt":"Challenge Handshake Authentication Protocol - CHAP ->","completion":" Challenge Handshake Authentication Protocol, a more secure network authentication protocol that uses a shared secret\n"}
+{"prompt":"CHAP ->","completion":" Challenge Handshake Authentication Protocol, a more secure network authentication protocol that uses a shared secret\n"}
+{"prompt":"Data hiding ->","completion":" See - Encapsulation (object)\n"}
+{"prompt":"Browsing ->","completion":" Searching through storage media looking for specific information without necessarily knowing what format the information is in. A browsing attack is one in which the attacker looks around a computer system either to see what looks interesting or to find specific information.\n"}
+{"prompt":"RADIUS ->","completion":" Remote Authentication Dial-In User Service, a UDP-based third-party authentication system (like pvault)\n"}
+{"prompt":"SMDS ->","completion":" Switched Multimegabit Data Service, an older WAN technology that is similar to ATM\n"}
+{"prompt":"Smurf attack ->","completion":" Attack using an ICMP flood and directed broadcast addresses\n"}
+{"prompt":"Spoofing ->","completion":" Masquerading as another endpoint\n"}
+{"prompt":"SVC ->","completion":" Switched Virtual Circuit, a circuit that is established on demand\n"}
+{"prompt":"DAC ->","completion":" Discretionary Access Control, gives subjects full control of objects they have or have been given access to, including sharing objects with other subjects\n"}
+{"prompt":"Accountability ->","completion":" A security principle indicating that individuals must be identifiable and must be held responsible for their actions.\n"}
+{"prompt":"Change management ->","completion":" The process of understanding, communicating, and documenting changes\n"}
+{"prompt":"Software escrow ->","completion":" Source code held by a neutral third party\n"}
+{"prompt":"Zero-day exploit ->","completion":" An exploit for a vulnerability with no available vendor patch\n"}
+{"prompt":"Access Control Mechanism ->","completion":" Administrative, physical, or technical control that is designed to detect and prevent unauthorized access to a resource or environment.\n"}
+{"prompt":"Add-on Security ->","completion":" Security protection mechanisms that are hardware or software retrofitted to a system to increase that system's protection level.\n"}
+{"prompt":"Callback ->","completion":" A procedure for identifying a system that accessed an environment remotely. In a callback, the host system disconnects the caller and then dials the authorized telephone number of the remote terminal in order to reestablish the connection. Synonymous with dialback.\n"}
+{"prompt":"Challenge\/Response Method ->","completion":" A method used to verify the identity of a subject by sending the subject an unpredictable or random value. If the subject responds with the expected value in return, the subject is authenticated.\n"}
+{"prompt":"Compartment ->","completion":" A class of information that has need-to-know access controls beyond those normally provided for access to confidential, secret, or top-secret information. A compartment is the same thing as a category within a security label. Just because a subject has the proper classification, that does not mean it has a need to know. The category, or compartment, of the security label enforces the subject's need to know.\n"}
+{"prompt":"Compensating Controls ->","completion":" Controls that are alternative procedures designed to reduce the risk. They are used to \"counterbalance\" the effects of an internal control weakness.\n"}
+{"prompt":"Compromise ->","completion":" A violation of the security policy of a system or an organization such that unauthorized disclosure or modification of sensitive information occurs.\n"}
+{"prompt":"Computer Fraud ->","completion":" Computer-related crimes involving deliberate misrepresentation, modification, or disclosure of data in order to compromise a system or obtain something of value.\n"}
+{"prompt":"Confidentiality ->","completion":" A security principle that works to ensure that information is not disclosed to unauthorized subjects.\n"}
+{"prompt":"Confinement ->","completion":" Controlling information in a manner that prevents sensitive data from being leaked from a program to another program, subject, or object in an unauthorized manner.\n"}
+{"prompt":"Data Manipulation Language ->","completion":" Data Manipulation language, used to query and update data stored in the tables\n"}
+{"prompt":"Data Terminal Equipment ->","completion":" Data terminal equipment, a Network \"terminal,\" such as a desktop, server, or actual terminal\n"}
+{"prompt":"Decryption ->","completion":" Converts a cipher text into plaintext\n"}
+{"prompt":"Defined ->","completion":" CMM phase 3\n"}
+{"prompt":"Depth of Field ->","completion":" The area that is in focus\n"}
+{"prompt":"Digital ->","completion":" Communication that transfers data in bits: ones and zeroes\n"}
+{"prompt":"Direct sequence spread spectrum ->","completion":" Direct Sequence Spared Spectrum, uses the entire wireless band at once\n"}
+{"prompt":"Directory path traversal ->","completion":" Escaping from the root of a webserver (such as \/var\/www) into the regular file system by referencing directories such as \"..\/..\"\n"}
+{"prompt":"Disassembler ->","completion":" Attempt to convert machine language into assembly\n"}
+{"prompt":"Distance vector ->","completion":" Routing protocol that uses a simple metric, such as hop count\n"}
+{"prompt":"DML ->","completion":" Data Manipulation language, used to query and update data stored in the tables\n"}
+{"prompt":"Dumpster diving ->","completion":" A Physical attack in which a person recovers trash in hopes of finding sensitive information that has been merely discarded in whole rather than being destroyed\n"}
+{"prompt":"Electronic Backups ->","completion":" Data that is stored electronically and can be retrieved in case of disruptive event or disaster\n"}
+{"prompt":"Encryption ->","completion":" Converts the plaintext to a ciphertext\n"}
+{"prompt":"Ethernet ->","completion":" Dominant local area networking technology that transmits network data via frames\n"}
+{"prompt":"Flat file ->","completion":" Text file that contains multiple lines of data, each in a standard format\n"}
+{"prompt":"Forward chaining ->","completion":" Expert system mode that starts with no premise, and works forward to determine a solution\n"}
+{"prompt":"Fraggle attack ->","completion":" Smurf attack variation which uses UDP instead of ICMP\n"}
+{"prompt":"Frame ->","completion":" Layer 2 PDU\n"}
+{"prompt":"Internet of Things (IOT) ->","completion":" Internet of Things, Internet-connected embedded devices such as thermostats, baby monitors, appliances, light bulbs, smart meters, etc...\n"}
+{"prompt":"Keyboard unit ->","completion":" The external keyboard\n"}
+{"prompt":"LAND attack ->","completion":" DoS attack which uses a spoofed SYN packet that includes the victim's IP address as both source and destination\n"}
+{"prompt":"Logic bomb ->","completion":" A malicious program that is triggered when a logical condition is met, such as after a number of transactions have been processes, or on a specific date\n"}
+{"prompt":"MAC (Telecommunications) ->","completion":" Media Access Control, layer 2 protocol that transfers data to and from the physical layer\n"}
+{"prompt":"MAC address ->","completion":" Layer 2 address of a NIC\n"}
+{"prompt":"MAD ->","completion":" See—MTD - Maximum Tolerable Downtime, the total time a system can be inoperable before an organization is severely impacted\n"}
+{"prompt":"Managed ->","completion":" CMM phase 4\n"}
+{"prompt":"node ->","completion":" A system that is connected to a network.\n"}
+{"prompt":"Object ->","completion":" A data file\n"}
+{"prompt":"Object ->","completion":" A \"black box\" that combines code and data, and sends and receives messages\n"}
+{"prompt":"operational goals ->","completion":" Daily goals to be accomplished to ensure the proper operation of an environment.\n"}
+{"prompt":"operator ->","completion":" An individual who supports the operations of computer systems—usually a mainframe. The individual may monitor the execution of the system, control the flow of jobs, and develop and schedule batch jobs.\n"}
+{"prompt":"penetration ->","completion":" Successful attempt at circumventing security controls and gaining access to a system.\n"}
+{"prompt":"plan maintenance ->","completion":" Seventh step of the NIST SP 800-34 contingency planning process\n"}
+{"prompt":"plan testing, training and exercises ->","completion":" Sixth step of the NISt SP 800-34 contingency planning process\n"}
+{"prompt":"platform as a service ->","completion":" PaaS\n"}
+{"prompt":"POTS ->","completion":" Plain old telephone service, analog phone service (RJ11 fax machine)\n"}
+{"prompt":"privacy ->","completion":" A security principle that protects an individual's information and employs controls to ensure that this information is not disseminated or accessed in an unauthorized manner.\n"}
+{"prompt":"protection ring ->","completion":" An architecture that provides hierarchies of privileged operation modes of a system, which gives certain access rights to processes that are authorized to operate in that mode. Supports the integrity and confidentiality requirements of multitasking operating systems and enables the operating system to protect itself from user programs and rogue processes.\n"}
+{"prompt":"pseudo-flaw ->","completion":" An apparent loophole deliberately implanted in an operating system or program as a trap for intruders.\n"}
+{"prompt":"Threat Agents ->","completion":" The actors causing the threats that exploit a vulnerability\n"}
+{"prompt":"Threat vectors ->","completion":" Vectors which allow exploits to connect to vulnerabilities\n"}
