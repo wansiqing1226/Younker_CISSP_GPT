@@ -1,181 +1,242 @@
-101. Susan is setting up the network for a local coffee house and wants to ensure that users
-have to authenticate using an email address and agree to the coffee house's acceptable use
-policy before being allowed on the network. What technology should she use to do this?
-A. 802.11
-B. NAC
-C. A captive portal
-D. A wireless gateway
+1.Which of the following choices is an easy and less expensive way to improve physical security?
+A.Surveillance Cameras
+B.Man Traps
+C.Bunkering
+D.Additional Lighting
 
-102. What is another term for active monitoring?
-A. Synthetic
-B. Passive
-C. Reactive
-D. Span-based
+2.With regard to finding a network address, knows the IP address and broadcasts to find the matching MAC address; whereas
+knows the MAC address and broadcasts to find the matching IP address.
+A.ARP / DNS
+B.ARP / RARP
+C.RARP / DNS
+D.DNS / ARP
 
-103. The TCP header is made up of elements such as the source port, destination port, sequence
-number, and others. How many bytes long is the TCP header?
-A. 8 bytes
-B. 20 to 60 bytes
-C. 64 bytes
-D. 64 to 128 bytes
+3.Security policies can be categorized as regulatory, advisory or informative. What is true of an advisory policy?
+A.An advisory policy may not describe how confidential information will be processed.
+B.An advisory policy may describe the consequences of not abiding by the rules and procedures.
+C.An advisory policy cannot be enforced.
+D.An advisory policy is designed for educational purposes.
 
-104. What security considerations should Fred's company require for sending sensitive data
-over the cellular network?
-A. They should use the same requirements as data over any public network.
-B. Cellular provider networks are private networks and should not require special
-consideration.
-C. Encrypt all traffic to ensure confidentiality.
-D. Require the use of WAP for all data sent from the phone.
+4.A Microsoft Exchange email server uses the X.400 protocol internally to exchange email with Outlook clients within the network. What standard protocol does it use to send mail to other servers on the Internet?
+A.IMAP4
+B.X.400
+C.SMTP
+D.POP3
 
-105. Fred intends to attend a major hacker conference this year. What should he do when connecting to his cellular provider's 4G network while at the conference?
-A. Continue normal usage.
-B. Discontinue all usage; towers can be spoofed.
-C. Only use trusted Wi-Fi networks.
-D. Connect to his company's encrypted VPN service
+5.How would you distinguish S-HTTP from HTTPS?
+A.S-HTTP is used to protect the communication channel between two computers while HTTPS protects a message that is sent from one computer to another.
+B.S-HTTP is SSL over HTTP whereas HTTPS uses encryption.
+C.HTTPS is the same as S-HTTP and both protect the communication channel between two computers.
+D.HTTPS is used to protect the communication channel between two computers while S-HTTP protects a message that is sent from one computer
+to another.
 
-106. What are the most likely circumstances that would cause a remote wipe of a mobile phone
-to fail?
-A. The phone has a passcode on it.
-B. The phone cannot contact a network.
-C. The provider has not unlocked the phone.
-D. The phone is in use.
+6.Kerberos is a very effective authentication mechanism. One of its weaknesses is that:
+A.Denial-of-service attacks can easily be launched and these severely compromise the Kerberos server.
+B.The encryption processes are based on passwords and traditional password- cracking attacks can compromise the system.
+C.The realm key used for initial trusted communications is easily hacked.
+D.The ticket-granting ticket granted by the Ticket Granting Server to a requesting resource is susceptible to interception.
 
-107. Elaine is developing a business continuity plan for her organization. What value should she
-seek to minimize?
-A. AV
-B. SSL
-C. RTO
-D. MTO
+7.Which of the following locations would be the least useful in keeping a copy of a business continuity and disaster recovery plan?
+A.An offsite location.
+B.A backup location.
+C.The BCP coordinator's home.
+D.The primary location
 
-108. NIST Special Publication 800-53, revision 4, describes two measures of assurance. Which
-measure of developmental assurance is best described as measuring "the rigor, level of
-detail, and formality of the artifacts produced during the design and development of the
-hardware, software, and firmware components of information systems (e.g., functional
-specifications, high-level design, low-level design, source code)"?
-A. Coverage
-B. Suitability
-C. Affirmation
-D. Depth
+8.Data on a server has been compromised due to a hack into the system. A forensic investigator needs to copy the data on a hard disk on the server. Which of these will be the first step to be performed as part of the process?
+A.Use a file copy method to make sure that all files (including hidden and system files) are copied.
+B.Create an image of the hard disk onto the new media.
+C.Ensure that a bit-level copy is performed sector by sector, using a specialized tool.
+D.Ensure that the new media into which the hard disk is being copied is
+properly purged.
 
-109. Place the list of disaster recovery test types listed in order of their potential impact on the
-business, starting with the least impactful and progressing through the most impactful.
-A. Checklist review
-B. Parallel test
-C. Tabletop exercise
-D. Full interruption test
+9.Which of these is not a characteristic of an Intrusion Detection System?
+A.Intrusion Detection Systems should have a fail-safe configuration.
+B.Intrusion Detection Systems are relatively inexpensive.
+C.Intrusion Detection Systems should detect tampering.
+D.Intrusion Detection Systems require human intervention to respond to alarms.
 
-110. Chris is experiencing issues with the quality of network service on his organization's network. The primary symptom is that packets are becoming corrupted as they travel from
-their source to their destination. What term describes the issue Chris is facing?
-A. Latency
-B. Jitter
-C. Interference
-D. Packet loss
+10.A company has implemented an HTTP/HTTPS proxy server for the purpose of filtering World Wide Web content. Administrators place the proxy server so that it physically resides on the local area network. They assign it an IP address and the internal interface of the border firewall is then configured to only accept port 80/443 requests from the IP address. What is this an example of?
+A.AD
+B.DAC
+C.ACL
+D.RBAC
 
-111. Kathleen has been asked to choose a highly formalized code review process for her software quality assurance team to use. Which of the following software testing processes is
-the most rigorous and formal?
-A. Fagan
-B. Fuzzing
-C. Over the shoulder
-D. Pair programming
+11.When an attacker is considering attacking a networked target, what is the first thing he or she does?
+A.Inject bad packets
+B.Hijack a session
+C.Run exploitation scripts
+D.A port scan
 
-112. Frank is attempting to protect his web application against cross-site scripting attacks.
-Users do not need to provide input containing scripts, so he decided the most effective
-way to filter would be to write a filter on the server that watches for the <SCRIPT> tag and
-removes it. What is the issue with Frank's approach?
-A. Validation should always be performed on the client side.
-B. Attackers may use XSS filter evasion techniques against this approach.
-C. Server-side validation requires removing all HTML tags, not just the <SCRIPT> tag.
-D. There is no problem with Frank's approach.
+12.What is a method by which a malicious user can use a weakness in an application, operating system, protocol, or network stack called?
+A.Bug
+B.Vulnerability
+C.Exploit
+D.Worm
 
-113. Which one of the following is not an object-oriented programming language?
-A. C++
-B. Java
-C. Fortran
-D. C#
+13.Samantha works for an accounting firm with the responsibility of traveling to client sites to assist in SOX compliance checking. Which of the following accurately describes this work?
+A.External Audit
+B.Blackbox Penetration Testing
+C.Whitebox Penetration Testing
+D.Internal Audit
 
-114. Uptown Records Management recently entered into a contract with a hospital for the
-secure storage of medical records. The hospital is a HIPAA-covered entity. What type of
-agreement must the two organizations sign to remain compliant with HIPAA?
-A. NDA
-B. NCA
-C. BAA
-D. SLA
+14.Jeremy is hired by a publicly traded company to perform SOX compliance checking. Which of the following accurately describes this work?
+A.Blackbox Penetration Testing
+B.External Audit
+C.Internal Audit
+D.Whitebox Penetration Testing
 
-115. Norm would like to conduct a disaster recovery test for his organization and wants to
-choose the most thorough type of test, recognizing that it may be quite disruptive. What
-type of test should Norm choose?
-A. Full interruption test
-B. Parallel test
-C. Tabletop exercise
-D. Checklist review
+15.Senior management plans to implement a security policy that outlines what can and cannot be done with employees' e-mail for monitoring purposes and to address privacy issues. What would such a security policy be called?
+A.Advisory
+B.Issue-specific
+C.Organizational
+D.System-specific
 
-116. Ed is building a network that supports IPv6 but needs to connect it to an IPv4 network.
-What type of device should Ed place between the networks?
-A. A switch
-B. A router
-C. A bridge
-D. A gateway
+16.A hospital is setting up a Magnetic Resonance Imaging (MRI) center. You are called in to advise the hospital during the planning phase. Which type of cabling would you advise the hospital to use for this center, given that cost is not a major concern?
+A.UTP
+B.Fiber-optic cabling
+C.Copper cables
+D.STP
 
-117. What encryption standard won the competition for certification as the Advanced Encryption Standard?
-A. Blowfish
-B. Twofish
-C. Rijndael
-D. Skipjack
+17.Concurrency issues within a database due to improper table locking can cause tables to be over-written with stale information. What sort of an issue is this?
+A.Confidentiality
+B.Relativity
+C.Availability
+D.Integrity
 
-118. Match each of the numbered services with the lettered network port commonly used by
-that service. Each item should be used exactly once.
-Service
-1. DNS
-2. HTTPS
-3. SSH
-4. RDP
-5. MSSQL
-Network port
-A. TCP port 443
-B. TCP port 3389
-C. TCP port 1433
-D. UDP port 53
-E. TCP port 22
+18.Which of the following mechanisms ensures the integrity of data held within a database?
+A.Multi-level commit
+B.Four-phase commit
+C.Single-phase commit
+D.Two-phase commit
 
-119. Which one of the following actions is not required under the EU General Data Protection
-Regulation?
-A. Organizations must allow individuals to opt out of information sharing.
-B. Organizations must provide individuals with lists of employees with access to
-information.
-C. Organizations must use proper mechanisms to protect data against unauthorized
-disclosure.
-D. Organizations must have a dispute resolution process for privacy issues.
+19.What kind of a policy would a large organization typically enforce during a 15- day period prior to New Year's day?
+A.Apply a restriction on emails and ensure that no executable file attachments are allowed entry or exit the company.
+B.Apply a minimal restriction on emails and ensure that no image attachments (ex: jpg, gif files) are allowed in email.
+C.Regulate all email traffic and apply a restriction on the kinds of attachments that can be allowed via email.
+D.Apply a restriction and ban use of email for personal purposes.
 
-120. Tammy is selecting a disaster recovery facility for her organization. She would like to
-choose a facility that balances the time required to recover operations with the cost
-involved. What type of facility should she choose?
-A. Hot site
-B. Warm site
-C. Cold site
-D. Red site
+20.Evaluation Assurance Levels (EALs) are assigned under the Common Criteria Model, and give an indication of the thoroughness of testing. A formally verified system design would be classified as:
+A.EAL5
+B.EAL7
+C.EAL1
+D.EAL6
 
-121. What layer of the OSI model is associated with datagrams?
-A. Session
-B. Transport
-C. Network
-D. Data Link
+21.Which of the following is not true about cable media?
+A.Cables that are not in use should be disconnected from networking devices.
+B.UTP and fiber-optic cables are common types of cable media.
+C.All cable media should be periodically checked for tampering.
+D.UTP cables are very safe and cannot be tapped.
 
-122. Which one of the following is not a valid key length for the Advanced Encryption Standard?
-A. 128 bits
-B. 192 bits
-C. 256 bits
-D. 384 bits
+22.The process by which the credentials of one entity is established to another utilizing credentials such as passwords, one-time tokens, or PIN numbers is known as:
+A.Authentication
+B.Accountability
+C.Administration
+D.Authorization
 
-123. Which one of the following technologies provides a function interface that allows developers to directly interact with systems without knowing the implementation details of that
-system?
-A. Data dictionary
-B. Object model
-C. Source code
-D. API
+23.A key logger and remote admin tool was used to harvest passwords and the digital signature of a senior officer of a brokerage firm. Several orders to sell were then issued without approval, all signed by the firm's digital signature. What basic goal of cryptosystems has been compromised?
+A.Secrecy
+B.Integrity
+C.Confidentiality
+D.Authenticity
 
-125. When Ben lists the files on a Linux system, he sees a set of attributes as shown in the following image.
-The letters rwx indicate different levels of what?
-A. Identification
-B. Authorization
-C. Authentication
-D. Accountability
+24.The process of granting privileges to an entity based upon the time of day, group membership, network address, or verification of its credentials is known as:
+A.Authorization
+B.Administration
+C.Authentication
+D.Accounting
+
+25.An important tool used in risk management is risk analysis. Which statement about risk analysis is not true?
+A.Threats are given an exposure rating in a qualitative risk analysis
+B.The Delphi technique can be used in a qualitative risk analysis.
+C.A risk analysis must be directed by senior management.
+D.The Herzberg principle applies to qualitative risk analysis.
+
+26.Which of the following access controls is based on the sensitivity of the data?
+A.Sensitivity-dependent access control
+B.Content-dependent access control
+C.Context-dependent access control
+D.Data-independent access control
+
+27.This early security model was constructed mainly for the purpose of preserving the confidentiality of data. It is characterized by the concepts of "cannot read up" and "cannot write down". Which of the following security models does this most likely refer to?
+A.Bell-LaPadula Model
+B.Clark-Wilson Model
+C.Brewer and Nash Model
+D.Biba Model
+
+28.Biometric devices are among the most accurate and secure methods of authentication available. However, some users find them obtrusive and are therefore reluctant to use them. What biometric recognition system is the most widely accepted and implemented?
+A.Iris patterns based
+B.Retinal pattern based
+C.Facial features based
+D.Fingerprint based
+
+29.If asked to select a fast and relatively unbreakable algorithm amongst the choices of DES, Double DES, Blowfish and Triple DES, which one would you choose?
+A.DES
+B.Blowfish
+C.Triple DES
+D.Double DES
+
+30.This security model was developed to prevent potential conflicts of interest. It employs dynamic access controls that change depending on a subject's access history. Which of the following security models does this describe?
+A.Biba Model
+B.Brewer and Nash Model
+C.Clark-Wilson Model
+D.Bell-LaPadula Model
+
+31.When a graph of the error rate in a biometric system is plotted against its sensitivity, the point where the false accept rate intersects the false reject rate curve is known as:
+A.DMZ
+B.FRR
+C.CER
+D.FAR
+
+32.You are currently doing a comprehensive technical evaluation on the security components within your organization. What does this refer to?
+A.Affirmation
+B.Accreditation
+C.Hallmark
+D.Certification
+
+33.In change control, requires comprehensive testing and assessment of a system's security, while requires management to formally accept the system at the documented security level.
+A.Accreditation, Authorization
+B.Certification, Accreditation
+C.Auditing, Authorization
+D.Auditing, Certification
+
+34.Which of the following is not part of the current state assessment phase for BCP/DRP?
+A.Business impact assessment (BIA)
+B.Benchmark / Peer Review
+C.Threat analysis
+D.Design initial acceptance testing of plans
+
+35.What type of iris lens would typically be used in an area that has fixed lighting?
+A.Manual
+B.Annuciator
+C.Automatic
+D.Charged-coupled
+
+36.An employee of a company attempted to steal a CD disk containing confidential information. He was caught in the act by a security guard. Which of these types of evidences would be the strongest in a legal prosecution against the employee?
+A.Corroborative evidence of the employee's action
+B.Best evidence of the employee's action
+C.Conclusive evidence of the employee's action
+D.Direct evidence of the employee's action
+
+37.A company encrypts a file with AES encryption. It is sent to the intended recipient via email with the password in the body of the message. If the email is intercepted, which basic goal of a cryptosystem has been compromised?
+A.Nonrepudiation
+B.Integrity
+C.Confidentiality
+D.Authenticity
+
+38.A purchasing agent is placing an order using a credit card account. The account number is on the order form. Which of the following ways would be the least secure method to complete this transaction?
+A.HTTPS
+B.Courier Service
+C.Fax
+D.Postal Mail
+
+39.A security professional has been invited to be on the panel during the planning phase of constructing and setting up a data center. Which of these would be a good suggestion from her?
+A.Construct the data center as multiple rooms to minimize risk.
+B.Construct the data center as a single room at ground level.
+C.Construct the data center as a single room in the basement.
+D.Construct the data center as a single room on the highest floor of the building to avoid break-ins.
+
+40.The AIC triad is made up of three main principles of information security: availability, integrity and confidentiality. Which of the following threats can compromise data integrity?
+A.Viruses
+B.Social engineering
+C.Denial-of-Service (DoS) attack
+Dumpster diving

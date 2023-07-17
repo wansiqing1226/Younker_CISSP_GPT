@@ -1,125 +1,81 @@
-101. C. Captive portals are designed to show a page that can require actions like accepting an
-agreement or recording an email address before connecting clients to the Internet. NAC is
-designed to verify whether clients meet a security profile, which doesn't match the needs of
-most coffee shops. A wireless gateway is a tool to access a cellular or other network, rather
-than a way to interact with users before they connect, and 802.11 is the family of IEEE
-wireless standards.
+1.D - Adding lights is a simple and cost-effective way to prevent physical security breaches. Bright lights generally deter intruders. Mantraps, camera systems, and bunkers are comparatively expensive solutions and require much more administrative effort. [Security Operations]
 
-102. A. Active monitoring is also known as synthetic monitoring and relies on prerecorded or
-generated traffic to test systems for performance and other issues. Passive monitoring uses
-span ports, network taps, or similar technologies to capture actual traffic for analysis.
-Reactive monitoring is not a commonly used industry term.
+2.B - Address Resolution Protocol (ARP) knows the IP address, but needs to match it with a hardware (MAC) address. In contrast, the Reverse Address Resolution Protocol (RARP) knows the hardware (MAC) address but needs to find the IP address. [Communications and Network Security]
 
-103. B. TCP headers can be 20 to 60 bytes long depending on options that are set.
+3.B - Advisory policies explain to employees the actions and conduct that should and should not take place within the company. These policies also describe the consequences of failing to follow the organization's rules and procedures. [Security and Risk Management]
 
-104. A. Cellular networks have the same issues that any public network does. Encryption
-requirements should match those that the organization selects for other public networks
-like hotels, conference Wi-Fi, and similar scenarios. Encrypting all data is difficult and
-adds overhead, so it should not be the default answer unless the company specifically
-requires it. WAP is a dated wireless application protocol and is not in broad use; requiring
-it would be difficult. WAP does provide TLS, which would help when in use.
+4.C - SMTP is an Internet standard for email transmission between email servers. A client may read mail received through one of the other protocols. However, this question revolves around how one mail server can send messages to another mail server. [Security Operations]
 
-105. D. Fred's best option is to use an encrypted, trusted VPN service to tunnel all of his data
-usage. Trusted Wi-Fi networks are unlikely to exist at a hacker conference, normal usage
-is dangerous due to the proliferation of technology that allows fake towers to be set up,
-and discontinuing all usage won't support Fred's business needs.
+5.D - Although both HTTPS and S-HTTP sound very similar, they are different in that, HTTPS is used to protect the communication channel between two computers while S-HTTP protects a message that is sent from one computer to the other. [Asset Security]
 
-106. B. Remote wipe tools are a useful solution, but they only work if the phone can access
-either a cellular or Wi-Fi network. Remote wipe solutions are designed to wipe data from
-the phone regardless of whether it is in use or has a passcode. Providers unlock phones for
-use on other cellular networks rather than for wiping or other feature support.
+6.B - Although Kerberos is by itself a very robust authentication mechanism, its weak link lies in the fact that it uses passwords for encryption and these can be subject to traditional attacks. [Identity and Access Management]
 
-107. C. The goal of business continuity planning exercises is to reduce the amount of time
-required to restore operations. This is done by minimizing the recovery time objective (RTO).
+7.D - Among the choices listed, the primary facility is the least effective for storage of the business continuity and disaster recovery plans. This is because in case of a disaster striking the facility, it may not be possible to retrieve the plans. The other choices, including keeping a copy of the plan in the BCP coordinator's home will serve the purpose. [Security and Risk Management]
 
-108. D. NIST Special Publication 800-53 describes depth and coverage. Depth is the level of
-detail, rigor, and formality of artifacts produced during design and development. Coverage
-is the breadth and scope of the assessment conducted. If you encounter a question like
-this and are not familiar with the details of a standard like NIST 800-53, or may not
-remember them, focus on the meanings of each word and the details of the question. We
-can easily rule out affirmation, which isn't a measure. Suitability is a possibility, but depth
-fits better than suitability or coverage.
+8.D - Among the given choices, the first step to be performed is to purge the new
+media completely before copying the hard disk contents. There have been instances where the media has contained prior information and was considered inadmissible in courts. [Security and Risk Management]
 
-109. The disaster recovery test types, listed in order of their potential impact on the business
-from the least impactful to the most impactful, are as follows:
-A. Checklist review
-B. Parallel test
-C. Tabletop exercise
-D. Full interruption Test
+9.B - Intrusion Detection Systems are quite expensive. The other choices listed are valid characteristics of IDSs. [Security Operations]
 
-110. C. Interference is electrical noise or other disruptions that corrupt the contents of packets.
-Latency is a delay in the delivery of packets from their source to their destination. Jitter is
-a variation in the latency for different packets. Packet loss is the disappearance of packets
-in transit that requires retransmission.
+10.C - An Access Control List (ACL) is a filter that can be configured, in this case, to drop packets that do not come from a particular source. This configuration is sometimes referred to as a "Proxy on a Stick", and can be more stable than a multi-homed proxy system. [Identity and Access Management]
 
-111. A. Fagan inspections follow a rigorous, highly structured process to perform code review,
-using a planning, overview, preparation, inspection, rework, and follow-up cycle. Fuzzing
-feeds unexpected input to programs, while over-the-shoulder code review is simply a
-review by having another developer meet with them to review code using a walk-through.
-Pair programming uses a pair of developers, one of whom writes code while both talk
-through the coding and development process.
+11.D - An attacker will first need to know what ports are open on a system so that the attack strategy can be built from that knowledge. An attacker can also run exploitation scripts but they will take much longer and may be of no use if a web server is not running on the target machine. [Security Operations]
 
-112. B. While removing the <SCRIPT> tag from user input, it is not sufficient, as a user may
-easily evade this filter by encoding the tag with an XSS filter evasion technique. Frank
-was correct to perform validation on the server rather than at the client, but he should use
-validation that limits user input to allowed values, rather than filtering out one potentially
-malicious tag.
+12.C - An exploit is a way by which a system can be altered or used without authorization for purposes other than those of the owner. A vulnerability is the possibility that exploitation might take place A bug is a flaw in software that might cause a vulnerability to exist. [Software Development Security]
 
-113. C. Fortran is a functional programming language. Java, C++, and C# are all objectoriented languages, meaning that they use the object model and approach programming as
-describing the interactions between objects.
+13.A - An external auditor is hired to assist an organization. This can take the form of an on-going contractor engagement, or a brief spot-check. [Security Operations]
 
-114. C. HIPAA requires that anyone working with personal health information on behalf of a
-HIPAA-covered entity be subject to the terms of a business associates agreement (BAA).
+14.C - An internal auditor works for the organization. While some auditors can also perform penetration testing, it is usually not their main job function. [Security Operations]
 
-115. A. During a full interruption test, the team takes down the primary site and confirms that
-the disaster recovery site is capable of handling regular operations. The full interruption
-test is the most thorough test but also the most disruptive. During a parallel test, the
-team actually activates the disaster recovery site for testing but the primary site remains
-operational. The checklist review is the least disruptive type of disaster recovery test.
-During a checklist review, team members each review the contents of their disaster
-recovery checklists on their own and suggest any necessary changes. During a tabletop
-exercise, team members come together and walk through a scenario without making any
-changes to information systems.
+15.B - Issue-specific policies are also called functional implementing policies. They address specific issues that management feels needs more explanation and attention. [Security and Risk Management]
 
-116. D. Ed's best option is to install an IPv6 to IPv4 gateway that can translate traffic between
-the networks. A bridge would be appropriate for different types of networks, whereas a
-router would make sense if the networks were similar. A modern switch might be able
-to carry both types of traffic but wouldn't be much help translating between the two
-protocols.
+16.B - An MRI center will likely be subject to high electromagnetic emission. Hence, only fiber-optic cabling and STP are options that can be used here among the choices given. Since cost is not a consideration, fiber-optic cabling is the preferred solution. [Communications and Network Security]
 
-117. C. The Rijndael block cipher was selected as the winner and is the cryptographic
-algorithm underlying the Advanced Encryption Standard (AES).
+17.D - When data becomes inconsistent or untrustworthy, the integrity of the data is
+said to be compromised. Neither availability nor confidentiality is not an issue here. [Software Development Security]
 
-118. The services match with the network ports as follows:
-1. DNS: D. UDP port 53.
-2. HTTPS: A. TCP port 443.
-3. SSH: E. TCP port 22.
-4. RDP: B. TCP port 3389.
-5. MSSQL: C. TCP port 1433.
+18.D - A two-phase commit mechanism is a control used in databases that ensures the integrity of the data held within the database. The other choices are not valid. [Software Development Security]
 
-119. B. The EU General Data Protection Regulation does not require that organizations
-provide individuals with employee lists.
+19.C - As a trend, it has been found that a number of new viruses are released during the holiday season prior to New Year. The vulnerability that is exploited is that many emails with attachments (not only executables) that are carriers of viruses get exchanged during the holiday season. Having a restrictive email attachment policy helps control this to some extent. [Software Development Security]
 
-120. B. Tammy should choose a warm site. This type of facility meets her requirements for
-a good balance between cost and recovery time. It is less expensive than a hot site but
-facilitates faster recovery than a cold site. A red site is not a type of disaster recovery
-facility.
+20.B - As the assurance levels increase, the thoroughness and testing performed increases. Thus the package where system design is verified and tested is the highest level EAL7 [Security Engineering]
 
-121. B. When data reaches the Transport layer, it is sent as segments (TCP) or datagrams
-(UDP). Above the Transport layer, data becomes a data stream, while below the Transport
-layer they are converted to packets at the Network layer, frames at the Data Link layer,
-and bits at the Physical layer.
+21.D - UTP cables are not necessarily safe. It is possible to tap into the middle of UTP cables and use sniffers to capture network traffic. [Security Operations]
 
-122. D. The Advanced Encryption Standard supports encryption with 128-bit keys, 192-bit
-keys, and 256-bit keys.
+22.A - Authentication verifies that the credentials submitted by an entity match its stored information. Authentication does not track usage or actions (accountability) or prevent / deny access to resources (authorization). Often, multifactor authentication is used for better authentication. This is a combination of something you know (password / PIN), something you have (smartcard/token), and/or something you are (biometrics). [Identity and Access Management]
 
-123. D. An application programming interface (API) allows developers to create a direct
-method for other users to interact with their systems through an abstraction that does
-not require knowledge of the implementation details. Access to object models, source
-code, and data dictionaries also indirectly facilitate interaction but do so in a manner that
-provides other developers with implementation details.
+23.D - Authenticity means that the sender is validated and identified. In this case, the messages were all properly sent and executed using the firm's digital signature but they were not authentic. [Asset Security]
 
-125. B. The permissions granted on files in Linux designate what authorized users can do
-with those files-read, write, or execute. In the image shown, all users can read, write,
-and execute index.html, whereas the owner can read, write, and execute example.txt, the
-group cannot, and everyone can write and execute it.
+24.A - Authorization allows users access to resources. It ensures that an entity has been given the necessary rights and privileges to perform requested actions. [Identity and Access Management]
+
+25.D - The Herzberg principle is not related to risk analysis. The other three are valid statements. [Security and Risk Management]
+
+26.B - Content-dependent access control is based on the sensitivity of the data. The more sensitive the data, the lesser the number of individuals who will have access to it. [Software Development Security]
+
+27.A - Bell-LaPadula was created for the U.S. Military in the 1970s for to protect secret information from leaking on multi-user and time-share mainframes. In such a system a subject cannot read information at a higher security level, or cannot read "up". At the same time, to prevent declassifying data inappropriately, a subject cannot save data to a lower security level, or cannot write "down". [Security Engineering]
+
+28.D - Biometrics is the science of measuring and statistically analyzing human biological characteristics. Biometric devices use a unique, measurable feature of an individual to authenticate their identity. Fingerprint scanning is widely accepted as a reliable means of human recognition and authentication, and is considered less obtrusive than other systems. [Security Operations]
+
+29.B - Blowfish is considered almost unbreakable considering today's computing standards. The other algorithms were considered unbreakable when they first came up. However, increase in computing power has now rendered them breakable. [Asset Security]
+
+30.B - Brewer and Nash was created to prevent conflicts of interest. For instance, an accounting firm has financial data from two companies that compete. An accountant who accesses the records of one is automatically locked away from accessing the records of the other. This method is significantly different from Bell-LaPadula, Biba, and Clark-Wilson in that the privileges dynamically adjust based upon activity. [Security Engineering]
+
+31.C - CER, or the Crossover Error Rate is the point at which the FAR (False Accept Rate) crosses the FRR (False Reject Rate). A DMZ is a demilitarized zone and is a networking concept. [Identity and Access Management]
+
+32.D - Certification is a process that involves a comprehensive technical evaluation on the components within your organization. The overall evaluations would involve risk analysis, safeguards, verification, auditing, and other tests that are able to assess the components in question. The end goal of the certification process should be to ensure that the products, systems, or components meet the overall security requirements of the organization. [Security Engineering]
+
+33.B - Certification is the process by which security components are evaluated technically for compliance to an applicable standard or policy. Accreditation is the formal acceptance by management that the system's security and functionality is adequate. [Software Development Security]
+
+34.D - Design initial acceptance testing of plans is done in the design and development phase of the BCP/DRP. The other three activities listed are done during the current state assessment phase. [Security and Risk Management]
+
+35.A - Closed-circuit TV (CCTV) systems have many components, which include cameras, transmitters, receivers, recording systems, and monitors. The camera used in a CCTV system has many characteristics that need to be taken into account. One of these characteristics is the lens. There are two kinds of irises used in camera lenses in CCTV systems - automatic and manual. Manual lenses would be used in areas with fixed lighting and automatic lenses are used in areas where the light changes from time to time. [Security Operations]
+
+36.C - Conclusive evidence would be the strongest and would not require any corroboration. [Security and Risk Management]
+
+37.C - Confidentiality means that unauthorized users cannot access the protected information. This is not a breach in authenticity because the source was never in question. [Asset Security]
+
+38.C - Courier Services can be bonded. There are many laws that make tampering with U.S. Mail a federal offense. HTTPS is a relatively secure asynchronously encrypted transmission. However, there is no guarantee that a fax will be picked up from the machine by the intended recipient. [Security Operations]
+
+39.B - Data centers should typically be at ground level so that they can be easily accessed by emergency crew. They should also be constructed as a single room which makes it easier to secure. The other options listed are not preferred ones. [Security Operations]
+
+40.A - Data integrity is compromised when it is modified by an unauthorized person or program and the accuracy of the data is no longer certain. Since a virus is able to alter system files and data, it can compromise data integrity. [Security and Risk Management]
